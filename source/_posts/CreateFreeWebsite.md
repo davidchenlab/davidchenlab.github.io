@@ -18,6 +18,7 @@ date: 2021-10-24 19:30:56
 ```sh
 1.申請Gamil
 
+
 2.申請000webhost虛擬主機(000webhost.com) -> 用第一步申請的Gamil登入 -> 下一步時安裝WordPress.org
 
 
@@ -40,6 +41,7 @@ date: 2021-10-24 19:30:56
 
 
 9.000webhost後台 -> Tools -> Set Web Address -> Add Domain -> 填入剛申請的freenom.com Domain -> Park Domain
+
 
 10.若開啟Domain出現 -> DNS_PROBE_FINISHED_NXDOMAIN -> cmd -> ipconfig/release 、 ipconfig/flushdns 、 ipconfig/renew
 
