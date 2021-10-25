@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ASTRA佈景主題套用</title>
+    <url>/posts/ebf5813d/</url>
+    <content><![CDATA[<h3 id="ASTRA佈景主題套用"><a href="#ASTRA佈景主題套用" class="headerlink" title="ASTRA佈景主題套用"></a>ASTRA佈景主題套用</h3><span id="more"></span>
+<p>這篇介紹ASTRA佈景主題套用。</p>
+<h3 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use"></a>How to use</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.安裝Starter Templates外掛</span><br><span class="line"></span><br><span class="line">2.點選see library -&gt; 選擇想要的佈景主題</span><br><span class="line"></span><br><span class="line">3.安裝Elementor編輯器</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Astra</category>
+      </categories>
+      <tags>
+        <tag>Astra</tag>
+        <tag>WordPress</tag>
+        <tag>Website</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>虛擬主機+WORDPRESS.ORG+FREENOM.COM+CLOUDFARE=架設網站</title>
     <url>/posts/3661c38e/</url>
     <content><![CDATA[<h3 id="虛擬主機-WORDPRESS-ORG-FREENOM-COM-CLOUDFARE-架設網站"><a href="#虛擬主機-WORDPRESS-ORG-FREENOM-COM-CLOUDFARE-架設網站" class="headerlink" title="虛擬主機+WORDPRESS.ORG+FREENOM.COM+CLOUDFARE=架設網站"></a>虛擬主機+WORDPRESS.ORG+FREENOM.COM+CLOUDFARE=架設網站</h3><span id="more"></span>
@@ -10,8 +25,8 @@
         <category>Website</category>
       </categories>
       <tags>
-        <tag>Website</tag>
         <tag>WordPress</tag>
+        <tag>Website</tag>
         <tag>Freenom</tag>
         <tag>Cloudfare</tag>
       </tags>
