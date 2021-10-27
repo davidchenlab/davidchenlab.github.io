@@ -53,6 +53,13 @@
 
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/WordPress/</loc>
+    <lastmod>2021-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/Website/</loc>
     <lastmod>2021-10-27</lastmod>
     <changefreq>daily</changefreq>
@@ -60,7 +67,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/WordPress/</loc>
+    <loc>https://davidchenlab.github.io/tags/SMTP/</loc>
     <lastmod>2021-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -81,6 +88,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/Astra/</loc>
+    <lastmod>2021-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/GoogleAnalytics/</loc>
     <lastmod>2021-10-27</lastmod>
     <changefreq>daily</changefreq>
@@ -94,31 +108,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://davidchenlab.github.io/tags/Astra/</loc>
-    <lastmod>2021-10-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/tags/SMTP/</loc>
-    <lastmod>2021-10-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Website/</loc>
+    <loc>https://davidchenlab.github.io/categories/WordPress/</loc>
     <lastmod>2021-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/WordPress/</loc>
+    <loc>https://davidchenlab.github.io/categories/Website/</loc>
     <lastmod>2021-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
