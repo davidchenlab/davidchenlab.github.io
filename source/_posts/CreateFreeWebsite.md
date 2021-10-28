@@ -1,5 +1,5 @@
 ---
-title: 虛擬主機+WORDPRESS.ORG+FREENOM.COM+CLOUDFARE=架設網站
+title: '虛擬主機 + WORDPRESS.ORG + FREENOM.COM + CLOUDFARE = 架設網站'
 categories:
   - Website
 tags:
