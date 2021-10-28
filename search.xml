@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS</title>
+    <url>/posts/ca5b9589/</url>
+    <content><![CDATA[<h3 id="INTRO-GOOGLE-ANALYTICS-FOR-WORDPRESS-BY-MONSTERINSIGHTS"><a href="#INTRO-GOOGLE-ANALYTICS-FOR-WORDPRESS-BY-MONSTERINSIGHTS" class="headerlink" title="INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS"></a>INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS</h3><span id="more"></span>
+<p>這篇介紹GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS。</p>
+<h3 id="Step-by-step"><a href="#Step-by-step" class="headerlink" title="Step by step"></a>Step by step</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.WordPress後台 -&gt; 外掛 -&gt; 搜尋並安裝Google Analytics <span class="keyword">for</span> WordPress by MonsterInsights</span><br><span class="line"></span><br><span class="line">2.建立Google Analytics帳號</span><br><span class="line"></span><br><span class="line">3.在Google Analytics管理 -&gt; 建立資源 -&gt; 顯示進階選項 -&gt; 點選&lt;建立通用 Analytics (分析) 資源&gt;</span><br><span class="line"></span><br><span class="line">4.填入網站網址 -&gt; 點選只建立通用 Analytics (分析) 資源</span><br><span class="line"></span><br><span class="line">5.在WordPress後台 -&gt; 外掛 -&gt; Google Analytics <span class="keyword">for</span> WordPress by MonsterInsights -&gt; Settings -&gt; Connect MonsterInsights -&gt; 完成設定</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>WordPress</category>
+      </categories>
+      <tags>
+        <tag>WordPress</tag>
+        <tag>Website</tag>
+        <tag>GoogleAnalytics</tag>
+        <tag>MonsterInsights</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>虛擬主機 + WORDPRESS.ORG + FREENOM.COM + CLOUDFARE = 架設網站</title>
     <url>/posts/3661c38e/</url>
     <content><![CDATA[<h3 id="虛擬主機-WORDPRESS-ORG-FREENOM-COM-CLOUDFARE-架設網站"><a href="#虛擬主機-WORDPRESS-ORG-FREENOM-COM-CLOUDFARE-架設網站" class="headerlink" title="虛擬主機+WORDPRESS.ORG+FREENOM.COM+CLOUDFARE=架設網站"></a>虛擬主機+WORDPRESS.ORG+FREENOM.COM+CLOUDFARE=架設網站</h3><span id="more"></span>
@@ -10,25 +26,10 @@
         <category>Website</category>
       </categories>
       <tags>
-        <tag>Website</tag>
         <tag>WordPress</tag>
+        <tag>Website</tag>
         <tag>Freenom</tag>
         <tag>Cloudfare</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ASTRA佈景主題套用</title>
-    <url>/posts/ebf5813d/</url>
-    <content><![CDATA[<h3 id="ASTRA佈景主題套用"><a href="#ASTRA佈景主題套用" class="headerlink" title="ASTRA佈景主題套用"></a>ASTRA佈景主題套用</h3><span id="more"></span>
-<p>這篇介紹ASTRA佈景主題套用。</p>
-<h3 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use"></a>How to use</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.安裝Starter Templates外掛</span><br><span class="line"></span><br><span class="line">2.點選see library -&gt; 選擇想要的佈景主題</span><br><span class="line"></span><br><span class="line">3.安裝Elementor編輯器</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Astra</category>
-      </categories>
-      <tags>
-        <tag>Website</tag>
-        <tag>WordPress</tag>
-        <tag>Astra</tag>
       </tags>
   </entry>
   <entry>
@@ -41,25 +42,41 @@
         <category>WordPress</category>
       </categories>
       <tags>
-        <tag>Website</tag>
         <tag>WordPress</tag>
+        <tag>Website</tag>
         <tag>SMTP</tag>
       </tags>
   </entry>
   <entry>
-    <title>INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS</title>
-    <url>/posts/ca5b9589/</url>
-    <content><![CDATA[<h3 id="INTRO-GOOGLE-ANALYTICS-FOR-WORDPRESS-BY-MONSTERINSIGHTS"><a href="#INTRO-GOOGLE-ANALYTICS-FOR-WORDPRESS-BY-MONSTERINSIGHTS" class="headerlink" title="INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS"></a>INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS</h3><span id="more"></span>
-<p>這篇介紹GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS。</p>
-<h3 id="Step-by-step"><a href="#Step-by-step" class="headerlink" title="Step by step"></a>Step by step</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.WordPress後台 -&gt; 外掛 -&gt; 搜尋並安裝Google Analytics <span class="keyword">for</span> WordPress by MonsterInsights</span><br><span class="line"></span><br><span class="line">2.建立Google Analytics帳號</span><br><span class="line"></span><br><span class="line">3.在Google Analytics管理 -&gt; 建立資源 -&gt; 顯示進階選項 -&gt; 點選&lt;建立通用 Analytics (分析) 資源&gt;</span><br><span class="line"></span><br><span class="line">4.填入網站網址 -&gt; 點選只建立通用 Analytics (分析) 資源</span><br><span class="line"></span><br><span class="line">5.在WordPress後台 -&gt; 外掛 -&gt; Google Analytics <span class="keyword">for</span> WordPress by MonsterInsights -&gt; Settings -&gt; Connect MonsterInsights -&gt; 完成設定</span><br></pre></td></tr></table></figure>]]></content>
+    <title>ASTRA佈景主題套用</title>
+    <url>/posts/ebf5813d/</url>
+    <content><![CDATA[<h3 id="ASTRA佈景主題套用"><a href="#ASTRA佈景主題套用" class="headerlink" title="ASTRA佈景主題套用"></a>ASTRA佈景主題套用</h3><span id="more"></span>
+<p>這篇介紹ASTRA佈景主題套用。</p>
+<h3 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use"></a>How to use</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.安裝Starter Templates外掛</span><br><span class="line"></span><br><span class="line">2.點選see library -&gt; 選擇想要的佈景主題</span><br><span class="line"></span><br><span class="line">3.安裝Elementor編輯器</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Astra</category>
+      </categories>
+      <tags>
+        <tag>WordPress</tag>
+        <tag>Website</tag>
+        <tag>Astra</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How To Solve Ftp_Put() CanNot Open That File NoSuch File Or Directory</title>
+    <url>/posts/f29c18d3/</url>
+    <content><![CDATA[<h3 id="How-To-Solve-Ftp-Put-CanNot-Open-That-File-NoSuch-File-Or-Directory"><a href="#How-To-Solve-Ftp-Put-CanNot-Open-That-File-NoSuch-File-Or-Directory" class="headerlink" title="How To Solve Ftp_Put() CanNot Open That File NoSuch File Or Directory"></a>How To Solve Ftp_Put() CanNot Open That File NoSuch File Or Directory</h3><span id="more"></span>
+<p>這篇介紹How To Solve Ftp_Put() CanNot Open That File NoSuch File Or Directory。</p>
+<h3 id="Reason-amp-Solution"><a href="#Reason-amp-Solution" class="headerlink" title="Reason &amp; Solution"></a>Reason &amp; Solution</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">Reason:用FTP上傳目錄至WordPress的Plugin，上傳到一半會出現Ftp_put(): Can’t Open That File: No Such File Or Directory.</span><br><span class="line"></span><br><span class="line">原因是000webhost的Dashboard中的Inode Usage Quota用到100%.</span><br><span class="line"></span><br><span class="line">解決方法:刪除用不到的Plugin、佈景主題以及文章…來降低數量</span><br></pre></td></tr></table></figure>
+]]></content>
       <categories>
         <category>WordPress</category>
       </categories>
       <tags>
-        <tag>Website</tag>
         <tag>WordPress</tag>
-        <tag>GoogleAnalytics</tag>
-        <tag>MonsterInsights</tag>
+        <tag>Website</tag>
+        <tag>FTP</tag>
+        <tag>000webhost</tag>
       </tags>
   </entry>
 </search>

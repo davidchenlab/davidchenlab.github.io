@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://davidchenlab.github.io/posts/f29c18d3/</loc>
+    
+    <lastmod>2021-10-28</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/posts/3661c38e/</loc>
     
     <lastmod>2021-10-28</lastmod>
@@ -53,6 +60,13 @@
 
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/WordPress/</loc>
+    <lastmod>2021-10-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/Website/</loc>
     <lastmod>2021-10-28</lastmod>
     <changefreq>daily</changefreq>
@@ -60,7 +74,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/WordPress/</loc>
+    <loc>https://davidchenlab.github.io/tags/GoogleAnalytics/</loc>
+    <lastmod>2021-10-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/tags/MonsterInsights/</loc>
     <lastmod>2021-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -81,13 +102,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Astra/</loc>
-    <lastmod>2021-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/tags/SMTP/</loc>
     <lastmod>2021-10-28</lastmod>
     <changefreq>daily</changefreq>
@@ -95,20 +109,34 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/GoogleAnalytics/</loc>
+    <loc>https://davidchenlab.github.io/tags/Astra/</loc>
     <lastmod>2021-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/MonsterInsights/</loc>
+    <loc>https://davidchenlab.github.io/tags/FTP/</loc>
+    <lastmod>2021-10-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/tags/000webhost/</loc>
     <lastmod>2021-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://davidchenlab.github.io/categories/WordPress/</loc>
+    <lastmod>2021-10-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://davidchenlab.github.io/categories/Website/</loc>
@@ -119,13 +147,6 @@
   
   <url>
     <loc>https://davidchenlab.github.io/categories/Astra/</loc>
-    <lastmod>2021-10-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/categories/WordPress/</loc>
     <lastmod>2021-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
