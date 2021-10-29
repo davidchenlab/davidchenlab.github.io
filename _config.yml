@@ -131,7 +131,7 @@ nofollow:
   enable: true
   field: site
   exclude:  # 不加上 nofollow 的友情連結可以放在這邊。
-    - 'https://davidchenlab.ml'
+    - 'https://davidchenblog.com'
     - 'https://dtdivecenter.cf'
     
 abbrlink:
