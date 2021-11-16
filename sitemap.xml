@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://davidchenlab.github.io/posts/2182ee8e/</loc>
+    
+    <lastmod>2021-11-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/posts/9daa0aa/</loc>
+    
+    <lastmod>2021-11-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/posts/7c0a4bc2/</loc>
     
     <lastmod>2021-11-16</lastmod>
@@ -30,14 +44,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/3a0c4326/</loc>
+    <loc>https://davidchenlab.github.io/posts/9773facc/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/9773facc/</loc>
+    <loc>https://davidchenlab.github.io/posts/3a0c4326/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -58,6 +72,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/posts/82ad42ac/</loc>
+    
+    <lastmod>2021-11-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/posts/46d67672/</loc>
     
     <lastmod>2021-11-10</lastmod>
@@ -72,13 +93,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/82ad42ac/</loc>
-    
-    <lastmod>2021-11-10</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/posts/bdf3c7d7/</loc>
     
     <lastmod>2021-11-10</lastmod>
@@ -86,21 +100,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/2182ee8e/</loc>
-    
-    <lastmod>2021-11-10</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/posts/2f054923/</loc>
-    
-    <lastmod>2021-11-10</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/posts/9daa0aa/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -172,20 +172,6 @@
 
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Emergy/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/tags/Bike/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/tags/Coffee/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
@@ -200,6 +186,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/Emergy/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/Management/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
@@ -207,7 +200,21 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/Bike/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/Roasting/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/tags/Chrome/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -270,13 +277,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Chrome/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/tags/FTP/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
@@ -298,14 +298,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Astra/</loc>
+    <loc>https://davidchenlab.github.io/tags/Health/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Health/</loc>
+    <loc>https://davidchenlab.github.io/tags/Astra/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -314,7 +314,21 @@
 
   
   <url>
+    <loc>https://davidchenlab.github.io/categories/Coffee/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/categories/Emergy/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/categories/Management/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -328,14 +342,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Coffee/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/categories/Management/</loc>
+    <loc>https://davidchenlab.github.io/categories/Chrome/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -363,13 +370,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Chrome/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/categories/Psychology/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
@@ -377,14 +377,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Astra/</loc>
+    <loc>https://davidchenlab.github.io/categories/Health/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Health/</loc>
+    <loc>https://davidchenlab.github.io/categories/Astra/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
