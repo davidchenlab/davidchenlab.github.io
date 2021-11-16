@@ -172,6 +172,13 @@
 
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/Emergy/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/Coffee/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
@@ -193,21 +200,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Bike/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/tags/Emergy/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/tags/Management/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/tags/Bike/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -256,6 +256,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/SMTP/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/GoogleAnalytics/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
@@ -264,13 +271,6 @@
   
   <url>
     <loc>https://davidchenlab.github.io/tags/MonsterInsights/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/tags/SMTP/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -314,20 +314,6 @@
 
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Coffee/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/categories/Bike/</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/categories/Emergy/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
@@ -335,7 +321,21 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/categories/Coffee/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/categories/Management/</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/categories/Bike/</loc>
     <lastmod>2021-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
