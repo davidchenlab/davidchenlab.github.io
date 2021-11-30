@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/46d67672/</loc>
+    <loc>https://davidchenlab.github.io/posts/82ad42ac/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/82ad42ac/</loc>
+    <loc>https://davidchenlab.github.io/posts/46d67672/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -372,13 +372,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Bike/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/tags/Management/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -386,7 +379,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Investment/</loc>
+    <loc>https://davidchenlab.github.io/tags/Bike/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -394,6 +387,13 @@
   
   <url>
     <loc>https://davidchenlab.github.io/tags/Chrome/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/tags/Investment/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -435,20 +435,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/FTP/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/tags/000webhost/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/tags/GoogleAnalytics/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -477,6 +463,27 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/FTP/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/tags/000webhost/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/tags/Psychology/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/SiteKit/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -485,13 +492,6 @@
   
   <url>
     <loc>https://davidchenlab.github.io/tags/Adsense/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/tags/Psychology/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -542,13 +542,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Bike/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/categories/Management/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -556,7 +549,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Investment/</loc>
+    <loc>https://davidchenlab.github.io/categories/Bike/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -564,6 +557,13 @@
   
   <url>
     <loc>https://davidchenlab.github.io/categories/Chrome/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/categories/Investment/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
