@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/9773facc/</loc>
+    <loc>https://davidchenlab.github.io/posts/3a0c4326/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/3a0c4326/</loc>
+    <loc>https://davidchenlab.github.io/posts/9773facc/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/82ad42ac/</loc>
+    <loc>https://davidchenlab.github.io/posts/46d67672/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/posts/46d67672/</loc>
+    <loc>https://davidchenlab.github.io/posts/82ad42ac/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -344,6 +344,13 @@
 
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/Emergy/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/Coffee/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -358,14 +365,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Emergy/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/tags/Management/</loc>
+    <loc>https://davidchenlab.github.io/tags/Caffeine/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -379,7 +379,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Caffeine/</loc>
+    <loc>https://davidchenlab.github.io/tags/Management/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/tags/Investment/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -393,13 +400,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/WordPress/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/tags/Website/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -407,21 +407,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/GoogleAnalytics/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/tags/MonsterInsights/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/tags/Investment/</loc>
+    <loc>https://davidchenlab.github.io/tags/WordPress/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -442,6 +428,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/tags/SMTP/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/tags/FTP/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -456,14 +449,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Repair/</loc>
+    <loc>https://davidchenlab.github.io/tags/GoogleAnalytics/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/SMTP/</loc>
+    <loc>https://davidchenlab.github.io/tags/MonsterInsights/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -477,7 +470,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Psychology/</loc>
+    <loc>https://davidchenlab.github.io/tags/Repair/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -498,7 +491,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/tags/Health/</loc>
+    <loc>https://davidchenlab.github.io/tags/Psychology/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -506,6 +499,13 @@
   
   <url>
     <loc>https://davidchenlab.github.io/tags/Astra/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.github.io/tags/Health/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -528,13 +528,6 @@
 
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Coffee/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.github.io/categories/Emergy/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -542,7 +535,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Management/</loc>
+    <loc>https://davidchenlab.github.io/categories/Coffee/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -556,14 +549,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Chrome/</loc>
-    <lastmod>2021-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.github.io/categories/WordPress/</loc>
+    <loc>https://davidchenlab.github.io/categories/Management/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -577,6 +563,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/categories/Chrome/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/categories/Website/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -584,7 +577,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Repair/</loc>
+    <loc>https://davidchenlab.github.io/categories/WordPress/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -598,6 +591,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.github.io/categories/Repair/</loc>
+    <lastmod>2021-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.github.io/categories/Psychology/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -605,14 +605,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Health/</loc>
+    <loc>https://davidchenlab.github.io/categories/Astra/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.github.io/categories/Astra/</loc>
+    <loc>https://davidchenlab.github.io/categories/Health/</loc>
     <lastmod>2021-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
