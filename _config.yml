@@ -13,7 +13,7 @@ timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://davidchenlab.github.io/
+url: https://davidchenlab.com/
 permalink: posts/:abbrlink/
 permalink_defaults:
 pretty_urls:
@@ -132,7 +132,7 @@ nofollow:
   field: site
   exclude:  # 不加上 nofollow 的友情連結可以放在這邊。
     - 'https://davidchenblog.com'
-    - 'https://dtdivecenter.cf'
+    - 'https://dtdivecenter.com'
     
 abbrlink:
   alg: crc32      #support crc16(default) and crc32
