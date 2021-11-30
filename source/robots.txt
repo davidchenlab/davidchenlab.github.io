@@ -9,4 +9,4 @@ Disallow: /vendors/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: https://davidchenlab.github.io/sitemap.xml
+Sitemap: https://davidchenlab.com/sitemap.xml
