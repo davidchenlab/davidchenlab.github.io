@@ -1,10 +1,11 @@
 ---
-title: 'What Is Gambler's Fallacy?'
-date: 2021-12-02 09:57:33
+title: What Is Gamblers Fallacy?
 categories:
   - Psychology
 tags:
   - Psychology
+abbrlink: 7d7b93d3
+date: 2021-12-02 09:57:33
 ---
 ### What Is Gambler's Fallacy?
 <!--more-->
