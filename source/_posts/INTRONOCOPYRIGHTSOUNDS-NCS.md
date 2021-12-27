@@ -1,5 +1,5 @@
 ---
-title: INTRO NOCOPYRIGHTSOUNDS (NCS)
+title: INTRO NO COPY RIGHT SOUNDS (NCS)
 categories:
   - Music
 tags:
