@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/46d67672/</loc>
+    <loc>https://davidchenlab.com/posts/82ad42ac/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/82ad42ac/</loc>
+    <loc>https://davidchenlab.com/posts/46d67672/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -441,20 +441,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Roasting/</loc>
-    <lastmod>2022-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Bike/</loc>
-    <lastmod>2022-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/tags/Caffeine/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -469,6 +455,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Bike/</loc>
+    <lastmod>2022-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Management/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -476,7 +469,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Investment/</loc>
+    <loc>https://davidchenlab.com/tags/Roasting/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -490,7 +483,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Website/</loc>
+    <loc>https://davidchenlab.com/tags/Investment/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -504,14 +497,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Freenom/</loc>
+    <loc>https://davidchenlab.com/tags/Website/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Cloudfare/</loc>
+    <loc>https://davidchenlab.com/tags/SMTP/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -532,7 +525,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/SMTP/</loc>
+    <loc>https://davidchenlab.com/tags/Freenom/</loc>
+    <lastmod>2022-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Cloudfare/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -540,6 +540,20 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/Music/</loc>
+    <lastmod>2022-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Internet/</loc>
+    <lastmod>2022-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Fraud/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -574,6 +588,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Psychology/</loc>
+    <lastmod>2022-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/SiteKit/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -582,27 +603,6 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/Adsense/</loc>
-    <lastmod>2022-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Internet/</loc>
-    <lastmod>2022-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Fraud/</loc>
-    <lastmod>2022-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Psychology/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -637,14 +637,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Software/</loc>
+    <loc>https://davidchenlab.com/tags/Wine/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Wine/</loc>
+    <loc>https://davidchenlab.com/tags/Software/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -660,14 +660,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Bike/</loc>
+    <loc>https://davidchenlab.com/categories/Emergy/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Emergy/</loc>
+    <loc>https://davidchenlab.com/categories/Bike/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -681,13 +681,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Investment/</loc>
-    <lastmod>2022-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/categories/Chrome/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -695,7 +688,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Website/</loc>
+    <loc>https://davidchenlab.com/categories/Investment/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -709,7 +702,21 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Website/</loc>
+    <lastmod>2022-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/Music/</loc>
+    <lastmod>2022-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/Internet/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -724,13 +731,6 @@
   
   <url>
     <loc>https://davidchenlab.com/categories/Repair/</loc>
-    <lastmod>2022-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Internet/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -772,14 +772,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Software/</loc>
+    <loc>https://davidchenlab.com/categories/Wine/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Wine/</loc>
+    <loc>https://davidchenlab.com/categories/Software/</loc>
     <lastmod>2022-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
