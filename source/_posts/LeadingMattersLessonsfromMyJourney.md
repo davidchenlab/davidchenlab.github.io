@@ -1,10 +1,11 @@
 ---
-title: '這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey'
-date: 2022-02-15 17:15:11
+title: 這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey
 categories:
   - Book
 tags:
   - Book
+abbrlink: 590a6cf2
+date: 2022-02-15 08:28:11
 ---
 ### 這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey
 <!--more-->
