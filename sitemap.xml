@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://davidchenlab.com/posts/a8e9019/</loc>
+    
+    <lastmod>2022-03-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/590a6cf2/</loc>
     
     <lastmod>2022-02-15</lastmod>
@@ -479,7 +488,21 @@
 
   
   <url>
-    <loc>https://davidchenlab.com/tags/Emergy/</loc>
+    <loc>https://davidchenlab.com/tags/Apple/</loc>
+    <lastmod>2022-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Mac/</loc>
+    <lastmod>2022-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/SSD/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -500,6 +523,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Emergy/</loc>
+    <lastmod>2022-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Management/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -507,14 +537,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Bike/</loc>
+    <loc>https://davidchenlab.com/tags/Roasting/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Roasting/</loc>
+    <loc>https://davidchenlab.com/tags/Bike/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -535,7 +565,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Website/</loc>
+    <loc>https://davidchenlab.com/tags/Book/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -549,28 +579,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Freenom/</loc>
-    <lastmod>2022-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Cloudfare/</loc>
-    <lastmod>2022-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Book/</loc>
-    <lastmod>2022-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/SMTP/</loc>
+    <loc>https://davidchenlab.com/tags/Website/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -591,14 +600,21 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/GoogleAnalytics/</loc>
+    <loc>https://davidchenlab.com/tags/SMTP/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/MonsterInsights/</loc>
+    <loc>https://davidchenlab.com/tags/Freenom/</loc>
+    <lastmod>2022-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Cloudfare/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -626,7 +642,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Network/</loc>
+    <loc>https://davidchenlab.com/tags/GoogleAnalytics/</loc>
+    <lastmod>2022-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/MonsterInsights/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -648,6 +671,13 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/Spotify/</loc>
+    <lastmod>2022-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Network/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -689,14 +719,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Health/</loc>
+    <loc>https://davidchenlab.com/tags/Astra/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Astra/</loc>
+    <loc>https://davidchenlab.com/tags/Health/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -726,7 +756,7 @@
 
   
   <url>
-    <loc>https://davidchenlab.com/categories/Emergy/</loc>
+    <loc>https://davidchenlab.com/categories/MacAir/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -734,6 +764,13 @@
   
   <url>
     <loc>https://davidchenlab.com/categories/Coffee/</loc>
+    <lastmod>2022-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/Emergy/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -768,13 +805,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Website/</loc>
-    <lastmod>2022-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/categories/Book/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -783,6 +813,13 @@
   
   <url>
     <loc>https://davidchenlab.com/categories/WordPress/</loc>
+    <lastmod>2022-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/Website/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -803,14 +840,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Network/</loc>
+    <loc>https://davidchenlab.com/categories/Podcast/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Podcast/</loc>
+    <loc>https://davidchenlab.com/categories/Network/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -838,14 +875,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Health/</loc>
+    <loc>https://davidchenlab.com/categories/Astra/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Astra/</loc>
+    <loc>https://davidchenlab.com/categories/Health/</loc>
     <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
