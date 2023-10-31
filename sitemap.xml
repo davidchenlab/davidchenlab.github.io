@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://davidchenlab.com/posts/abc0d298/</loc>
+    
+    <lastmod>2023-10-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/4f37cb56/</loc>
     
     <lastmod>2023-10-31</lastmod>
@@ -302,15 +311,6 @@
     <loc>https://davidchenlab.com/posts/d9c7d267/</loc>
     
     <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/abc0d298/</loc>
-    
-    <lastmod>2022-11-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -686,7 +686,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/3a0c4326/</loc>
+    <loc>https://davidchenlab.com/posts/9773facc/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -695,7 +695,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/9773facc/</loc>
+    <loc>https://davidchenlab.com/posts/3a0c4326/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -731,7 +731,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/f688faff/</loc>
+    <loc>https://davidchenlab.com/posts/82ad42ac/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -740,7 +740,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/82ad42ac/</loc>
+    <loc>https://davidchenlab.com/posts/f688faff/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -848,27 +848,6 @@
 
   
   <url>
-    <loc>https://davidchenlab.com/tags/Emergy/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Taxi/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Traffic/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/tags/Apple/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -890,6 +869,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Emergy/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/ChallengeTaiwan/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -897,7 +883,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Management/</loc>
+    <loc>https://davidchenlab.com/tags/Taxi/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Traffic/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -932,6 +925,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Management/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Bike/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -940,6 +940,13 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/Investment/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Chrome/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -981,7 +988,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Chrome/</loc>
+    <loc>https://davidchenlab.com/tags/GoPro7/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1003,13 +1010,6 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/SMTP/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/GoPro7/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1044,6 +1044,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Music/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Internet/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1052,20 +1059,6 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/Fraud/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Music/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Network/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1087,6 +1080,13 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/Spotify/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Network/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1142,13 +1142,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Astra/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/tags/Health/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1156,7 +1149,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Scam/</loc>
+    <loc>https://davidchenlab.com/tags/Astra/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1164,6 +1157,13 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/PersonalComputer/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Scam/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1198,6 +1198,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/PhysicalExamination/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Flight/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1212,21 +1219,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/BackPack/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/PhysicalExamination/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/tags/Google/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/BackPack/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1240,14 +1240,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Onsen/</loc>
+    <loc>https://davidchenlab.com/tags/Insurance/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Insurance/</loc>
+    <loc>https://davidchenlab.com/tags/Onsen/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1261,13 +1261,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Gas/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/tags/License/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1275,7 +1268,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/SuperMarket/</loc>
+    <loc>https://davidchenlab.com/tags/Car/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Gas/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1296,7 +1296,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Car/</loc>
+    <loc>https://davidchenlab.com/tags/SuperMarket/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1310,14 +1310,21 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/LaserEyeSurgery/</loc>
+    <loc>https://davidchenlab.com/tags/Fishing/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Regulator/</loc>
+    <loc>https://davidchenlab.com/tags/BoatFishing/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/LaserEyeSurgery/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1338,7 +1345,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Stock/</loc>
+    <loc>https://davidchenlab.com/tags/Regulator/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1359,14 +1366,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Fishing/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/BoatFishing/</loc>
+    <loc>https://davidchenlab.com/tags/Stock/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1389,21 +1389,14 @@
 
   
   <url>
-    <loc>https://davidchenlab.com/categories/Emergy/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Taxi/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/categories/MacAir/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/Emergy/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1417,7 +1410,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Management/</loc>
+    <loc>https://davidchenlab.com/categories/Taxi/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1438,6 +1431,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Management/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/Bike/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1446,6 +1446,13 @@
   
   <url>
     <loc>https://davidchenlab.com/categories/Investment/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/Chrome/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1466,7 +1473,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Chrome/</loc>
+    <loc>https://davidchenlab.com/categories/GoPro7/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1480,21 +1487,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/GoPro7/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/categories/Ledger/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Internet/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1508,7 +1501,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Network/</loc>
+    <loc>https://davidchenlab.com/categories/Internet/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1516,6 +1509,13 @@
   
   <url>
     <loc>https://davidchenlab.com/categories/Podcast/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/Network/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1550,13 +1550,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Astra/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/categories/Health/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1564,7 +1557,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Scam/</loc>
+    <loc>https://davidchenlab.com/categories/Astra/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1578,14 +1571,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/%E7%B5%B1%E4%B8%80%E7%99%BC%E7%A5%A8/</loc>
+    <loc>https://davidchenlab.com/categories/Scam/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Traffic/</loc>
+    <loc>https://davidchenlab.com/categories/%E7%B5%B1%E4%B8%80%E7%99%BC%E7%A5%A8/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1599,21 +1592,14 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Traffic/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/DebitCard/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Flight/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/BackPack/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1627,7 +1613,21 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Flight/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/Google/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/BackPack/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1641,14 +1641,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Onsen/</loc>
+    <loc>https://davidchenlab.com/categories/Insurance/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Insurance/</loc>
+    <loc>https://davidchenlab.com/categories/Onsen/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1662,14 +1662,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/TV/</loc>
+    <loc>https://davidchenlab.com/categories/Car/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Car/</loc>
+    <loc>https://davidchenlab.com/categories/TV/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1683,6 +1683,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Fishing/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/LaserEyeSurgery/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1690,14 +1697,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Regulator/</loc>
+    <loc>https://davidchenlab.com/categories/Marathon/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Marathon/</loc>
+    <loc>https://davidchenlab.com/categories/Regulator/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1712,13 +1719,6 @@
   
   <url>
     <loc>https://davidchenlab.com/categories/Software/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Fishing/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

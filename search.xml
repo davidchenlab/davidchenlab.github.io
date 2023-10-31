@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>20210513 停電 小知識</title>
-    <url>/posts/828a084/</url>
-    <content><![CDATA[<h3 id="20210513停電小知識"><a href="#20210513停電小知識" class="headerlink" title="20210513停電小知識"></a>20210513停電小知識</h3><span id="more"></span>
-<p>這篇介紹20210513停電小知識。</p>
-<h3 id="停電小知識"><a href="#停電小知識" class="headerlink" title="停電小知識"></a>停電小知識</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">台電將全台限電用戶分為 A、B、C、D、E、F 共六個組別，遇到限電措施實施時即會分</span><br><span class="line">區輪流限電。要怎麼知道自己家裡哪一個限電區，只要拿出電費帳單查看帳單金額上方</span><br><span class="line">的「輪流停電組別」即可知道。</span><br><span class="line"></span><br><span class="line">針對受到限電的一般用戶，台電將會有補償措施，計算方式為：</span><br><span class="line"></span><br><span class="line">底度費（或包制電費）× 4％ × 停電次數</span><br><span class="line">底度費：一般住宅用戶（單相低壓電表）每月底度為 20 度，依現行電價 1.63 元/度</span><br><span class="line">計算，每月底度費 32.6 元。全台用電戶共分為九個組別才對，一般限電會從工業用</span><br><span class="line">戶開始限電，之後才是民生用電，A 組和 B 組屬於緊急限電類型，只要系統有突發</span><br><span class="line">意外就會無預警限電（當然台電會盡量提前通知啦），C 組、D 組、E 組、F 組屬於</span><br><span class="line">計畫限電類型，如果台電知道隔天電力供應將會不足，會提前一天在下午四點前通知</span><br><span class="line">輪流限電，每組每次停電 50 分鐘。</span><br><span class="line">至於 H 組、I 組、J 組則屬於特殊不限電組，H 組包含國防、交通等重要用戶、I </span><br><span class="line">組屬於特高壓用戶、J 組則是台電電廠配電線路的變壓器饋線，因為性質特殊將不會</span><br><span class="line">限電。</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Emergy</category>
-      </categories>
-      <tags>
-        <tag>Emergy</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>55688 多元計程車 固定收費 經驗</title>
-    <url>/posts/db782bd2/</url>
-    <content><![CDATA[<h3 id="55688-多元計程車-固定收費-經驗"><a href="#55688-多元計程車-固定收費-經驗" class="headerlink" title="55688 多元計程車 固定收費 經驗"></a>55688 多元計程車 固定收費 經驗</h3><span id="more"></span>
-<p>這篇介紹55688 多元計程車 固定收費 經驗。</p>
-<h3 id="使用55688-App-多元計程車"><a href="#使用55688-App-多元計程車" class="headerlink" title="使用55688 App 多元計程車"></a>使用55688 App 多元計程車</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有兩種費用選擇</span><br><span class="line">1.跳錶</span><br><span class="line">2.固定收費</span><br><span class="line"></span><br><span class="line">經實測在沒有大塞車發生時，跳錶會比固定收費便宜一些。</span><br><span class="line">如果發生大塞車固定收費才會比跳錶便宜!</span><br><span class="line"></span><br><span class="line">若使用55688 固定收費是<span class="variable">$198</span>，但司機還是用跳錶方式計算</span><br><span class="line">最後跳錶是<span class="variable">$180</span>，但司機只會收到<span class="variable">$180</span>。</span><br><span class="line"><span class="variable">$18</span>元會被平台方收取~</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Taxi</category>
-      </categories>
-      <tags>
-        <tag>Taxi</tag>
-        <tag>Traffic</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2014 Mac Air Upgrade SSD Issue</title>
     <url>/posts/a8e9019/</url>
     <content><![CDATA[<h3 id="2014-Mac-Air-Upgrade-SSD-Issue"><a href="#2014-Mac-Air-Upgrade-SSD-Issue" class="headerlink" title="2014 Mac Air Upgrade SSD Issue"></a>2014 Mac Air Upgrade SSD Issue</h3><span id="more"></span>
@@ -40,6 +13,19 @@
         <tag>Apple</tag>
         <tag>Mac</tag>
         <tag>SSD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20210513 停電 小知識</title>
+    <url>/posts/828a084/</url>
+    <content><![CDATA[<h3 id="20210513停電小知識"><a href="#20210513停電小知識" class="headerlink" title="20210513停電小知識"></a>20210513停電小知識</h3><span id="more"></span>
+<p>這篇介紹20210513停電小知識。</p>
+<h3 id="停電小知識"><a href="#停電小知識" class="headerlink" title="停電小知識"></a>停電小知識</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">台電將全台限電用戶分為 A、B、C、D、E、F 共六個組別，遇到限電措施實施時即會分</span><br><span class="line">區輪流限電。要怎麼知道自己家裡哪一個限電區，只要拿出電費帳單查看帳單金額上方</span><br><span class="line">的「輪流停電組別」即可知道。</span><br><span class="line"></span><br><span class="line">針對受到限電的一般用戶，台電將會有補償措施，計算方式為：</span><br><span class="line"></span><br><span class="line">底度費（或包制電費）× 4％ × 停電次數</span><br><span class="line">底度費：一般住宅用戶（單相低壓電表）每月底度為 20 度，依現行電價 1.63 元/度</span><br><span class="line">計算，每月底度費 32.6 元。全台用電戶共分為九個組別才對，一般限電會從工業用</span><br><span class="line">戶開始限電，之後才是民生用電，A 組和 B 組屬於緊急限電類型，只要系統有突發</span><br><span class="line">意外就會無預警限電（當然台電會盡量提前通知啦），C 組、D 組、E 組、F 組屬於</span><br><span class="line">計畫限電類型，如果台電知道隔天電力供應將會不足，會提前一天在下午四點前通知</span><br><span class="line">輪流限電，每組每次停電 50 分鐘。</span><br><span class="line">至於 H 組、I 組、J 組則屬於特殊不限電組，H 組包含國防、交通等重要用戶、I </span><br><span class="line">組屬於特高壓用戶、J 組則是台電電廠配電線路的變壓器饋線，因為性質特殊將不會</span><br><span class="line">限電。</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Emergy</category>
+      </categories>
+      <tags>
+        <tag>Emergy</tag>
       </tags>
   </entry>
   <entry>
@@ -56,16 +42,17 @@
       </tags>
   </entry>
   <entry>
-    <title>OKR 目標與關鍵結果</title>
-    <url>/posts/2f054923/</url>
-    <content><![CDATA[<h3 id="OKR-目標與關鍵結果"><a href="#OKR-目標與關鍵結果" class="headerlink" title="OKR:目標與關鍵結果"></a>OKR:目標與關鍵結果</h3><span id="more"></span>
-<p>這篇簡介OKR:目標與關鍵結果。</p>
-<h3 id="Intro-OKR"><a href="#Intro-OKR" class="headerlink" title="Intro OKR"></a>Intro OKR</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">最著名使用OKR的公司，例如:Google、Intel…等。</span><br><span class="line"></span><br><span class="line">O – Objective 目標</span><br><span class="line"></span><br><span class="line">成功時，應該是什麼模樣? (有登山目標型及射月型兩種)</span><br><span class="line"></span><br><span class="line">KR – key Result</span><br><span class="line"></span><br><span class="line">要怎麼做才能達到成功? (明確且可量化的指標)</span><br><span class="line"></span><br><span class="line">訂定一個Objective 及 三個 Key Result 來達成績效指標。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>55688 多元計程車 固定收費 經驗</title>
+    <url>/posts/db782bd2/</url>
+    <content><![CDATA[<h3 id="55688-多元計程車-固定收費-經驗"><a href="#55688-多元計程車-固定收費-經驗" class="headerlink" title="55688 多元計程車 固定收費 經驗"></a>55688 多元計程車 固定收費 經驗</h3><span id="more"></span>
+<p>這篇介紹55688 多元計程車 固定收費 經驗。</p>
+<h3 id="使用55688-App-多元計程車"><a href="#使用55688-App-多元計程車" class="headerlink" title="使用55688 App 多元計程車"></a>使用55688 App 多元計程車</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有兩種費用選擇</span><br><span class="line">1.跳錶</span><br><span class="line">2.固定收費</span><br><span class="line"></span><br><span class="line">經實測在沒有大塞車發生時，跳錶會比固定收費便宜一些。</span><br><span class="line">如果發生大塞車固定收費才會比跳錶便宜!</span><br><span class="line"></span><br><span class="line">若使用55688 固定收費是<span class="variable">$198</span>，但司機還是用跳錶方式計算</span><br><span class="line">最後跳錶是<span class="variable">$180</span>，但司機只會收到<span class="variable">$180</span>。</span><br><span class="line"><span class="variable">$18</span>元會被平台方收取~</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Management</category>
+        <category>Taxi</category>
       </categories>
       <tags>
-        <tag>Management</tag>
+        <tag>Taxi</tag>
+        <tag>Traffic</tag>
       </tags>
   </entry>
   <entry>
@@ -112,11 +99,24 @@
       </tags>
   </entry>
   <entry>
-    <title>2014 GIANT TCR2 升級 SHIMANO GRX RX600</title>
-    <url>/posts/7c0a4bc2/</url>
-    <content><![CDATA[<h3 id="2014TCR2升級SHIMANO-GRX-RX600"><a href="#2014TCR2升級SHIMANO-GRX-RX600" class="headerlink" title="2014TCR2升級SHIMANO GRX RX600"></a>2014TCR2升級SHIMANO GRX RX600</h3><span id="more"></span>
-<p>這篇介紹2014TCR2升級SHIMANO GRX RX600。</p>
-<h3 id="升級過程"><a href="#升級過程" class="headerlink" title="升級過程"></a>升級過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">經過用2014TCR2騎過劍南路、中社、風櫃嘴、五指山、冷水坑後… 永遠都是小盤+飛輪</span><br><span class="line">最上面</span><br><span class="line"></span><br><span class="line">跟前輩討論後，發現要挑戰武嶺還是必須升級大盤從50-34T升級成46-30T</span><br><span class="line"></span><br><span class="line">升級經費:<span class="variable">$3000</span></span><br><span class="line"></span><br><span class="line">產品介紹:</span><br><span class="line"></span><br><span class="line">SHIMANO GRX – 沙地車前齒盤 – 2×11 速</span><br><span class="line"></span><br><span class="line">SHIMANO 的全新 FC-RX600-11 曲柄針對混合地形騎行實現了重量與效率的平衡。</span><br><span class="line">齒比選項可滿足沙地騎行的特殊要求，並可以為保持踏板踩踏節奏而維持更接近的</span><br><span class="line">齒比組合。</span><br><span class="line">2×11 速曲柄有 46-30T 齒盤組合以及 170、172.5 和 175 mm 的曲柄臂長度可選。</span><br><span class="line"></span><br><span class="line">適用於混合地形及騎乘風格的最佳齒比</span><br><span class="line">更寬齒比範圍適合長途騎乘或未知的地形</span><br><span class="line">齒比組合：46-30T</span><br></pre></td></tr></table></figure>]]></content>
+    <title>OKR 目標與關鍵結果</title>
+    <url>/posts/2f054923/</url>
+    <content><![CDATA[<h3 id="OKR-目標與關鍵結果"><a href="#OKR-目標與關鍵結果" class="headerlink" title="OKR:目標與關鍵結果"></a>OKR:目標與關鍵結果</h3><span id="more"></span>
+<p>這篇簡介OKR:目標與關鍵結果。</p>
+<h3 id="Intro-OKR"><a href="#Intro-OKR" class="headerlink" title="Intro OKR"></a>Intro OKR</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">最著名使用OKR的公司，例如:Google、Intel…等。</span><br><span class="line"></span><br><span class="line">O – Objective 目標</span><br><span class="line"></span><br><span class="line">成功時，應該是什麼模樣? (有登山目標型及射月型兩種)</span><br><span class="line"></span><br><span class="line">KR – key Result</span><br><span class="line"></span><br><span class="line">要怎麼做才能達到成功? (明確且可量化的指標)</span><br><span class="line"></span><br><span class="line">訂定一個Objective 及 三個 Key Result 來達成績效指標。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Management</category>
+      </categories>
+      <tags>
+        <tag>Management</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>內湖 單車山路 練腿力路線</title>
+    <url>/posts/2182ee8e/</url>
+    <content><![CDATA[<h3 id="內湖單車山路練腿力路線"><a href="#內湖單車山路練腿力路線" class="headerlink" title="內湖單車山路練腿力路線"></a>內湖單車山路練腿力路線</h3><span id="more"></span>
+<p>這篇介紹內湖單車山路練腿力路線。</p>
+<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往東湖一路直行前進，左轉五指山路口．</span><br><span class="line"></span><br><span class="line">直行先左轉在往右轉，第一個補給站小７，之後會一路往上騎（剛開始爬升最辛苦</span><br><span class="line"></span><br><span class="line">五指山較至善路車少運動的人少，經過辛苦爬升後會先到海倫咖啡（行動咖啡餐車</span><br><span class="line"></span><br><span class="line">海倫咖啡沒開的話，往上還有拉瓦那咖啡可以稍做休息．</span><br><span class="line"></span><br><span class="line">接著拉瓦那咖啡往前直騎會到風櫃嘴就一路下山，左轉往中社第二個爬升出發．</span><br><span class="line"></span><br><span class="line">到車輪釣蝦場往左轉就是中社爬坡路線，該路線運動的人不少．（途中會經過派出所）</span><br><span class="line"></span><br><span class="line">到達中社後，一路下坡回到車輪釣蝦場後左轉往劍南路迎接第三個爬升路線</span><br><span class="line">（大概４公里）</span><br><span class="line"></span><br><span class="line">一路下山回到內湖路，往港墘捷運站方向騎行就可以回到大港墘公園．</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Bike</category>
       </categories>
@@ -166,11 +166,24 @@
       </tags>
   </entry>
   <entry>
-    <title>內湖 單車山路 練腿力路線</title>
-    <url>/posts/2182ee8e/</url>
-    <content><![CDATA[<h3 id="內湖單車山路練腿力路線"><a href="#內湖單車山路練腿力路線" class="headerlink" title="內湖單車山路練腿力路線"></a>內湖單車山路練腿力路線</h3><span id="more"></span>
-<p>這篇介紹內湖單車山路練腿力路線。</p>
-<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往東湖一路直行前進，左轉五指山路口．</span><br><span class="line"></span><br><span class="line">直行先左轉在往右轉，第一個補給站小７，之後會一路往上騎（剛開始爬升最辛苦</span><br><span class="line"></span><br><span class="line">五指山較至善路車少運動的人少，經過辛苦爬升後會先到海倫咖啡（行動咖啡餐車</span><br><span class="line"></span><br><span class="line">海倫咖啡沒開的話，往上還有拉瓦那咖啡可以稍做休息．</span><br><span class="line"></span><br><span class="line">接著拉瓦那咖啡往前直騎會到風櫃嘴就一路下山，左轉往中社第二個爬升出發．</span><br><span class="line"></span><br><span class="line">到車輪釣蝦場往左轉就是中社爬坡路線，該路線運動的人不少．（途中會經過派出所）</span><br><span class="line"></span><br><span class="line">到達中社後，一路下坡回到車輪釣蝦場後左轉往劍南路迎接第三個爬升路線</span><br><span class="line">（大概４公里）</span><br><span class="line"></span><br><span class="line">一路下山回到內湖路，往港墘捷運站方向騎行就可以回到大港墘公園．</span><br></pre></td></tr></table></figure>]]></content>
+    <title>Chrome Enable Dark Mode</title>
+    <url>/posts/82ad42ac/</url>
+    <content><![CDATA[<h3 id="Chrome啟用DarkMode"><a href="#Chrome啟用DarkMode" class="headerlink" title="Chrome啟用DarkMode"></a>Chrome啟用DarkMode</h3><span id="more"></span>
+<p>這篇介紹Chrome啟用DarkMode。</p>
+<h3 id="Step"><a href="#Step" class="headerlink" title="Step"></a>Step</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.在Chrome瀏覽器輸入chrome://flags/<span class="comment">#enable-force-dark</span></span><br><span class="line"></span><br><span class="line">2.找到Force Dark Mode <span class="keyword">for</span> Web Contents 將它Enabled</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Chrome</category>
+      </categories>
+      <tags>
+        <tag>Chrome</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2014 GIANT TCR2 升級 SHIMANO GRX RX600</title>
+    <url>/posts/7c0a4bc2/</url>
+    <content><![CDATA[<h3 id="2014TCR2升級SHIMANO-GRX-RX600"><a href="#2014TCR2升級SHIMANO-GRX-RX600" class="headerlink" title="2014TCR2升級SHIMANO GRX RX600"></a>2014TCR2升級SHIMANO GRX RX600</h3><span id="more"></span>
+<p>這篇介紹2014TCR2升級SHIMANO GRX RX600。</p>
+<h3 id="升級過程"><a href="#升級過程" class="headerlink" title="升級過程"></a>升級過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">經過用2014TCR2騎過劍南路、中社、風櫃嘴、五指山、冷水坑後… 永遠都是小盤+飛輪</span><br><span class="line">最上面</span><br><span class="line"></span><br><span class="line">跟前輩討論後，發現要挑戰武嶺還是必須升級大盤從50-34T升級成46-30T</span><br><span class="line"></span><br><span class="line">升級經費:<span class="variable">$3000</span></span><br><span class="line"></span><br><span class="line">產品介紹:</span><br><span class="line"></span><br><span class="line">SHIMANO GRX – 沙地車前齒盤 – 2×11 速</span><br><span class="line"></span><br><span class="line">SHIMANO 的全新 FC-RX600-11 曲柄針對混合地形騎行實現了重量與效率的平衡。</span><br><span class="line">齒比選項可滿足沙地騎行的特殊要求，並可以為保持踏板踩踏節奏而維持更接近的</span><br><span class="line">齒比組合。</span><br><span class="line">2×11 速曲柄有 46-30T 齒盤組合以及 170、172.5 和 175 mm 的曲柄臂長度可選。</span><br><span class="line"></span><br><span class="line">適用於混合地形及騎乘風格的最佳齒比</span><br><span class="line">更寬齒比範圍適合長途騎乘或未知的地形</span><br><span class="line">齒比組合：46-30T</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Bike</category>
       </categories>
@@ -195,19 +208,6 @@
       </tags>
   </entry>
   <entry>
-    <title>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</title>
-    <url>/posts/d107aedb/</url>
-    <content><![CDATA[<h3 id="造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil"><a href="#造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil" class="headerlink" title="造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil"></a>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</h3><span id="more"></span>
-<p>這篇紀錄造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">本書提到主要三個重點為因果關係、反事實以及限制條件。</span><br><span class="line">描述所有的思考框架都是由以上三點所構成，必須使用</span><br><span class="line">這三點來建立思考框架或另啟思考框架。</span><br><span class="line">表明人類是因為思考框架而建立出AI人工智慧，</span><br><span class="line">因AI不會自己產生思考框架，只有人類想出思考框架</span><br><span class="line">並使用AI人工智慧來將思考框架深入並發展。</span><br><span class="line"></span><br><span class="line">每件事情都有因果關係存在，必須有反事實來想像</span><br><span class="line">另外一個想像時空，並在這個時空中驗證思考正確性。</span><br><span class="line">限制條件是增加條件來限制天馬行空不可能的提案，</span><br><span class="line">減少時間並找出可用的思考框架。</span><br><span class="line"></span><br><span class="line">另啟思考框架通常是跳脫原本的思考框架，困難但往往</span><br><span class="line">成功會是think different。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Book</category>
-      </categories>
-      <tags>
-        <tag>Book</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FELLOW STAGG EKG 900 VERSUS FELLOW STAGG KETTLE V1.2</title>
     <url>/posts/f688faff/</url>
     <content><![CDATA[<h3 id="比較Fellow-STAGG-EKG-900與Fellow-STAGG-Kettle-V1-2兩者之間的差異"><a href="#比較Fellow-STAGG-EKG-900與Fellow-STAGG-Kettle-V1-2兩者之間的差異" class="headerlink" title="比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異"></a>比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異</h3><span id="more"></span>
@@ -221,29 +221,29 @@
       </tags>
   </entry>
   <entry>
-    <title>How To Set Charles Schwab Travel Notice</title>
-    <url>/posts/9a26f59f/</url>
-    <content><![CDATA[<h3 id="How-To-Set-Charles-Schwab-Travel-Notice"><a href="#How-To-Set-Charles-Schwab-Travel-Notice" class="headerlink" title="How To Set Charles Schwab Travel Notice"></a>How To Set Charles Schwab Travel Notice</h3><span id="more"></span>
-<p>這篇介紹How To Set Charles Schwab Travel Notice。</p>
-<h3 id="出國需要使用Debit-Card領當地貨幣"><a href="#出國需要使用Debit-Card領當地貨幣" class="headerlink" title="出國需要使用Debit Card領當地貨幣"></a>出國需要使用Debit Card領當地貨幣</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">需要先設定Travel Notice，來填寫出國的日期、國家。</span><br><span class="line"></span><br><span class="line">步驟:</span><br><span class="line">先登入Charles Schwab網站，使用放大鏡搜尋功能輸入Travel Notice。</span><br><span class="line">跳出視窗填入出國的日期、國家。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</title>
+    <url>/posts/d107aedb/</url>
+    <content><![CDATA[<h3 id="造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil"><a href="#造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil" class="headerlink" title="造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil"></a>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</h3><span id="more"></span>
+<p>這篇紀錄造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">本書提到主要三個重點為因果關係、反事實以及限制條件。</span><br><span class="line">描述所有的思考框架都是由以上三點所構成，必須使用</span><br><span class="line">這三點來建立思考框架或另啟思考框架。</span><br><span class="line">表明人類是因為思考框架而建立出AI人工智慧，</span><br><span class="line">因AI不會自己產生思考框架，只有人類想出思考框架</span><br><span class="line">並使用AI人工智慧來將思考框架深入並發展。</span><br><span class="line"></span><br><span class="line">每件事情都有因果關係存在，必須有反事實來想像</span><br><span class="line">另外一個想像時空，並在這個時空中驗證思考正確性。</span><br><span class="line">限制條件是增加條件來限制天馬行空不可能的提案，</span><br><span class="line">減少時間並找出可用的思考框架。</span><br><span class="line"></span><br><span class="line">另啟思考框架通常是跳脫原本的思考框架，困難但往往</span><br><span class="line">成功會是think different。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Investment</category>
+        <category>Book</category>
       </categories>
       <tags>
-        <tag>Investment</tag>
+        <tag>Book</tag>
       </tags>
   </entry>
   <entry>
-    <title>Chrome Enable Dark Mode</title>
-    <url>/posts/82ad42ac/</url>
-    <content><![CDATA[<h3 id="Chrome啟用DarkMode"><a href="#Chrome啟用DarkMode" class="headerlink" title="Chrome啟用DarkMode"></a>Chrome啟用DarkMode</h3><span id="more"></span>
-<p>這篇介紹Chrome啟用DarkMode。</p>
-<h3 id="Step"><a href="#Step" class="headerlink" title="Step"></a>Step</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.在Chrome瀏覽器輸入chrome://flags/<span class="comment">#enable-force-dark</span></span><br><span class="line"></span><br><span class="line">2.找到Force Dark Mode <span class="keyword">for</span> Web Contents 將它Enabled</span><br></pre></td></tr></table></figure>]]></content>
+    <title>GoPro7 無法開機 可能原因 及 嘗試解決方法</title>
+    <url>/posts/fff241af/</url>
+    <content><![CDATA[<h3 id="關於GoPro7無法開機可能原因及嘗試解決方法"><a href="#關於GoPro7無法開機可能原因及嘗試解決方法" class="headerlink" title="關於GoPro7無法開機可能原因及嘗試解決方法"></a>關於GoPro7無法開機可能原因及嘗試解決方法</h3><span id="more"></span>
+<p>這篇介紹關於GoPro7無法開機可能原因及嘗試解決方法。</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">GoPro7很久沒開機，一開機沒多久就自動關機。</span><br><span class="line">嘗試開機還是一直都打不開~研判是主機板可能沒電(前後紅燈沒亮)</span><br><span class="line"></span><br><span class="line">嘗試方法:</span><br><span class="line">把電池及記憶卡拿出~</span><br><span class="line">拿出GoPro原廠傳輸線，接上GoPro另一頭USB要接上通電。</span><br><span class="line">先放置一陣子，直到前後紅燈開始亮，代表是主機板沒電。</span><br><span class="line"></span><br><span class="line">如果紅燈沒亮的話，請多試幾次插拔及等待。</span><br><span class="line">在紅燈亮的狀態下，將電池直接插入，沒直接關機即可進入下一步。</span><br><span class="line">若關機就前述步驟多做幾次。</span><br><span class="line"></span><br><span class="line">再來關機及重新開機數次來確保主體暫時沒問題!</span><br><span class="line">以上正常的話，就把記憶卡插入再關機及重新開機測試。</span><br><span class="line"></span><br><span class="line">以上是救回GoPro7的過程，往後幾個月沒使用還是要定期接上電池開關機。</span><br><span class="line">以上不保證可救回，但遇到GoPro7成磚頭狀態可以嘗試的方法~</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Chrome</category>
+        <category>GoPro7</category>
       </categories>
       <tags>
-        <tag>Chrome</tag>
+        <tag>GoPro7</tag>
       </tags>
   </entry>
   <entry>
@@ -278,29 +278,16 @@
       </tags>
   </entry>
   <entry>
-    <title>GoPro7 無法開機 可能原因 及 嘗試解決方法</title>
-    <url>/posts/fff241af/</url>
-    <content><![CDATA[<h3 id="關於GoPro7無法開機可能原因及嘗試解決方法"><a href="#關於GoPro7無法開機可能原因及嘗試解決方法" class="headerlink" title="關於GoPro7無法開機可能原因及嘗試解決方法"></a>關於GoPro7無法開機可能原因及嘗試解決方法</h3><span id="more"></span>
-<p>這篇介紹關於GoPro7無法開機可能原因及嘗試解決方法。</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">GoPro7很久沒開機，一開機沒多久就自動關機。</span><br><span class="line">嘗試開機還是一直都打不開~研判是主機板可能沒電(前後紅燈沒亮)</span><br><span class="line"></span><br><span class="line">嘗試方法:</span><br><span class="line">把電池及記憶卡拿出~</span><br><span class="line">拿出GoPro原廠傳輸線，接上GoPro另一頭USB要接上通電。</span><br><span class="line">先放置一陣子，直到前後紅燈開始亮，代表是主機板沒電。</span><br><span class="line"></span><br><span class="line">如果紅燈沒亮的話，請多試幾次插拔及等待。</span><br><span class="line">在紅燈亮的狀態下，將電池直接插入，沒直接關機即可進入下一步。</span><br><span class="line">若關機就前述步驟多做幾次。</span><br><span class="line"></span><br><span class="line">再來關機及重新開機數次來確保主體暫時沒問題!</span><br><span class="line">以上正常的話，就把記憶卡插入再關機及重新開機測試。</span><br><span class="line"></span><br><span class="line">以上是救回GoPro7的過程，往後幾個月沒使用還是要定期接上電池開關機。</span><br><span class="line">以上不保證可救回，但遇到GoPro7成磚頭狀態可以嘗試的方法~</span><br></pre></td></tr></table></figure>]]></content>
+    <title>How To Set Charles Schwab Travel Notice</title>
+    <url>/posts/9a26f59f/</url>
+    <content><![CDATA[<h3 id="How-To-Set-Charles-Schwab-Travel-Notice"><a href="#How-To-Set-Charles-Schwab-Travel-Notice" class="headerlink" title="How To Set Charles Schwab Travel Notice"></a>How To Set Charles Schwab Travel Notice</h3><span id="more"></span>
+<p>這篇介紹How To Set Charles Schwab Travel Notice。</p>
+<h3 id="出國需要使用Debit-Card領當地貨幣"><a href="#出國需要使用Debit-Card領當地貨幣" class="headerlink" title="出國需要使用Debit Card領當地貨幣"></a>出國需要使用Debit Card領當地貨幣</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">需要先設定Travel Notice，來填寫出國的日期、國家。</span><br><span class="line"></span><br><span class="line">步驟:</span><br><span class="line">先登入Charles Schwab網站，使用放大鏡搜尋功能輸入Travel Notice。</span><br><span class="line">跳出視窗填入出國的日期、國家。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>GoPro7</category>
+        <category>Investment</category>
       </categories>
       <tags>
-        <tag>GoPro7</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Intro 2023 Challenge Taiwan</title>
-    <url>/posts/7fe69b15/</url>
-    <content><![CDATA[<h3 id="Intro-2023-Challenge-Taiwan"><a href="#Intro-2023-Challenge-Taiwan" class="headerlink" title="Intro 2023 Challenge Taiwan"></a>Intro 2023 Challenge Taiwan</h3><span id="more"></span>
-<p>這篇介紹2023 Challenge Taiwan。</p>
-<h3 id="事前準備"><a href="#事前準備" class="headerlink" title="事前準備"></a>事前準備</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">113比賽項目:</span><br><span class="line">游泳 1900 公尺</span><br><span class="line">單車 90K</span><br><span class="line">跑步 半馬21K</span><br><span class="line"></span><br><span class="line">事先準備相關補給品，前一年報名成功後預訂交通、住宿。</span><br><span class="line"></span><br><span class="line">單車要在比賽前寄送下去，有幾種方法</span><br><span class="line">1.自己開車載下去</span><br><span class="line">2.小莫運車服務</span><br><span class="line">3.火車行李房運送</span><br><span class="line"></span><br><span class="line">準備比賽要用的衣服(三鐵衣)、鞋子(單車+跑步)、安全帽、水壺、太陽眼鏡、毛巾、拖鞋、</span><br><span class="line">運動手錶、跑步背包+水袋。</span><br><span class="line"></span><br><span class="line">2023/04/20 前必須下載APP進行線上報到~</span><br><span class="line">2023/04/21 11:00~18:30 台東體育館報到領取比賽物資</span><br><span class="line">2023/04/21 14:00~20:00 自行車與轉換袋檢錄</span><br><span class="line">2023/04/21 20:00 前鐵花村領取早鳥禮</span><br><span class="line">2023/04/21 17:00~20:30 選手晚宴</span><br><span class="line"></span><br><span class="line">2023/04/22 (六) 113 A組</span><br><span class="line">07:35 start race 游泳關門 09:35，time:01:30</span><br><span class="line">單車關門 13:35，time:04:00</span><br><span class="line">跑步關門 16:30，time:03:30</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>ChallengeTaiwan</category>
-      </categories>
-      <tags>
-        <tag>ChallengeTaiwan</tag>
+        <tag>Investment</tag>
       </tags>
   </entry>
   <entry>
@@ -335,20 +322,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Internet Fraud</title>
-    <url>/posts/6a143b30/</url>
-    <content><![CDATA[<h3 id="Internet-Fraud"><a href="#Internet-Fraud" class="headerlink" title="Internet Fraud"></a>Internet Fraud</h3><span id="more"></span>
-<p>這篇介紹Internet Fraud。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">近兩年不管在YouTube、Facebook、Instagram皆有打著高獲利低風險的投資廣告。</span><br><span class="line">很多在家就能日賺好幾千好幾萬的詐騙廣告充斥。</span><br><span class="line"></span><br><span class="line">首先要有一個觀念，天下沒有白吃的午餐 + 高報酬必定伴隨著高風險。</span><br><span class="line">當有一個投資標的打著超過30%馬上獲利，連股神巴菲特年化報酬率平均只有20%。</span><br><span class="line"></span><br><span class="line">詐騙集團通常會加你的Line通訊軟體，首先他們會先建立信任。</span><br><span class="line">你有可能剛開始會拿到一筆金額，當對方要你繼續匯更多錢過去時，它必定200%</span><br><span class="line">是詐騙集團。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Internet</category>
-      </categories>
-      <tags>
-        <tag>Internet</tag>
-        <tag>Fraud</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>INTRO NO COPY RIGHT SOUNDS (NCS)</title>
     <url>/posts/cdcfcf86/</url>
     <content><![CDATA[<h3 id="INTRO-NOCOPYRIGHTSOUNDS-NCS"><a href="#INTRO-NOCOPYRIGHTSOUNDS-NCS" class="headerlink" title="INTRO NOCOPYRIGHTSOUNDS (NCS)"></a>INTRO NOCOPYRIGHTSOUNDS (NCS)</h3><span id="more"></span>
@@ -362,29 +335,17 @@
       </tags>
   </entry>
   <entry>
-    <title>Intro Charles Schwab Debit Card</title>
-    <url>/posts/be6408dd/</url>
-    <content><![CDATA[<h3 id="Intro-Charles-Schwab-Debit-Card"><a href="#Intro-Charles-Schwab-Debit-Card" class="headerlink" title="Intro Charles Schwab Debit Card"></a>Intro Charles Schwab Debit Card</h3><span id="more"></span>
-<p>這篇介紹Charles Schwab Debit Card。</p>
-<h3 id="Memo"><a href="#Memo" class="headerlink" title="Memo"></a>Memo</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.提款每日限額USD 1000，單次最高不得超過USD 500 不限提款次數，提款</span><br><span class="line">明細會顯示在券商app的紀錄裡，提款隔天會在app紀錄顯示(cash on hold)金額，</span><br><span class="line">第二天美國營業日才會扣帳。卡片密碼4位數，點選支票戶頭(Checking account)提領</span><br><span class="line"></span><br><span class="line">2.單次提領超過USD 500USD，ATM會顯示4202超過一日累積金額或上限導致無法提款。</span><br><span class="line">手續費的部分，嘉信一樣會在提款完後的第二天營業日，退回券商戶頭。</span><br><span class="line"></span><br><span class="line">P.S.合庫提領0手續費；7-11中信ATM會扣NTD 100；郵局ATM有些限定在國內發行的VISA才</span><br><span class="line">能提領。</span><br><span class="line"></span><br><span class="line">3.當達到提領上限USD 1000，需要整整24小時才能再進行USD 1000每日提款的動作。</span><br><span class="line">例如：昨晚8點領完當日USD 1000上限後，要等到明天晚上8點才能再提款，在這期間提款</span><br><span class="line">都會顯示4202超過一日累積金額或上限，無法取款喔。</span><br><span class="line"></span><br><span class="line">4.每日提款金額USD 1000&amp;刷卡USD 15000，兩者額度分開計算。國內外刷卡都沒有1.5%手續</span><br><span class="line">費，匯率照VISA網站公布</span><br><span class="line">https://www.visa.com.tw/travel-with-visa/exchange-rate-calculator.html</span><br><span class="line"></span><br><span class="line">5.遇到提領問題時，可以在美東上班時間撥打嘉信免付費電話諮詢，中文客服美東時間9</span><br><span class="line">點才上班喔，如果提早打就會直接面對全英會話，但基本資料核對以後，溝通上基本不成</span><br><span class="line">問題，如果華語客服轉接後一樣可以變成三方會談。華語客服在線上幫您即時翻譯。</span><br><span class="line"></span><br><span class="line">6.有需要出國提領的話，記得事先上券商網頁填寫 travel note，基本是14天、</span><br><span class="line">天數超過的話可以直接打給客服聯繫。</span><br><span class="line"></span><br><span class="line">7.券商開戶時或是寄送新卡會透過美國Fedex到台灣，如果台灣有些地方不在Fedex服務範</span><br><span class="line">圍會轉由黑貓宅急便寄送，對了！！通常都收不到，因為信件上面只會寫 大名 地址 沒</span><br><span class="line">有聯絡電話，所以就會說寄件人都不在家，最後可能又退回美國，所以主動出擊打給券商</span><br><span class="line">確認Fedex包裹號碼，打給台灣Fedex追蹤物流進度，通常4月份到期的卡，嘉信會在13號</span><br><span class="line">寄到台灣，正常2天後會收到，再新卡開通前，舊卡可以用到當月月底。</span><br><span class="line">https://www.fedex.com/zh-tw/customer-support.html</span><br></pre></td></tr></table></figure>]]></content>
+    <title>Internet Fraud</title>
+    <url>/posts/6a143b30/</url>
+    <content><![CDATA[<h3 id="Internet-Fraud"><a href="#Internet-Fraud" class="headerlink" title="Internet Fraud"></a>Internet Fraud</h3><span id="more"></span>
+<p>這篇介紹Internet Fraud。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">近兩年不管在YouTube、Facebook、Instagram皆有打著高獲利低風險的投資廣告。</span><br><span class="line">很多在家就能日賺好幾千好幾萬的詐騙廣告充斥。</span><br><span class="line"></span><br><span class="line">首先要有一個觀念，天下沒有白吃的午餐 + 高報酬必定伴隨著高風險。</span><br><span class="line">當有一個投資標的打著超過30%馬上獲利，連股神巴菲特年化報酬率平均只有20%。</span><br><span class="line"></span><br><span class="line">詐騙集團通常會加你的Line通訊軟體，首先他們會先建立信任。</span><br><span class="line">你有可能剛開始會拿到一筆金額，當對方要你繼續匯更多錢過去時，它必定200%</span><br><span class="line">是詐騙集團。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Investment</category>
+        <category>Internet</category>
       </categories>
       <tags>
-        <tag>Investment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey</title>
-    <url>/posts/590a6cf2/</url>
-    <content><![CDATA[<h3 id="這一生-你想留下什麼-史丹佛的10堂領導課-Leading-Matters-Lessons-from-My-Journey"><a href="#這一生-你想留下什麼-史丹佛的10堂領導課-Leading-Matters-Lessons-from-My-Journey" class="headerlink" title="這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey"></a>這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey</h3><span id="more"></span>
-<p>這篇紀錄這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">Lesson1&amp;2:培養領導力需具備正直、真誠(建立信賴關係的前提)</span><br><span class="line">Lesson3:好的領導方式就是服務所有人，讓所有人願意跟隨你的腳步</span><br><span class="line">Lesson4:同理心必須與公平並存，思考如何讓所有人都能接受該條件</span><br><span class="line">Lesson5:用勇氣付諸行動，朝有意義及永續的目標發展</span><br><span class="line">Lesson6:領導就是協力與團隊合作，最重要的任務由團隊負責完成.</span><br><span class="line">Lesson7:創新是新創公司發展的動力，欲掌控會阻礙創新</span><br><span class="line">Lesson8:求知欲從閱讀來學習許多前輩的生平並汲取失敗教訓，並制定成功策略</span><br><span class="line">Lesson9:經由說故事來分享未來的願景，並讓參與者能想像自己成為願景的部分並贊同此提案</span><br><span class="line">Lesson10:遺澤是把時間花在比生命更長久的事情上</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Book</category>
-      </categories>
-      <tags>
-        <tag>Book</tag>
+        <tag>Internet</tag>
+        <tag>Fraud</tag>
       </tags>
   </entry>
   <entry>
@@ -401,16 +362,29 @@
       </tags>
   </entry>
   <entry>
-    <title>升級 家中 中華小烏龜 WIFI (ASUS RT-N18U)</title>
-    <url>/posts/753ea156/</url>
-    <content><![CDATA[<h3 id="升級家中中華小烏龜WIFI-ASUS-RT-N18U"><a href="#升級家中中華小烏龜WIFI-ASUS-RT-N18U" class="headerlink" title="升級家中中華小烏龜WIFI(ASUS RT-N18U)"></a>升級家中中華小烏龜WIFI(ASUS RT-N18U)</h3><span id="more"></span>
-<p>這篇介紹升級家中中華小烏龜WIFI(ASUS RT-N18U)。</p>
-<h3 id="升級步驟"><a href="#升級步驟" class="headerlink" title="升級步驟"></a>升級步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">前情提要: 居家上班後發現中華電信的小烏龜無線網路，</span><br><span class="line">只要隔一個牆就很差，且常常斷網。</span><br><span class="line"></span><br><span class="line">1.上網購買ASUS RT-N18U</span><br><span class="line"></span><br><span class="line">2.用一條網路線連接小烏龜的LAN -&gt; RT-N18U的WAN</span><br><span class="line"></span><br><span class="line">3.進入http://router.asus.com/ 設定WIFI SSD 和 密碼</span><br><span class="line"></span><br><span class="line">4.進入小烏龜後台 http://192.168.1.2/login.html 將無線網路隱藏</span><br><span class="line"></span><br><span class="line">5.可試用RT-N18U穩定的無線網路</span><br></pre></td></tr></table></figure>]]></content>
+    <title>Intro 2023 Challenge Taiwan</title>
+    <url>/posts/7fe69b15/</url>
+    <content><![CDATA[<h3 id="Intro-2023-Challenge-Taiwan"><a href="#Intro-2023-Challenge-Taiwan" class="headerlink" title="Intro 2023 Challenge Taiwan"></a>Intro 2023 Challenge Taiwan</h3><span id="more"></span>
+<p>這篇介紹2023 Challenge Taiwan。</p>
+<h3 id="事前準備"><a href="#事前準備" class="headerlink" title="事前準備"></a>事前準備</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">113比賽項目:</span><br><span class="line">游泳 1900 公尺</span><br><span class="line">單車 90K</span><br><span class="line">跑步 半馬21K</span><br><span class="line"></span><br><span class="line">事先準備相關補給品，前一年報名成功後預訂交通、住宿。</span><br><span class="line"></span><br><span class="line">單車要在比賽前寄送下去，有幾種方法</span><br><span class="line">1.自己開車載下去</span><br><span class="line">2.小莫運車服務</span><br><span class="line">3.火車行李房運送</span><br><span class="line"></span><br><span class="line">準備比賽要用的衣服(三鐵衣)、鞋子(單車+跑步)、安全帽、水壺、太陽眼鏡、毛巾、拖鞋、</span><br><span class="line">運動手錶、跑步背包+水袋。</span><br><span class="line"></span><br><span class="line">2023/04/20 前必須下載APP進行線上報到~</span><br><span class="line">2023/04/21 11:00~18:30 台東體育館報到領取比賽物資</span><br><span class="line">2023/04/21 14:00~20:00 自行車與轉換袋檢錄</span><br><span class="line">2023/04/21 20:00 前鐵花村領取早鳥禮</span><br><span class="line">2023/04/21 17:00~20:30 選手晚宴</span><br><span class="line"></span><br><span class="line">2023/04/22 (六) 113 A組</span><br><span class="line">07:35 start race 游泳關門 09:35，time:01:30</span><br><span class="line">單車關門 13:35，time:04:00</span><br><span class="line">跑步關門 16:30，time:03:30</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Network</category>
+        <category>ChallengeTaiwan</category>
       </categories>
       <tags>
-        <tag>Network</tag>
+        <tag>ChallengeTaiwan</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Intro Charles Schwab Debit Card</title>
+    <url>/posts/be6408dd/</url>
+    <content><![CDATA[<h3 id="Intro-Charles-Schwab-Debit-Card"><a href="#Intro-Charles-Schwab-Debit-Card" class="headerlink" title="Intro Charles Schwab Debit Card"></a>Intro Charles Schwab Debit Card</h3><span id="more"></span>
+<p>這篇介紹Charles Schwab Debit Card。</p>
+<h3 id="Memo"><a href="#Memo" class="headerlink" title="Memo"></a>Memo</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.提款每日限額USD 1000，單次最高不得超過USD 500 不限提款次數，提款</span><br><span class="line">明細會顯示在券商app的紀錄裡，提款隔天會在app紀錄顯示(cash on hold)金額，</span><br><span class="line">第二天美國營業日才會扣帳。卡片密碼4位數，點選支票戶頭(Checking account)提領</span><br><span class="line"></span><br><span class="line">2.單次提領超過USD 500USD，ATM會顯示4202超過一日累積金額或上限導致無法提款。</span><br><span class="line">手續費的部分，嘉信一樣會在提款完後的第二天營業日，退回券商戶頭。</span><br><span class="line"></span><br><span class="line">P.S.合庫提領0手續費；7-11中信ATM會扣NTD 100；郵局ATM有些限定在國內發行的VISA才</span><br><span class="line">能提領。</span><br><span class="line"></span><br><span class="line">3.當達到提領上限USD 1000，需要整整24小時才能再進行USD 1000每日提款的動作。</span><br><span class="line">例如：昨晚8點領完當日USD 1000上限後，要等到明天晚上8點才能再提款，在這期間提款</span><br><span class="line">都會顯示4202超過一日累積金額或上限，無法取款喔。</span><br><span class="line"></span><br><span class="line">4.每日提款金額USD 1000&amp;刷卡USD 15000，兩者額度分開計算。國內外刷卡都沒有1.5%手續</span><br><span class="line">費，匯率照VISA網站公布</span><br><span class="line">https://www.visa.com.tw/travel-with-visa/exchange-rate-calculator.html</span><br><span class="line"></span><br><span class="line">5.遇到提領問題時，可以在美東上班時間撥打嘉信免付費電話諮詢，中文客服美東時間9</span><br><span class="line">點才上班喔，如果提早打就會直接面對全英會話，但基本資料核對以後，溝通上基本不成</span><br><span class="line">問題，如果華語客服轉接後一樣可以變成三方會談。華語客服在線上幫您即時翻譯。</span><br><span class="line"></span><br><span class="line">6.有需要出國提領的話，記得事先上券商網頁填寫 travel note，基本是14天、</span><br><span class="line">天數超過的話可以直接打給客服聯繫。</span><br><span class="line"></span><br><span class="line">7.券商開戶時或是寄送新卡會透過美國Fedex到台灣，如果台灣有些地方不在Fedex服務範</span><br><span class="line">圍會轉由黑貓宅急便寄送，對了！！通常都收不到，因為信件上面只會寫 大名 地址 沒</span><br><span class="line">有聯絡電話，所以就會說寄件人都不在家，最後可能又退回美國，所以主動出擊打給券商</span><br><span class="line">確認Fedex包裹號碼，打給台灣Fedex追蹤物流進度，通常4月份到期的卡，嘉信會在13號</span><br><span class="line">寄到台灣，正常2天後會收到，再新卡開通前，舊卡可以用到當月月底。</span><br><span class="line">https://www.fedex.com/zh-tw/customer-support.html</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
       </tags>
   </entry>
   <entry>
@@ -429,6 +403,32 @@
       </tags>
   </entry>
   <entry>
+    <title>這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey</title>
+    <url>/posts/590a6cf2/</url>
+    <content><![CDATA[<h3 id="這一生-你想留下什麼-史丹佛的10堂領導課-Leading-Matters-Lessons-from-My-Journey"><a href="#這一生-你想留下什麼-史丹佛的10堂領導課-Leading-Matters-Lessons-from-My-Journey" class="headerlink" title="這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey"></a>這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey</h3><span id="more"></span>
+<p>這篇紀錄這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">Lesson1&amp;2:培養領導力需具備正直、真誠(建立信賴關係的前提)</span><br><span class="line">Lesson3:好的領導方式就是服務所有人，讓所有人願意跟隨你的腳步</span><br><span class="line">Lesson4:同理心必須與公平並存，思考如何讓所有人都能接受該條件</span><br><span class="line">Lesson5:用勇氣付諸行動，朝有意義及永續的目標發展</span><br><span class="line">Lesson6:領導就是協力與團隊合作，最重要的任務由團隊負責完成.</span><br><span class="line">Lesson7:創新是新創公司發展的動力，欲掌控會阻礙創新</span><br><span class="line">Lesson8:求知欲從閱讀來學習許多前輩的生平並汲取失敗教訓，並制定成功策略</span><br><span class="line">Lesson9:經由說故事來分享未來的願景，並讓參與者能想像自己成為願景的部分並贊同此提案</span><br><span class="line">Lesson10:遺澤是把時間花在比生命更長久的事情上</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Book</category>
+      </categories>
+      <tags>
+        <tag>Book</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>升級 家中 中華小烏龜 WIFI (ASUS RT-N18U)</title>
+    <url>/posts/753ea156/</url>
+    <content><![CDATA[<h3 id="升級家中中華小烏龜WIFI-ASUS-RT-N18U"><a href="#升級家中中華小烏龜WIFI-ASUS-RT-N18U" class="headerlink" title="升級家中中華小烏龜WIFI(ASUS RT-N18U)"></a>升級家中中華小烏龜WIFI(ASUS RT-N18U)</h3><span id="more"></span>
+<p>這篇介紹升級家中中華小烏龜WIFI(ASUS RT-N18U)。</p>
+<h3 id="升級步驟"><a href="#升級步驟" class="headerlink" title="升級步驟"></a>升級步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">前情提要: 居家上班後發現中華電信的小烏龜無線網路，</span><br><span class="line">只要隔一個牆就很差，且常常斷網。</span><br><span class="line"></span><br><span class="line">1.上網購買ASUS RT-N18U</span><br><span class="line"></span><br><span class="line">2.用一條網路線連接小烏龜的LAN -&gt; RT-N18U的WAN</span><br><span class="line"></span><br><span class="line">3.進入http://router.asus.com/ 設定WIFI SSD 和 密碼</span><br><span class="line"></span><br><span class="line">4.進入小烏龜後台 http://192.168.1.2/login.html 將無線網路隱藏</span><br><span class="line"></span><br><span class="line">5.可試用RT-N18U穩定的無線網路</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Network</category>
+      </categories>
+      <tags>
+        <tag>Network</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Repair Logitech M557 BlueTooth Mouse</title>
     <url>/posts/beb6f7da/</url>
     <content><![CDATA[<h3 id="Repair-Logitech-M557-BlueTooth-Mouse"><a href="#Repair-Logitech-M557-BlueTooth-Mouse" class="headerlink" title="Repair Logitech M557 BlueTooth Mouse"></a>Repair Logitech M557 BlueTooth Mouse</h3><span id="more"></span>
@@ -444,9 +444,10 @@
   <entry>
     <title>SENNHEISER HD4point5 BTNC Connect By Bluetooth</title>
     <url>/posts/abc0d298/</url>
-    <content><![CDATA[<h3 id="How-to-SENNHEISER-HD4point5-BTNC-Connect-By-Bluetooth"><a href="#How-to-SENNHEISER-HD4point5-BTNC-Connect-By-Bluetooth" class="headerlink" title="How to SENNHEISER HD4point5 BTNC Connect By Bluetooth"></a>How to SENNHEISER HD4point5 BTNC Connect By Bluetooth</h3><span id="more"></span>
+    <content><![CDATA[<h2 id="How-to-SENNHEISER-HD4point5-BTNC-Connect-By-Bluetooth"><a href="#How-to-SENNHEISER-HD4point5-BTNC-Connect-By-Bluetooth" class="headerlink" title="How to SENNHEISER HD4point5 BTNC Connect By Bluetooth"></a>How to SENNHEISER HD4point5 BTNC Connect By Bluetooth</h2><span id="more"></span>
 <p>這篇介紹SENNHEISER HD4point5 BTNC Connect By Bluetooth。</p>
-<h3 id="How-to-SENNHEISER-HD4point5-BTNC-Connect-By-Bluetooth-1"><a href="#How-to-SENNHEISER-HD4point5-BTNC-Connect-By-Bluetooth-1" class="headerlink" title="How to SENNHEISER HD4point5 BTNC Connect By Bluetooth"></a>How to SENNHEISER HD4point5 BTNC Connect By Bluetooth</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">先將無線藍芽耳機的開關關掉</span><br><span class="line">將欲連接裝置的藍芽打開</span><br><span class="line"></span><br><span class="line">按住電源開關約4秒鐘，會看到藍光切換紅光模式</span><br><span class="line">出現代表可以在裝置上看到無線藍芽耳機的型號</span><br><span class="line">以上是連結藍芽的過程記錄</span><br></pre></td></tr></table></figure>
+<h2 id="How-to-SENNHEISER-HD4point5-BTNC-Connect-By-Bluetooth-1"><a href="#How-to-SENNHEISER-HD4point5-BTNC-Connect-By-Bluetooth-1" class="headerlink" title="How to SENNHEISER HD4point5 BTNC Connect By Bluetooth:"></a>How to SENNHEISER HD4point5 BTNC Connect By Bluetooth:</h2><p>先將無線藍芽耳機的開關關掉<br>將欲連接裝置的藍芽打開</p>
+<p>按住電源開關約4秒鐘，會看到藍光切換紅光模式<br>出現代表可以在裝置上看到無線藍芽耳機的型號<br>以上是連結藍芽的過程記錄</p>
 ]]></content>
       <categories>
         <category>SENNHEISER</category>
@@ -454,19 +455,6 @@
       <tags>
         <tag>SENNHEISER</tag>
         <tag>Bluetooth</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Upgrade Home Network From CHT</title>
-    <url>/posts/d9c7d267/</url>
-    <content><![CDATA[<h3 id="Upgrade-Home-Network-From-CHT"><a href="#Upgrade-Home-Network-From-CHT" class="headerlink" title="Upgrade Home Network From CHT"></a>Upgrade Home Network From CHT</h3><span id="more"></span>
-<p>這篇介紹Upgrade Home Network From CHT。</p>
-<h3 id="Process"><a href="#Process" class="headerlink" title="Process"></a>Process</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">網路原規格</span><br><span class="line">20M / 5M</span><br><span class="line">升級後規格</span><br><span class="line">100M / 40M</span><br><span class="line"></span><br><span class="line">先使用中華電信網路App提交申請看有沒有成功</span><br><span class="line">沒有成功必須致電給客服並由申請人同意後</span><br><span class="line">施工人員才會開始排定工單跟預定日</span><br><span class="line"></span><br><span class="line">原本的小烏龜會回收，並安裝新的小烏龜</span><br><span class="line">提供一台WIFI全屋通，如果有更好的WIFI機</span><br><span class="line">可取代中華電信提供的WIFI機!</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Network</category>
-      </categories>
-      <tags>
-        <tag>Network</tag>
       </tags>
   </entry>
   <entry>
@@ -525,11 +513,50 @@
       </tags>
   </entry>
   <entry>
+    <title>Upgrade Home Network From CHT</title>
+    <url>/posts/d9c7d267/</url>
+    <content><![CDATA[<h3 id="Upgrade-Home-Network-From-CHT"><a href="#Upgrade-Home-Network-From-CHT" class="headerlink" title="Upgrade Home Network From CHT"></a>Upgrade Home Network From CHT</h3><span id="more"></span>
+<p>這篇介紹Upgrade Home Network From CHT。</p>
+<h3 id="Process"><a href="#Process" class="headerlink" title="Process"></a>Process</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">網路原規格</span><br><span class="line">20M / 5M</span><br><span class="line">升級後規格</span><br><span class="line">100M / 40M</span><br><span class="line"></span><br><span class="line">先使用中華電信網路App提交申請看有沒有成功</span><br><span class="line">沒有成功必須致電給客服並由申請人同意後</span><br><span class="line">施工人員才會開始排定工單跟預定日</span><br><span class="line"></span><br><span class="line">原本的小烏龜會回收，並安裝新的小烏龜</span><br><span class="line">提供一台WIFI全屋通，如果有更好的WIFI機</span><br><span class="line">可取代中華電信提供的WIFI機!</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Network</category>
+      </categories>
+      <tags>
+        <tag>Network</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>What Is Confirmation Bias?</title>
     <url>/posts/e727e019/</url>
     <content><![CDATA[<h3 id="What-Is-Confirmation-Bias"><a href="#What-Is-Confirmation-Bias" class="headerlink" title="What Is Confirmation Bias?"></a>What Is Confirmation Bias?</h3><span id="more"></span>
 <p>這篇介紹What Is Confirmation Bias。</p>
 <h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">確認偏誤（或稱確認偏差、證實偏差、肯證偏誤、驗證偏誤</span><br><span class="line">、驗證性偏見、我方偏見，英語：Confirmation bias）是</span><br><span class="line">個人選擇性地回憶、蒐集有利細節，忽略不利或矛盾的資訊，</span><br><span class="line">來支持自己已有的想法或假設的趨勢，屬其中一類認知偏誤</span><br><span class="line">和歸納推理中的一個系統性錯誤。當人們選擇性收集或回憶</span><br><span class="line">信息時，又或帶有偏見地解讀信息時，他們便展現了確認偏誤。</span><br><span class="line"></span><br><span class="line">這種偏見尤其顯見於帶有強烈情緒的問題和傳統觀念上。例如</span><br><span class="line">，人們面對情傷，大多難以割捨，會在反覆的情緒中來回擺盪</span><br><span class="line">掙扎，過程中不斷回顧並對自己給予合理的解釋與交代，直到</span><br><span class="line">身心得到平衡安頓為止。</span><br><span class="line"></span><br><span class="line">回顧與重新認知的過程會建構一個新的認知事實，它受到個人</span><br><span class="line">價值觀、家人或傳統社會的壓力、或宗教信仰等批判或趨避的</span><br><span class="line">影響，而傾向採取對自己較為有利的說法或選擇性的認知，以</span><br><span class="line">合理化整個事件，進而化解外部壓力並獲得身心上的平衡。</span><br><span class="line"></span><br><span class="line">舉例來說，相信算命的人聽到命理師講的話之後，就採信</span><br><span class="line">命理師的話，並把自己過去發生的事情當中，和命理師講述</span><br><span class="line">的相似的部分，給當成算命準確的證據。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is Creative Commons</title>
+    <url>/posts/18eef1c0/</url>
+    <content><![CDATA[<h3 id="What-Is-Creative-Commons"><a href="#What-Is-Creative-Commons" class="headerlink" title="What Is Creative Commons"></a>What Is Creative Commons</h3><span id="more"></span>
+<p>這篇介紹What Is Creative Commons。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">Creative Commons license</span><br><span class="line"></span><br><span class="line">是一種公共著作權授權條款，其允許分發受著作權保護的作品。</span><br><span class="line">一個作者可使用創作共享授權授予他人分享、使用，甚至創作</span><br><span class="line">衍生作品的權利。創作共享提供給作者靈活性（例如，他們</span><br><span class="line">可以選擇允許非商業用途使用他們的作品），保護使用或重新</span><br><span class="line">分配他人作品的人，所以他們只要遵守由作者指定的條件，</span><br><span class="line">不必擔心侵犯著作權。</span><br><span class="line"></span><br><span class="line">創用CC授權條款有多種不同類型。授權條款可以有不同的</span><br><span class="line">組合，由分發條款決定。</span><br><span class="line"></span><br><span class="line">說明	縮寫	姓名標示要求	混合作品	允許商業性使用	允許自由文化作品	符合OKI的「開放定義」</span><br><span class="line">不受限制地在全球範圍內釋出內容							CC0			否	是	是	是	是</span><br><span class="line">姓名標示（BY）											BY			是	是	是	是	是</span><br><span class="line">姓名標示（BY）-相同方式分享（SA）						BY-SA		是	是	是	是	是</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）						BY-NC		是	是	否	否	否</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）-相同方式分享（SA）	BY-NC-SA	是	是	否	否	否</span><br><span class="line">姓名標示（BY）-禁止改作（ND）							BY-ND		是	否	是	否	否</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）-禁止改作（ND）		BY-NC-ND	是	否	否	否	否</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Website</category>
+      </categories>
+      <tags>
+        <tag>Website</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is Gamblers Fallacy?</title>
+    <url>/posts/7d7b93d3/</url>
+    <content><![CDATA[<h3 id="What-Is-Gambler’s-Fallacy"><a href="#What-Is-Gambler’s-Fallacy" class="headerlink" title="What Is Gambler’s Fallacy?"></a>What Is Gambler’s Fallacy?</h3><span id="more"></span>
+<p>這篇介紹What Is Gambler’s Fallacy。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">賭徒謬誤（The Gambler’s Fallacy）亦稱為蒙地卡羅</span><br><span class="line">謬誤（The Monte Carlo Fallacy），是一種機率謬誤，</span><br><span class="line">主張由於某事發生了很多次，因此接下來不太可能發生</span><br><span class="line">；或者由於某事很久沒發生，因此接下來很可能會發生。</span><br><span class="line"></span><br><span class="line">賭徒謬誤的思維方式像是如此：拋一枚公平的硬幣，</span><br><span class="line">連續出現越多次正面朝上，下次拋出正面的機率就越小</span><br><span class="line">，拋出反面的機率就越大。</span><br><span class="line"></span><br><span class="line">最著名的案例是在蒙利卡羅的黑紅輪盤，當時已開出26次黑</span><br><span class="line">的結果，賭徒確信在第27次開出紅的結果機率遠大於黑，</span><br><span class="line">於是這些賭徒輸給賭場好幾百萬元。</span><br><span class="line"></span><br><span class="line">不管在輪盤是第幾次開結果，開出黑或紅的機率都是</span><br><span class="line">一樣為50%。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -551,19 +578,6 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Creative Commons</title>
-    <url>/posts/18eef1c0/</url>
-    <content><![CDATA[<h3 id="What-Is-Creative-Commons"><a href="#What-Is-Creative-Commons" class="headerlink" title="What Is Creative Commons"></a>What Is Creative Commons</h3><span id="more"></span>
-<p>這篇介紹What Is Creative Commons。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">Creative Commons license</span><br><span class="line"></span><br><span class="line">是一種公共著作權授權條款，其允許分發受著作權保護的作品。</span><br><span class="line">一個作者可使用創作共享授權授予他人分享、使用，甚至創作</span><br><span class="line">衍生作品的權利。創作共享提供給作者靈活性（例如，他們</span><br><span class="line">可以選擇允許非商業用途使用他們的作品），保護使用或重新</span><br><span class="line">分配他人作品的人，所以他們只要遵守由作者指定的條件，</span><br><span class="line">不必擔心侵犯著作權。</span><br><span class="line"></span><br><span class="line">創用CC授權條款有多種不同類型。授權條款可以有不同的</span><br><span class="line">組合，由分發條款決定。</span><br><span class="line"></span><br><span class="line">說明	縮寫	姓名標示要求	混合作品	允許商業性使用	允許自由文化作品	符合OKI的「開放定義」</span><br><span class="line">不受限制地在全球範圍內釋出內容							CC0			否	是	是	是	是</span><br><span class="line">姓名標示（BY）											BY			是	是	是	是	是</span><br><span class="line">姓名標示（BY）-相同方式分享（SA）						BY-SA		是	是	是	是	是</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）						BY-NC		是	是	否	否	否</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）-相同方式分享（SA）	BY-NC-SA	是	是	否	否	否</span><br><span class="line">姓名標示（BY）-禁止改作（ND）							BY-ND		是	否	是	否	否</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）-禁止改作（ND）		BY-NC-ND	是	否	否	否	否</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Website</category>
-      </categories>
-      <tags>
-        <tag>Website</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>What Is Hedge Fund</title>
     <url>/posts/fbe6cd1a/</url>
     <content><![CDATA[<h3 id="What-Is-Hedge-Fund"><a href="#What-Is-Hedge-Fund" class="headerlink" title="What Is Hedge Fund"></a>What Is Hedge Fund</h3><span id="more"></span>
@@ -574,19 +588,6 @@
       </categories>
       <tags>
         <tag>Investment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>What Is Gamblers Fallacy?</title>
-    <url>/posts/7d7b93d3/</url>
-    <content><![CDATA[<h3 id="What-Is-Gambler’s-Fallacy"><a href="#What-Is-Gambler’s-Fallacy" class="headerlink" title="What Is Gambler’s Fallacy?"></a>What Is Gambler’s Fallacy?</h3><span id="more"></span>
-<p>這篇介紹What Is Gambler’s Fallacy。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">賭徒謬誤（The Gambler’s Fallacy）亦稱為蒙地卡羅</span><br><span class="line">謬誤（The Monte Carlo Fallacy），是一種機率謬誤，</span><br><span class="line">主張由於某事發生了很多次，因此接下來不太可能發生</span><br><span class="line">；或者由於某事很久沒發生，因此接下來很可能會發生。</span><br><span class="line"></span><br><span class="line">賭徒謬誤的思維方式像是如此：拋一枚公平的硬幣，</span><br><span class="line">連續出現越多次正面朝上，下次拋出正面的機率就越小</span><br><span class="line">，拋出反面的機率就越大。</span><br><span class="line"></span><br><span class="line">最著名的案例是在蒙利卡羅的黑紅輪盤，當時已開出26次黑</span><br><span class="line">的結果，賭徒確信在第27次開出紅的結果機率遠大於黑，</span><br><span class="line">於是這些賭徒輸給賭場好幾百萬元。</span><br><span class="line"></span><br><span class="line">不管在輪盤是第幾次開結果，開出黑或紅的機率都是</span><br><span class="line">一樣為50%。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -603,41 +604,11 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Prisoners Dilemma?</title>
-    <url>/posts/4f37cb56/</url>
-    <content><![CDATA[<h2 id="What-Is-Prisoner’s-Dilemma"><a href="#What-Is-Prisoner’s-Dilemma" class="headerlink" title="What Is Prisoner’s Dilemma?"></a>What Is Prisoner’s Dilemma?</h2><span id="more"></span>
-<p>這篇介紹What Is Prisoner’s Dilemma。</p>
-<h2 id="Intro"><a href="#Intro" class="headerlink" title="Intro:"></a>Intro:</h2><p>囚犯困境（英語：Prisoner’s Dilemma）是賽局理論的非零和賽局中<br>具代表性的例子，反映個人最佳選擇並非團體最佳選擇。或者說在一<br>個群體中，個人做出理性選擇卻往往導致集體的非理性。雖然困境<br>本身只屬模型性質，但現實中的價格競爭、環境保護等方面，也會<br>頻繁出現類似情況。</p>
-<p>單次發生的囚犯困境，和多次重複的囚犯困境結果不會一樣。</p>
-<p>在重複的囚犯困境中，賽局被反覆地進行。因而每個參與者都有機會<br>去「懲罰」另一個參與者前一回合的不合作行為。這時，合作可能會<br>作為均衡的結果出現。欺騙的動機這時可能被受到懲罰的威脅所克服，<br>從而可能導向一個較好的、合作的結果。作為反覆接近無限的數量，<br>納許均衡趨向於柏拉圖效率。</p>
-<p>囚犯困境的主旨為，囚犯們彼此合作，堅不吐實，可為全體帶來最佳<br>利益（縮短刑期），但在無法溝通的情況下，因為出賣同夥可為自己<br>帶來利益（無罪開釋），也因為同夥把自己招出來可為他帶來利益，<br>因此彼此出賣雖違反最佳共同利益，反而是自己最大利益所在。但<br>實際上，執法機構不可能設立如此情境來誘使所有囚犯招供，因為<br>囚犯們必須考慮刑期以外之因素（出賣同夥會受到報復等），而無法<br>完全以執法者所設立之利益（刑期）作考量，所以這是一個參考性<br>的學術問題。</p>
-]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>What Is Marginal Effect?</title>
     <url>/posts/2c521d7f/</url>
     <content><![CDATA[<h3 id="What-Is-Marginal-Effect"><a href="#What-Is-Marginal-Effect" class="headerlink" title="What Is Marginal Effect?"></a>What Is Marginal Effect?</h3><span id="more"></span>
 <p>這篇介紹What Is Marginal Effect。</p>
 <h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">邊際效應在經濟學上的定義，在資源是有限的前提之下，</span><br><span class="line">如何把資源分配到不同的項目上使用，成為經濟學、社會學</span><br><span class="line">、心理學和日常生活裡的重要課題。</span><br><span class="line"></span><br><span class="line">通常聽到的邊際效應例子都是逐漸遞減，當投入成本越高</span><br><span class="line">獲得的回報會逐漸降低。邊際效應也可能等於零，一家五口</span><br><span class="line">去遊樂場玩，買門票時售票員說今天買五送一，第六張門票</span><br><span class="line">的邊際效應也是零。</span><br><span class="line"></span><br><span class="line">上述舉例中的邊際效應都是逐漸遞減，這在許多現實的經濟</span><br><span class="line">和社會行為裡都會出現，因此也被稱為「邊際效應遞減定律」。</span><br><span class="line">不過在現實生活中，邊際效應也是會遞增的：木匠要做一把椅子</span><br><span class="line">，第一和第二支椅腳的邊際效應是零，第三支椅腳的邊際效應最大，</span><br><span class="line">第四支椅腳也有正的邊際效應，因為能夠增加椅子的平穩度，但第</span><br><span class="line">五支和第六支椅腳的邊際效應又等於零了。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">同樣是分配，我們每天有24小時，要把這24小時分配在睡眠、</span><br><span class="line">工作、學習、運動和與家人朋友共處這5個項目上面，這些項目</span><br><span class="line">的效應可以用一個健康、快樂、成功的效應來量度。每一小時或</span><br><span class="line">每一分鐘花在每一個項目的邊際效應是不同的，粗略來說，大致</span><br><span class="line">上都是遞減，例如剛上床睡覺時又甜又香，可是睡夠了，邊際效應</span><br><span class="line">就逐漸趨向於零；剛開始工作時的邊際效應很高，若工作過了頭，</span><br><span class="line">邊際效應可能就變成負的。若能把花在這五個項目上的時間總效應</span><br><span class="line">算出來，就是健康、快樂和成功的指數，也就知道如何分配每天的</span><br><span class="line">二十四小時了。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>What Is Volunteers Delimma?</title>
-    <url>/posts/ee525b9f/</url>
-    <content><![CDATA[<h3 id="What-Is-Volunteers-Delimma"><a href="#What-Is-Volunteers-Delimma" class="headerlink" title="What Is Volunteers Delimma?"></a>What Is Volunteers Delimma?</h3><span id="more"></span>
-<p>這篇介紹What Is Volunteers Delimma。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">志願者困境的博弈模型是，有N個參與者，每人都面臨</span><br><span class="line">要麼犧牲自己小部分利益，要麼選擇搭便車。</span><br><span class="line"></span><br><span class="line">用如下場景來描述該博弈：有一個社區都停電了，社區</span><br><span class="line">裡所有居民都知道，只要有一個人花錢打電話給電力公</span><br><span class="line">司，電力公司就會修復這個問題。但是如果沒有志願者</span><br><span class="line">，所有人都面臨一直沒電的情況。如果有一個人決定做</span><br><span class="line">志願者，其他人都會因為沒有做而獲益。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -656,34 +627,6 @@
       </categories>
       <tags>
         <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ASTRA佈景主題套用</title>
-    <url>/posts/ebf5813d/</url>
-    <content><![CDATA[<h3 id="ASTRA佈景主題套用"><a href="#ASTRA佈景主題套用" class="headerlink" title="ASTRA佈景主題套用"></a>ASTRA佈景主題套用</h3><span id="more"></span>
-<p>這篇介紹ASTRA佈景主題套用。</p>
-<h3 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use"></a>How to use</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.安裝Starter Templates外掛</span><br><span class="line"></span><br><span class="line">2.點選see library -&gt; 選擇想要的佈景主題</span><br><span class="line"></span><br><span class="line">3.安裝Elementor編輯器</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Astra</category>
-      </categories>
-      <tags>
-        <tag>Website</tag>
-        <tag>WordPress</tag>
-        <tag>Astra</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Zero Sum Game</title>
-    <url>/posts/3a0c4326/</url>
-    <content><![CDATA[<h3 id="零和遊戲-ZERO-SUM-GAME"><a href="#零和遊戲-ZERO-SUM-GAME" class="headerlink" title="零和遊戲(ZERO-SUM GAME)"></a>零和遊戲(ZERO-SUM GAME)</h3><span id="more"></span>
-<p>這篇介紹零和遊戲(ZERO-SUM GAME)。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">源於數學的博弈論（Game Theory）概念，</span><br><span class="line">主要指雙方博弈時，一方的得益必然會造成另一方的損失，</span><br><span class="line">因而雙方對峙結果的總和永遠等如零。</span><br><span class="line"></span><br><span class="line">屬非合作賽局。零和賽局表示所有賽局方的利益之和為零或一個常數，</span><br><span class="line">即一方有所得，其他方必有所失。在零和賽局中，賽局各方是不合作的。</span><br><span class="line">非零和賽局表示在不同策略組合下各賽局方的得益之和是不確定的變數，</span><br><span class="line">故又稱之為變和賽局。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Investment</category>
-      </categories>
-      <tags>
-        <tag>Investment</tag>
       </tags>
   </entry>
   <entry>
@@ -713,16 +656,61 @@
       </tags>
   </entry>
   <entry>
-    <title>介紹 APPLE ID 詐騙</title>
-    <url>/posts/6b99881a/</url>
-    <content><![CDATA[<h3 id="介紹-APPLE-ID-詐騙"><a href="#介紹-APPLE-ID-詐騙" class="headerlink" title="介紹 APPLE ID 詐騙"></a>介紹 APPLE ID 詐騙</h3><span id="more"></span>
-<p>這篇介紹APPLE ID 詐騙</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">hotmail.com收到一封Email如下:</span><br><span class="line"></span><br><span class="line">寄件者: Apple支援 &lt;ztuvyogjnk@outlook.com&gt;</span><br><span class="line">寄件日期: 2023年10月8日 下午 06:05</span><br><span class="line">收件者: aaa</span><br><span class="line">主旨: 您的 Apple ID（aaa） 帳戶有一筆交易目前受到限制<span class="comment">#UL9QWJZ0OQ</span></span><br><span class="line"> </span><br><span class="line">您的 Apple ID 帳戶有一筆交易目前受到限制</span><br><span class="line"></span><br><span class="line">您好：</span><br><span class="line"></span><br><span class="line">您的 Apple ID 已於2023年10月8日18:05:35 GMT+8 購買了以下內容：</span><br><span class="line">....</span><br><span class="line"></span><br><span class="line">首先寄信來的Email不是使用xxx@apple.com信箱，該信箱也很隨便</span><br><span class="line">Email裡面有一些個人資料但地址是錯誤的(非台灣，在大陸)</span><br><span class="line">信件有很多超連結! 這邊千萬不要點進去!</span><br><span class="line"></span><br><span class="line">再來可以將信轉寄給reportphishing@apple.com </span><br></pre></td></tr></table></figure>]]></content>
+    <title>Zero Sum Game</title>
+    <url>/posts/3a0c4326/</url>
+    <content><![CDATA[<h3 id="零和遊戲-ZERO-SUM-GAME"><a href="#零和遊戲-ZERO-SUM-GAME" class="headerlink" title="零和遊戲(ZERO-SUM GAME)"></a>零和遊戲(ZERO-SUM GAME)</h3><span id="more"></span>
+<p>這篇介紹零和遊戲(ZERO-SUM GAME)。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">源於數學的博弈論（Game Theory）概念，</span><br><span class="line">主要指雙方博弈時，一方的得益必然會造成另一方的損失，</span><br><span class="line">因而雙方對峙結果的總和永遠等如零。</span><br><span class="line"></span><br><span class="line">屬非合作賽局。零和賽局表示所有賽局方的利益之和為零或一個常數，</span><br><span class="line">即一方有所得，其他方必有所失。在零和賽局中，賽局各方是不合作的。</span><br><span class="line">非零和賽局表示在不同策略組合下各賽局方的得益之和是不確定的變數，</span><br><span class="line">故又稱之為變和賽局。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Scam</category>
+        <category>Investment</category>
       </categories>
       <tags>
-        <tag>Scam</tag>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is Volunteers Delimma?</title>
+    <url>/posts/ee525b9f/</url>
+    <content><![CDATA[<h3 id="What-Is-Volunteers-Delimma"><a href="#What-Is-Volunteers-Delimma" class="headerlink" title="What Is Volunteers Delimma?"></a>What Is Volunteers Delimma?</h3><span id="more"></span>
+<p>這篇介紹What Is Volunteers Delimma。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">志願者困境的博弈模型是，有N個參與者，每人都面臨</span><br><span class="line">要麼犧牲自己小部分利益，要麼選擇搭便車。</span><br><span class="line"></span><br><span class="line">用如下場景來描述該博弈：有一個社區都停電了，社區</span><br><span class="line">裡所有居民都知道，只要有一個人花錢打電話給電力公</span><br><span class="line">司，電力公司就會修復這個問題。但是如果沒有志願者</span><br><span class="line">，所有人都面臨一直沒電的情況。如果有一個人決定做</span><br><span class="line">志願者，其他人都會因為沒有做而獲益。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is Prisoners Dilemma?</title>
+    <url>/posts/4f37cb56/</url>
+    <content><![CDATA[<h2 id="What-Is-Prisoner’s-Dilemma"><a href="#What-Is-Prisoner’s-Dilemma" class="headerlink" title="What Is Prisoner’s Dilemma?"></a>What Is Prisoner’s Dilemma?</h2><span id="more"></span>
+<p>這篇介紹What Is Prisoner’s Dilemma。</p>
+<h2 id="Intro"><a href="#Intro" class="headerlink" title="Intro:"></a>Intro:</h2><p>囚犯困境（英語：Prisoner’s Dilemma）是賽局理論的非零和賽局中<br>具代表性的例子，反映個人最佳選擇並非團體最佳選擇。或者說在一<br>個群體中，個人做出理性選擇卻往往導致集體的非理性。雖然困境<br>本身只屬模型性質，但現實中的價格競爭、環境保護等方面，也會<br>頻繁出現類似情況。</p>
+<p>單次發生的囚犯困境，和多次重複的囚犯困境結果不會一樣。</p>
+<p>在重複的囚犯困境中，賽局被反覆地進行。因而每個參與者都有機會<br>去「懲罰」另一個參與者前一回合的不合作行為。這時，合作可能會<br>作為均衡的結果出現。欺騙的動機這時可能被受到懲罰的威脅所克服，<br>從而可能導向一個較好的、合作的結果。作為反覆接近無限的數量，<br>納許均衡趨向於柏拉圖效率。</p>
+<p>囚犯困境的主旨為，囚犯們彼此合作，堅不吐實，可為全體帶來最佳<br>利益（縮短刑期），但在無法溝通的情況下，因為出賣同夥可為自己<br>帶來利益（無罪開釋），也因為同夥把自己招出來可為他帶來利益，<br>因此彼此出賣雖違反最佳共同利益，反而是自己最大利益所在。但<br>實際上，執法機構不可能設立如此情境來誘使所有囚犯招供，因為<br>囚犯們必須考慮刑期以外之因素（出賣同夥會受到報復等），而無法<br>完全以執法者所設立之利益（刑期）作考量，所以這是一個參考性<br>的學術問題。</p>
+]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ASTRA佈景主題套用</title>
+    <url>/posts/ebf5813d/</url>
+    <content><![CDATA[<h3 id="ASTRA佈景主題套用"><a href="#ASTRA佈景主題套用" class="headerlink" title="ASTRA佈景主題套用"></a>ASTRA佈景主題套用</h3><span id="more"></span>
+<p>這篇介紹ASTRA佈景主題套用。</p>
+<h3 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use"></a>How to use</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.安裝Starter Templates外掛</span><br><span class="line"></span><br><span class="line">2.點選see library -&gt; 選擇想要的佈景主題</span><br><span class="line"></span><br><span class="line">3.安裝Elementor編輯器</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Astra</category>
+      </categories>
+      <tags>
+        <tag>Website</tag>
+        <tag>WordPress</tag>
+        <tag>Astra</tag>
       </tags>
   </entry>
   <entry>
@@ -736,6 +724,19 @@
       </categories>
       <tags>
         <tag>PersonalComputer</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>介紹 APPLE ID 詐騙</title>
+    <url>/posts/6b99881a/</url>
+    <content><![CDATA[<h3 id="介紹-APPLE-ID-詐騙"><a href="#介紹-APPLE-ID-詐騙" class="headerlink" title="介紹 APPLE ID 詐騙"></a>介紹 APPLE ID 詐騙</h3><span id="more"></span>
+<p>這篇介紹APPLE ID 詐騙</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">hotmail.com收到一封Email如下:</span><br><span class="line"></span><br><span class="line">寄件者: Apple支援 &lt;ztuvyogjnk@outlook.com&gt;</span><br><span class="line">寄件日期: 2023年10月8日 下午 06:05</span><br><span class="line">收件者: aaa</span><br><span class="line">主旨: 您的 Apple ID（aaa） 帳戶有一筆交易目前受到限制<span class="comment">#UL9QWJZ0OQ</span></span><br><span class="line"> </span><br><span class="line">您的 Apple ID 帳戶有一筆交易目前受到限制</span><br><span class="line"></span><br><span class="line">您好：</span><br><span class="line"></span><br><span class="line">您的 Apple ID 已於2023年10月8日18:05:35 GMT+8 購買了以下內容：</span><br><span class="line">....</span><br><span class="line"></span><br><span class="line">首先寄信來的Email不是使用xxx@apple.com信箱，該信箱也很隨便</span><br><span class="line">Email裡面有一些個人資料但地址是錯誤的(非台灣，在大陸)</span><br><span class="line">信件有很多超連結! 這邊千萬不要點進去!</span><br><span class="line"></span><br><span class="line">再來可以將信轉寄給reportphishing@apple.com </span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Scam</category>
+      </categories>
+      <tags>
+        <tag>Scam</tag>
       </tags>
   </entry>
   <entry>
@@ -765,16 +766,16 @@
       </tags>
   </entry>
   <entry>
-    <title>原則-PrinciplesLifeAndWork</title>
-    <url>/posts/8f898476/</url>
-    <content><![CDATA[<h3 id="原則-PrinciplesLifeAndWork"><a href="#原則-PrinciplesLifeAndWork" class="headerlink" title="原則-PrinciplesLifeAndWork"></a>原則-PrinciplesLifeAndWork</h3><span id="more"></span>
-<p>這篇紀錄原則-PrinciplesLifeAndWork。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">作者是橋水基金的創辦人Ray Dalio，本書介紹他的成長過程以及從</span><br><span class="line">創業歷經失敗到慢慢成功。可以從Ray Dalio身上學到該避開哪些可</span><br><span class="line">能會失敗的決策過程。如何創造創意擇優，極其公開透明的企業文化。</span><br><span class="line">皆是本書的重點，非常推薦及期待Ray Dalio的下一本著作。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>介紹水肺氣瓶 大小支的差異</title>
+    <url>/posts/5a48e763/</url>
+    <content><![CDATA[<h3 id="介紹水肺氣瓶-大小支的差異"><a href="#介紹水肺氣瓶-大小支的差異" class="headerlink" title="介紹水肺氣瓶 大小支的差異"></a>介紹水肺氣瓶 大小支的差異</h3><span id="more"></span>
+<p>這篇介紹水肺氣瓶 大小支的差異。</p>
+<h3 id="Versus"><a href="#Versus" class="headerlink" title="Versus"></a>Versus</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">我常去的氣瓶店提供的尺寸是S80(大)和S63(小)兩種，英制</span><br><span class="line"></span><br><span class="line">S80 : 80立方呎，約11.3公升</span><br><span class="line">S63 : 63立方呎</span><br><span class="line"></span><br><span class="line">在台灣，兩種氣瓶通常會是200bar</span><br><span class="line"></span><br><span class="line">用公升數來算的話，S63會比S80少1/3的空氣容量。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Book</category>
+        <category>Dive</category>
       </categories>
       <tags>
-        <tag>Book</tag>
+        <tag>Dive</tag>
       </tags>
   </entry>
   <entry>
@@ -791,16 +792,16 @@
       </tags>
   </entry>
   <entry>
-    <title>介紹水肺氣瓶 大小支的差異</title>
-    <url>/posts/5a48e763/</url>
-    <content><![CDATA[<h3 id="介紹水肺氣瓶-大小支的差異"><a href="#介紹水肺氣瓶-大小支的差異" class="headerlink" title="介紹水肺氣瓶 大小支的差異"></a>介紹水肺氣瓶 大小支的差異</h3><span id="more"></span>
-<p>這篇介紹水肺氣瓶 大小支的差異。</p>
-<h3 id="Versus"><a href="#Versus" class="headerlink" title="Versus"></a>Versus</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">我常去的氣瓶店提供的尺寸是S80(大)和S63(小)兩種，英制</span><br><span class="line"></span><br><span class="line">S80 : 80立方呎，約11.3公升</span><br><span class="line">S63 : 63立方呎</span><br><span class="line"></span><br><span class="line">在台灣，兩種氣瓶通常會是200bar</span><br><span class="line"></span><br><span class="line">用公升數來算的話，S63會比S80少1/3的空氣容量。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>原則-PrinciplesLifeAndWork</title>
+    <url>/posts/8f898476/</url>
+    <content><![CDATA[<h3 id="原則-PrinciplesLifeAndWork"><a href="#原則-PrinciplesLifeAndWork" class="headerlink" title="原則-PrinciplesLifeAndWork"></a>原則-PrinciplesLifeAndWork</h3><span id="more"></span>
+<p>這篇紀錄原則-PrinciplesLifeAndWork。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">作者是橋水基金的創辦人Ray Dalio，本書介紹他的成長過程以及從</span><br><span class="line">創業歷經失敗到慢慢成功。可以從Ray Dalio身上學到該避開哪些可</span><br><span class="line">能會失敗的決策過程。如何創造創意擇優，極其公開透明的企業文化。</span><br><span class="line">皆是本書的重點，非常推薦及期待Ray Dalio的下一本著作。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Dive</category>
+        <category>Book</category>
       </categories>
       <tags>
-        <tag>Dive</tag>
+        <tag>Book</tag>
       </tags>
   </entry>
   <entry>
@@ -818,43 +819,16 @@
       </tags>
   </entry>
   <entry>
-    <title>台灣 國內線航班 訂票注意事項</title>
-    <url>/posts/d92f717/</url>
-    <content><![CDATA[<h3 id="Intro-台灣-國內線航班-訂票注意事項"><a href="#Intro-台灣-國內線航班-訂票注意事項" class="headerlink" title="Intro 台灣 國內線航班 訂票注意事項"></a>Intro 台灣 國內線航班 訂票注意事項</h3><span id="more"></span>
-<p>這篇介紹台灣 國內線航班 訂票注意事項。</p>
-<h3 id="松山飛台東"><a href="#松山飛台東" class="headerlink" title="松山飛台東"></a>松山飛台東</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">台灣國內線訂票請使用中文名字訂票，因國內線取票是用</span><br><span class="line">身分證或健保卡。若使用護照英文名子訂購的話，須出示</span><br><span class="line">護照證明會相對麻煩。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>可不可以不變老 重點摘要</title>
+    <url>/posts/530c5891/</url>
+    <content><![CDATA[<h3 id="可不可以不變老-重點摘要"><a href="#可不可以不變老-重點摘要" class="headerlink" title="可不可以不變老 重點摘要"></a>可不可以不變老 重點摘要</h3><span id="more"></span>
+<p>這篇介紹可不可以不變老 重點摘要。</p>
+<h3 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.飲食保持飢餓的狀態(全飽的75%)，吃原型食物，不要吃加工食品。</span><br><span class="line">  肉類有各種胺基酸，植物類只有單一或多種胺基酸，素食者需吃多種不同的植物 =&gt; 飲食均衡最重要</span><br><span class="line">2.運動，有做就有效! (快走不算 要有異於平常的心肺能力之運動)，慢跑、游泳、有氧...等。</span><br><span class="line">3.讓身體經常保持在冷或熱的狀態(洗冷水澡、桑拿浴...等)</span><br><span class="line">4.補充NMN或NR這種保健品，無法從飲食攝取的才需要補充。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Flight</category>
+        <category>Book</category>
       </categories>
       <tags>
-        <tag>Flight</tag>
-        <tag>Domestic</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何選擇登山包容量</title>
-    <url>/posts/88cc88e7/</url>
-    <content><![CDATA[<h3 id="如何選擇登山包容量"><a href="#如何選擇登山包容量" class="headerlink" title="如何選擇登山包容量"></a>如何選擇登山包容量</h3><span id="more"></span>
-<p>這篇介紹如何選擇登山包容量。</p>
-<h3 id="登山包容量"><a href="#登山包容量" class="headerlink" title="登山包容量"></a>登山包容量</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">一般以要爬的天數為優先考量</span><br><span class="line">(只揹個人物品)~(需要分擔揹物)</span><br><span class="line">1~2天登山約38L~48L夠用</span><br><span class="line">2~3天登山約48L~65L夠用</span><br><span class="line">3~4天登山約65L~80L夠用</span><br><span class="line"></span><br><span class="line">再來是需不需要揹糧食、水、睡袋跟睡墊</span><br><span class="line">再往上加容量即可</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>BackPack</category>
-      </categories>
-      <tags>
-        <tag>BackPack</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何處理國泰外幣匯款至海外卷商附言打錯</title>
-    <url>/posts/b9c8e96d/</url>
-    <content><![CDATA[<h3 id="如何處理國泰外幣匯款至海外卷商附言打錯"><a href="#如何處理國泰外幣匯款至海外卷商附言打錯" class="headerlink" title="如何處理國泰外幣匯款至海外卷商附言打錯"></a>如何處理國泰外幣匯款至海外卷商附言打錯</h3><span id="more"></span>
-<p>這篇介紹如何處理國泰外幣匯款至海外卷商附言打錯。</p>
-<h3 id="發生過程"><a href="#發生過程" class="headerlink" title="發生過程"></a>發生過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">在使用國泰世華網路銀行匯外幣至海外卷商帳戶後</span><br><span class="line">接到國泰世華分行來電說該筆款項被對方退匯</span><br><span class="line">需跑分行一趟來辦理退匯至外幣帳戶，需收取NT<span class="variable">$250</span>手續費</span><br><span class="line"></span><br><span class="line">被退匯原因:</span><br><span class="line">附言8碼打成帳號8碼，正常來說這兩個8碼是不同號碼才對</span><br><span class="line"></span><br><span class="line">損失:第一次匯費NT<span class="variable">$800</span>全額到付+NT<span class="variable">$250</span>手續費 + 需跑分行辦理一趟</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Investment</category>
-      </categories>
-      <tags>
-        <tag>Investment</tag>
+        <tag>Book</tag>
       </tags>
   </entry>
   <entry>
@@ -871,16 +845,17 @@
       </tags>
   </entry>
   <entry>
-    <title>可不可以不變老 重點摘要</title>
-    <url>/posts/530c5891/</url>
-    <content><![CDATA[<h3 id="可不可以不變老-重點摘要"><a href="#可不可以不變老-重點摘要" class="headerlink" title="可不可以不變老 重點摘要"></a>可不可以不變老 重點摘要</h3><span id="more"></span>
-<p>這篇介紹可不可以不變老 重點摘要。</p>
-<h3 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.飲食保持飢餓的狀態(全飽的75%)，吃原型食物，不要吃加工食品。</span><br><span class="line">  肉類有各種胺基酸，植物類只有單一或多種胺基酸，素食者需吃多種不同的植物 =&gt; 飲食均衡最重要</span><br><span class="line">2.運動，有做就有效! (快走不算 要有異於平常的心肺能力之運動)，慢跑、游泳、有氧...等。</span><br><span class="line">3.讓身體經常保持在冷或熱的狀態(洗冷水澡、桑拿浴...等)</span><br><span class="line">4.補充NMN或NR這種保健品，無法從飲食攝取的才需要補充。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>台灣 國內線航班 訂票注意事項</title>
+    <url>/posts/d92f717/</url>
+    <content><![CDATA[<h3 id="Intro-台灣-國內線航班-訂票注意事項"><a href="#Intro-台灣-國內線航班-訂票注意事項" class="headerlink" title="Intro 台灣 國內線航班 訂票注意事項"></a>Intro 台灣 國內線航班 訂票注意事項</h3><span id="more"></span>
+<p>這篇介紹台灣 國內線航班 訂票注意事項。</p>
+<h3 id="松山飛台東"><a href="#松山飛台東" class="headerlink" title="松山飛台東"></a>松山飛台東</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">台灣國內線訂票請使用中文名字訂票，因國內線取票是用</span><br><span class="line">身分證或健保卡。若使用護照英文名子訂購的話，須出示</span><br><span class="line">護照證明會相對麻煩。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Book</category>
+        <category>Flight</category>
       </categories>
       <tags>
-        <tag>Book</tag>
+        <tag>Flight</tag>
+        <tag>Domestic</tag>
       </tags>
   </entry>
   <entry>
@@ -895,6 +870,32 @@
       <tags>
         <tag>Chrome</tag>
         <tag>Google</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何處理國泰外幣匯款至海外卷商附言打錯</title>
+    <url>/posts/b9c8e96d/</url>
+    <content><![CDATA[<h3 id="如何處理國泰外幣匯款至海外卷商附言打錯"><a href="#如何處理國泰外幣匯款至海外卷商附言打錯" class="headerlink" title="如何處理國泰外幣匯款至海外卷商附言打錯"></a>如何處理國泰外幣匯款至海外卷商附言打錯</h3><span id="more"></span>
+<p>這篇介紹如何處理國泰外幣匯款至海外卷商附言打錯。</p>
+<h3 id="發生過程"><a href="#發生過程" class="headerlink" title="發生過程"></a>發生過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">在使用國泰世華網路銀行匯外幣至海外卷商帳戶後</span><br><span class="line">接到國泰世華分行來電說該筆款項被對方退匯</span><br><span class="line">需跑分行一趟來辦理退匯至外幣帳戶，需收取NT<span class="variable">$250</span>手續費</span><br><span class="line"></span><br><span class="line">被退匯原因:</span><br><span class="line">附言8碼打成帳號8碼，正常來說這兩個8碼是不同號碼才對</span><br><span class="line"></span><br><span class="line">損失:第一次匯費NT<span class="variable">$800</span>全額到付+NT<span class="variable">$250</span>手續費 + 需跑分行辦理一趟</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何選擇登山包容量</title>
+    <url>/posts/88cc88e7/</url>
+    <content><![CDATA[<h3 id="如何選擇登山包容量"><a href="#如何選擇登山包容量" class="headerlink" title="如何選擇登山包容量"></a>如何選擇登山包容量</h3><span id="more"></span>
+<p>這篇介紹如何選擇登山包容量。</p>
+<h3 id="登山包容量"><a href="#登山包容量" class="headerlink" title="登山包容量"></a>登山包容量</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">一般以要爬的天數為優先考量</span><br><span class="line">(只揹個人物品)~(需要分擔揹物)</span><br><span class="line">1~2天登山約38L~48L夠用</span><br><span class="line">2~3天登山約48L~65L夠用</span><br><span class="line">3~4天登山約65L~80L夠用</span><br><span class="line"></span><br><span class="line">再來是需不需要揹糧食、水、睡袋跟睡墊</span><br><span class="line">再往上加容量即可</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>BackPack</category>
+      </categories>
+      <tags>
+        <tag>BackPack</tag>
       </tags>
   </entry>
   <entry>
@@ -924,19 +925,6 @@
       </tags>
   </entry>
   <entry>
-    <title>泡湯地點推薦</title>
-    <url>/posts/5f25ee2c/</url>
-    <content><![CDATA[<h3 id="泡湯地點推薦"><a href="#泡湯地點推薦" class="headerlink" title="泡湯地點推薦"></a>泡湯地點推薦</h3><span id="more"></span>
-<p>這篇介紹泡湯地點推薦。</p>
-<h3 id="地點推薦"><a href="#地點推薦" class="headerlink" title="地點推薦"></a>地點推薦</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">北投</span><br><span class="line">皇池溫泉御膳館</span><br><span class="line">地址:112台北市北投區行義路402巷42-1號</span><br><span class="line">半露天，需自備毛巾，泡湯時間較短</span><br><span class="line">1~5顆星，推薦3.8顆星</span><br><span class="line"></span><br><span class="line">陽明山</span><br><span class="line">馬槽花藝村</span><br><span class="line">地址:111台北市士林區竹子湖路251巷20號</span><br><span class="line">半露天，需自備毛巾，泡湯一小時</span><br><span class="line">1~5顆星，推薦4.1顆星</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Onsen</category>
-      </categories>
-      <tags>
-        <tag>Onsen</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>旅平險身故繼承人</title>
     <url>/posts/c617a7ad/</url>
     <content><![CDATA[<h3 id="旅平險身故繼承人"><a href="#旅平險身故繼承人" class="headerlink" title="旅平險身故繼承人"></a>旅平險身故繼承人</h3><span id="more"></span>
@@ -960,6 +948,19 @@
       </categories>
       <tags>
         <tag>PersonalComputer</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>泡湯地點推薦</title>
+    <url>/posts/5f25ee2c/</url>
+    <content><![CDATA[<h3 id="泡湯地點推薦"><a href="#泡湯地點推薦" class="headerlink" title="泡湯地點推薦"></a>泡湯地點推薦</h3><span id="more"></span>
+<p>這篇介紹泡湯地點推薦。</p>
+<h3 id="地點推薦"><a href="#地點推薦" class="headerlink" title="地點推薦"></a>地點推薦</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">北投</span><br><span class="line">皇池溫泉御膳館</span><br><span class="line">地址:112台北市北投區行義路402巷42-1號</span><br><span class="line">半露天，需自備毛巾，泡湯時間較短</span><br><span class="line">1~5顆星，推薦3.8顆星</span><br><span class="line"></span><br><span class="line">陽明山</span><br><span class="line">馬槽花藝村</span><br><span class="line">地址:111台北市士林區竹子湖路251巷20號</span><br><span class="line">半露天，需自備毛巾，泡湯一小時</span><br><span class="line">1~5顆星，推薦4.1顆星</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Onsen</category>
+      </categories>
+      <tags>
+        <tag>Onsen</tag>
       </tags>
   </entry>
   <entry>
@@ -989,20 +990,6 @@
       </tags>
   </entry>
   <entry>
-    <title>紐西蘭 自駕 加油 心得</title>
-    <url>/posts/4c6bc75a/</url>
-    <content><![CDATA[<h3 id="關於紐西蘭-自駕-加油-心得"><a href="#關於紐西蘭-自駕-加油-心得" class="headerlink" title="關於紐西蘭 自駕 加油 心得"></a>關於紐西蘭 自駕 加油 心得</h3><span id="more"></span>
-<p>這篇介紹關於紐西蘭 自駕 加油 心得。</p>
-<h3 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.越偏僻的加油站，油價相對便宜</span><br><span class="line">2.推薦各McKeown CardFuel 24/7，油價相對便宜</span><br><span class="line">3.準備兩張以上的信用卡，最好是MasterCard和VISA各一張</span><br><span class="line">4.NPD油價也便宜，但機器會挑卡片，經常到PIN CODE會失敗</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Travel</category>
-      </categories>
-      <tags>
-        <tag>Travel</tag>
-        <tag>Gas</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>申請 營業用動力小船 與 二等遊艇證照 費用</title>
     <url>/posts/67768091/</url>
     <content><![CDATA[<h3 id="申請-營業用動力小船-與-二等遊艇證照-費用"><a href="#申請-營業用動力小船-與-二等遊艇證照-費用" class="headerlink" title="申請 營業用動力小船 與 二等遊艇證照 費用"></a>申請 營業用動力小船 與 二等遊艇證照 費用</h3><span id="more"></span>
@@ -1014,34 +1001,6 @@
       <tags>
         <tag>Boat</tag>
         <tag>License</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>紐西蘭 超市 心得</title>
-    <url>/posts/27546bfd/</url>
-    <content><![CDATA[<h3 id="關於紐西蘭-超市-心得"><a href="#關於紐西蘭-超市-心得" class="headerlink" title="關於紐西蘭 超市 心得"></a>關於紐西蘭 超市 心得</h3><span id="more"></span>
-<p>這篇介紹關於紐西蘭 超市 心得。</p>
-<h3 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.Pak<span class="string">&#x27;n Save價格最便宜，結帳有自助結帳系統，買酒要出示相關年齡證件。</span></span><br><span class="line"><span class="string">2.同一支白酒，在基督城會比皇后鎮便宜。</span></span><br><span class="line"><span class="string">3.淡菜和牛羊肉便宜</span></span><br><span class="line"><span class="string">4.越偏僻的鄉鎮，物價相對較高</span></span><br><span class="line"><span class="string">5.玉米、蘑菇、櫛瓜非常推薦購買</span></span><br><span class="line"><span class="string">6.對旅行常換住宿來說，小塊奶油會比較好用</span></span><br><span class="line"><span class="string">7.第一天超市採買可買油、鹽、黑胡椒</span></span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Travel</category>
-      </categories>
-      <tags>
-        <tag>Travel</tag>
-        <tag>SuperMarket</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>維修 電視 經驗</title>
-    <url>/posts/b64e3275/</url>
-    <content><![CDATA[<h3 id="介紹-維修-電視-經驗"><a href="#介紹-維修-電視-經驗" class="headerlink" title="介紹 維修 電視 經驗"></a>介紹 維修 電視 經驗</h3><span id="more"></span>
-<p>這篇介紹維修電視經驗</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有一天電視開始出現閃屏，根據之前電視壞掉的經驗</span><br><span class="line">通常報修原廠或是一般的店家都會直接換主機板或背板。</span><br><span class="line">動輒要好幾千元~因為直接換最快不用檢修。</span><br><span class="line">最近找到一個叫電視爸爸專門維修電視的退休人士。</span><br><span class="line">現在的電視3~5年過保後就會故障，一台壽命很短~</span><br><span class="line">但通常只需要更換零件就能繼續看，但這種工作需要花時間檢修</span><br><span class="line">一般店家不願意做，基於環保的概念~如果能修好的話，必須找到</span><br><span class="line">相對專業的專家來處理!</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>TV</category>
-      </categories>
-      <tags>
-        <tag>TV</tag>
-        <tag>LED</tag>
       </tags>
   </entry>
   <entry>
@@ -1062,6 +1021,61 @@
       </categories>
       <tags>
         <tag>Car</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>紐西蘭 自駕 加油 心得</title>
+    <url>/posts/4c6bc75a/</url>
+    <content><![CDATA[<h3 id="關於紐西蘭-自駕-加油-心得"><a href="#關於紐西蘭-自駕-加油-心得" class="headerlink" title="關於紐西蘭 自駕 加油 心得"></a>關於紐西蘭 自駕 加油 心得</h3><span id="more"></span>
+<p>這篇介紹關於紐西蘭 自駕 加油 心得。</p>
+<h3 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.越偏僻的加油站，油價相對便宜</span><br><span class="line">2.推薦各McKeown CardFuel 24/7，油價相對便宜</span><br><span class="line">3.準備兩張以上的信用卡，最好是MasterCard和VISA各一張</span><br><span class="line">4.NPD油價也便宜，但機器會挑卡片，經常到PIN CODE會失敗</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Travel</category>
+      </categories>
+      <tags>
+        <tag>Travel</tag>
+        <tag>Gas</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>維修 電視 經驗</title>
+    <url>/posts/b64e3275/</url>
+    <content><![CDATA[<h3 id="介紹-維修-電視-經驗"><a href="#介紹-維修-電視-經驗" class="headerlink" title="介紹 維修 電視 經驗"></a>介紹 維修 電視 經驗</h3><span id="more"></span>
+<p>這篇介紹維修電視經驗</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有一天電視開始出現閃屏，根據之前電視壞掉的經驗</span><br><span class="line">通常報修原廠或是一般的店家都會直接換主機板或背板。</span><br><span class="line">動輒要好幾千元~因為直接換最快不用檢修。</span><br><span class="line">最近找到一個叫電視爸爸專門維修電視的退休人士。</span><br><span class="line">現在的電視3~5年過保後就會故障，一台壽命很短~</span><br><span class="line">但通常只需要更換零件就能繼續看，但這種工作需要花時間檢修</span><br><span class="line">一般店家不願意做，基於環保的概念~如果能修好的話，必須找到</span><br><span class="line">相對專業的專家來處理!</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>TV</category>
+      </categories>
+      <tags>
+        <tag>TV</tag>
+        <tag>LED</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>紐西蘭 超市 心得</title>
+    <url>/posts/27546bfd/</url>
+    <content><![CDATA[<h3 id="關於紐西蘭-超市-心得"><a href="#關於紐西蘭-超市-心得" class="headerlink" title="關於紐西蘭 超市 心得"></a>關於紐西蘭 超市 心得</h3><span id="more"></span>
+<p>這篇介紹關於紐西蘭 超市 心得。</p>
+<h3 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.Pak<span class="string">&#x27;n Save價格最便宜，結帳有自助結帳系統，買酒要出示相關年齡證件。</span></span><br><span class="line"><span class="string">2.同一支白酒，在基督城會比皇后鎮便宜。</span></span><br><span class="line"><span class="string">3.淡菜和牛羊肉便宜</span></span><br><span class="line"><span class="string">4.越偏僻的鄉鎮，物價相對較高</span></span><br><span class="line"><span class="string">5.玉米、蘑菇、櫛瓜非常推薦購買</span></span><br><span class="line"><span class="string">6.對旅行常換住宿來說，小塊奶油會比較好用</span></span><br><span class="line"><span class="string">7.第一天超市採買可買油、鹽、黑胡椒</span></span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Travel</category>
+      </categories>
+      <tags>
+        <tag>Travel</tag>
+        <tag>SuperMarket</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>處理腳踝扭傷</title>
+    <url>/posts/508b0447/</url>
+    <content><![CDATA[<h3 id="處理腳踝扭傷"><a href="#處理腳踝扭傷" class="headerlink" title="處理腳踝扭傷"></a>處理腳踝扭傷</h3><span id="more"></span>
+<p>這篇介紹處理腳踝扭傷。</p>
+<h3 id="處理步驟"><a href="#處理步驟" class="headerlink" title="處理步驟"></a>處理步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.先進行冰敷，每小時冰15分鐘</span><br><span class="line">2.腳踝腫起來，走路會痛到無法走的話 =&gt; 先去看急診骨科 + X光檢查</span><br><span class="line">3.骨科確認骨頭沒事後，改看復健科。</span><br><span class="line">4.這段期間持續冰敷緩解疼痛!</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Ankle</category>
+      </categories>
+      <tags>
+        <tag>Ankle</tag>
       </tags>
   </entry>
   <entry>
@@ -1092,19 +1106,6 @@
       </tags>
   </entry>
   <entry>
-    <title>處理腳踝扭傷</title>
-    <url>/posts/508b0447/</url>
-    <content><![CDATA[<h3 id="處理腳踝扭傷"><a href="#處理腳踝扭傷" class="headerlink" title="處理腳踝扭傷"></a>處理腳踝扭傷</h3><span id="more"></span>
-<p>這篇介紹處理腳踝扭傷。</p>
-<h3 id="處理步驟"><a href="#處理步驟" class="headerlink" title="處理步驟"></a>處理步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.先進行冰敷，每小時冰15分鐘</span><br><span class="line">2.腳踝腫起來，走路會痛到無法走的話 =&gt; 先去看急診骨科 + X光檢查</span><br><span class="line">3.骨科確認骨頭沒事後，改看復健科。</span><br><span class="line">4.這段期間持續冰敷緩解疼痛!</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Ankle</category>
-      </categories>
-      <tags>
-        <tag>Ankle</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>記錄換機油 變速箱油所需材料</title>
     <url>/posts/8e77708b/</url>
     <content><![CDATA[<h3 id="記錄換機油-變速箱油所需材料"><a href="#記錄換機油-變速箱油所需材料" class="headerlink" title="記錄換機油 變速箱油所需材料"></a>記錄換機油 變速箱油所需材料</h3><span id="more"></span>
@@ -1118,6 +1119,20 @@
       </tags>
   </entry>
   <entry>
+    <title>記錄船釣 小搞搞 釣組規格</title>
+    <url>/posts/df688e29/</url>
+    <content><![CDATA[<h3 id="記錄船釣-小搞搞-釣組規格"><a href="#記錄船釣-小搞搞-釣組規格" class="headerlink" title="記錄船釣 小搞搞 釣組規格"></a>記錄船釣 小搞搞 釣組規格</h3><span id="more"></span>
+<p>這篇記錄船釣 小搞搞 釣組規格。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">釣竿:長度不超過180cm，槍柄，7/3調性(前段30%比較軟，後面70%比較硬)</span><br><span class="line">捲線器:鼓式(兩軸捲線器)</span><br><span class="line">母線:2號，至少200米</span><br><span class="line">釣組:SABIKI數組 + 8字環</span><br><span class="line">鉛塊:5兩、8兩各準備幾顆</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Fishing</category>
+      </categories>
+      <tags>
+        <tag>Fishing</tag>
+        <tag>BoatFishing</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>近視雷射 術前評估心得</title>
     <url>/posts/24fe481a/</url>
     <content><![CDATA[<h3 id="關於近視雷射-術前評估心得"><a href="#關於近視雷射-術前評估心得" class="headerlink" title="關於近視雷射 術前評估心得"></a>關於近視雷射 術前評估心得</h3><span id="more"></span>
@@ -1128,19 +1143,6 @@
       </categories>
       <tags>
         <tag>LaserEyeSurgery</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>調節器 保養 注意事項</title>
-    <url>/posts/8948fe9a/</url>
-    <content><![CDATA[<h3 id="調節器-保養-注意事項"><a href="#調節器-保養-注意事項" class="headerlink" title="調節器 保養 注意事項"></a>調節器 保養 注意事項</h3><span id="more"></span>
-<p>這篇介紹調節器保養注意事項</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">中壓正常為10 bar內，調整至9.5 bar剛好，壓降在1 bar內。</span><br><span class="line">Scubapro部份:</span><br><span class="line">使用一個英制7/32，高壓用25號套筒。</span><br><span class="line">白色Oring用在低壓、紅色Oring一個用在高壓室、黃色Oring四個用在高壓室。</span><br><span class="line">高壓孔7/16、低壓孔3/8</span><br><span class="line">BC管Oring標準7.5 * 1.5mm</span><br><span class="line">主二壓差1.2-1.5之間、備二壓差1.8-2.0之間</span><br><span class="line">二級頭接上氣瓶，火山口轉到沒聲音(用耳朵聽)，再轉30度。</span><br><span class="line">二級頭火山口用橡皮擦清乾淨，中央墊片沒要換不要拆。</span><br><span class="line"></span><br><span class="line">MCG129 是 Teflon</span><br><span class="line">Oring是防止漏氣、墊片是防止兩個不同材質互相摩擦。</span><br><span class="line"></span><br><span class="line">Problue部份:</span><br><span class="line">兩支150mm板手</span><br><span class="line">銅管低壓孔固定器</span><br><span class="line">鉤板手 卡夫威爾 CHROME VANADIUM 3/4-2<span class="string">&quot;</span></span><br><span class="line"><span class="string">六角板手四號</span></span><br><span class="line"><span class="string">套筒 333532S 1&quot;</span></span><br><span class="line">扭力板手</span><br><span class="line">可洩氣中壓錶</span><br><span class="line">測阻抗錶</span><br><span class="line">火山口固定器</span><br><span class="line">六角6mm套筒</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Regulator</category>
-      </categories>
-      <tags>
-        <tag>Regulator</tag>
       </tags>
   </entry>
   <entry>
@@ -1158,18 +1160,16 @@
       </tags>
   </entry>
   <entry>
-    <title>關於股票 重覆申購</title>
-    <url>/posts/8a962f67/</url>
-    <content><![CDATA[<h3 id="關於股票-重覆申購"><a href="#關於股票-重覆申購" class="headerlink" title="關於股票 重覆申購"></a>關於股票 重覆申購</h3><span id="more"></span>
-<p>這篇介紹關於股票 重覆申購。</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">2023/04 台股有一支金融股可以申購，用兩個證券帳戶都一起</span><br><span class="line">申購的話，會收到兩張掛號信，來自XX證券股份有限公司。</span><br><span class="line"></span><br><span class="line">上面會寫 重覆申購，請逕洽原投件經紀商查詢。</span><br><span class="line"></span><br><span class="line">依證券商承銷或再行銷售有價證券處理辦法 第五十六條規定，不得</span><br><span class="line">參加抽籤，特此通知並請注意，以確保台端權益。</span><br><span class="line"></span><br><span class="line">一家證券商一次需付20元，共損失40元。</span><br></pre></td></tr></table></figure>
-]]></content>
+    <title>調節器 保養 注意事項</title>
+    <url>/posts/8948fe9a/</url>
+    <content><![CDATA[<h3 id="調節器-保養-注意事項"><a href="#調節器-保養-注意事項" class="headerlink" title="調節器 保養 注意事項"></a>調節器 保養 注意事項</h3><span id="more"></span>
+<p>這篇介紹調節器保養注意事項</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">中壓正常為10 bar內，調整至9.5 bar剛好，壓降在1 bar內。</span><br><span class="line">Scubapro部份:</span><br><span class="line">使用一個英制7/32，高壓用25號套筒。</span><br><span class="line">白色Oring用在低壓、紅色Oring一個用在高壓室、黃色Oring四個用在高壓室。</span><br><span class="line">高壓孔7/16、低壓孔3/8</span><br><span class="line">BC管Oring標準7.5 * 1.5mm</span><br><span class="line">主二壓差1.2-1.5之間、備二壓差1.8-2.0之間</span><br><span class="line">二級頭接上氣瓶，火山口轉到沒聲音(用耳朵聽)，再轉30度。</span><br><span class="line">二級頭火山口用橡皮擦清乾淨，中央墊片沒要換不要拆。</span><br><span class="line"></span><br><span class="line">MCG129 是 Teflon</span><br><span class="line">Oring是防止漏氣、墊片是防止兩個不同材質互相摩擦。</span><br><span class="line"></span><br><span class="line">Problue部份:</span><br><span class="line">兩支150mm板手</span><br><span class="line">銅管低壓孔固定器</span><br><span class="line">鉤板手 卡夫威爾 CHROME VANADIUM 3/4-2<span class="string">&quot;</span></span><br><span class="line"><span class="string">六角板手四號</span></span><br><span class="line"><span class="string">套筒 333532S 1&quot;</span></span><br><span class="line">扭力板手</span><br><span class="line">可洩氣中壓錶</span><br><span class="line">測阻抗錶</span><br><span class="line">火山口固定器</span><br><span class="line">六角6mm套筒</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Investment</category>
+        <category>Regulator</category>
       </categories>
       <tags>
-        <tag>Investment</tag>
-        <tag>Stock</tag>
+        <tag>Regulator</tag>
       </tags>
   </entry>
   <entry>
@@ -1199,17 +1199,18 @@
       </tags>
   </entry>
   <entry>
-    <title>記錄船釣 小搞搞 釣組規格</title>
-    <url>/posts/df688e29/</url>
-    <content><![CDATA[<h3 id="記錄船釣-小搞搞-釣組規格"><a href="#記錄船釣-小搞搞-釣組規格" class="headerlink" title="記錄船釣 小搞搞 釣組規格"></a>記錄船釣 小搞搞 釣組規格</h3><span id="more"></span>
-<p>這篇記錄船釣 小搞搞 釣組規格。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">釣竿:長度不超過180cm，槍柄，7/3調性(前段30%比較軟，後面70%比較硬)</span><br><span class="line">捲線器:鼓式(兩軸捲線器)</span><br><span class="line">母線:2號，至少200米</span><br><span class="line">釣組:SABIKI數組 + 8字環</span><br><span class="line">鉛塊:5兩、8兩各準備幾顆</span><br></pre></td></tr></table></figure>]]></content>
+    <title>關於股票 重覆申購</title>
+    <url>/posts/8a962f67/</url>
+    <content><![CDATA[<h3 id="關於股票-重覆申購"><a href="#關於股票-重覆申購" class="headerlink" title="關於股票 重覆申購"></a>關於股票 重覆申購</h3><span id="more"></span>
+<p>這篇介紹關於股票 重覆申購。</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">2023/04 台股有一支金融股可以申購，用兩個證券帳戶都一起</span><br><span class="line">申購的話，會收到兩張掛號信，來自XX證券股份有限公司。</span><br><span class="line"></span><br><span class="line">上面會寫 重覆申購，請逕洽原投件經紀商查詢。</span><br><span class="line"></span><br><span class="line">依證券商承銷或再行銷售有價證券處理辦法 第五十六條規定，不得</span><br><span class="line">參加抽籤，特此通知並請注意，以確保台端權益。</span><br><span class="line"></span><br><span class="line">一家證券商一次需付20元，共損失40元。</span><br></pre></td></tr></table></figure>
+]]></content>
       <categories>
-        <category>Fishing</category>
+        <category>Investment</category>
       </categories>
       <tags>
-        <tag>Fishing</tag>
-        <tag>BoatFishing</tag>
+        <tag>Investment</tag>
+        <tag>Stock</tag>
       </tags>
   </entry>
   <entry>
