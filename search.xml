@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2023 CT 113 完賽心得</title>
-    <url>/posts/dc7f95e3/</url>
-    <content><![CDATA[<h3 id="Intro-2023-CT-113-初鐵完賽心得"><a href="#Intro-2023-CT-113-初鐵完賽心得" class="headerlink" title="Intro 2023 CT 113 初鐵完賽心得"></a>Intro 2023 CT 113 初鐵完賽心得</h3><span id="more"></span>
-<p>這篇介紹2023 CT 113 初鐵完賽心得。</p>
-<h3 id="比賽過程-amp-心得"><a href="#比賽過程-amp-心得" class="headerlink" title="比賽過程&amp;心得"></a>比賽過程&amp;心得</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">因第一次參加鐵人三項比賽，前一晚雖然早睡但有點睡不太著。</span><br><span class="line"></span><br><span class="line">游泳部分，採取靠最右和最左的策略游，快接近最後一個轉彎時</span><br><span class="line">游斜的切過去~要時刻注意旁人，快結束上岸時要小心抽筋。請</span><br><span class="line">工作人員拉一把!</span><br><span class="line"></span><br><span class="line">T1轉換區，要補充熱量及果膠</span><br><span class="line"></span><br><span class="line">單車部分，90公里只有補給三次，建議帶多一點補給在車上，</span><br><span class="line">經過補給站只拿水壺。</span><br><span class="line"></span><br><span class="line">T2轉換區，要補充熱量及果膠和鹽份。</span><br><span class="line"></span><br><span class="line">跑步部分，這是最容易抽筋的階段，路上看到很多人狂抽筋。</span><br><span class="line">補給大概2公里有一站，因有揹水袋，一路上補果膠和鹽糖，</span><br><span class="line">怕抽筋直接補乖乖膠。</span><br><span class="line"></span><br><span class="line">很開心能順利完賽，沒有爆胎，沒有抽筋! 運氣很好~</span><br></pre></td></tr></table></figure>]]></content>
+    <title>2014 Mac Air Upgrade SSD Issue</title>
+    <url>/posts/a8e9019/</url>
+    <content><![CDATA[<h3 id="2014-Mac-Air-Upgrade-SSD-Issue"><a href="#2014-Mac-Air-Upgrade-SSD-Issue" class="headerlink" title="2014 Mac Air Upgrade SSD Issue"></a>2014 Mac Air Upgrade SSD Issue</h3><span id="more"></span>
+<p>這篇紀錄2014 Mac Air Upgrade SSD Issue。</p>
+<h3 id="Issue"><a href="#Issue" class="headerlink" title="Issue"></a>Issue</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">之前將2014 Mac air 從128G SSD 升級為三星 m.2 1T SSD。</span><br><span class="line">在有次重開機後，發現會進到地球畫面。只能用網路進到工具軟體。</span><br><span class="line">啟動磁碟會抓不到這顆1T的SSD，在磁碟工具內也看不到該SSD硬碟。</span><br><span class="line"></span><br><span class="line">解決方法:</span><br><span class="line">因為自行改SSD的緣故，只能製作開機USB，必須先裝某版本的MacOS，</span><br><span class="line">插入後即可選擇到啟動硬碟，進入到登入畫面。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>ChallengeTaiwan</category>
+        <category>MacAir</category>
       </categories>
       <tags>
-        <tag>ChallengeTaiwan</tag>
+        <tag>Apple</tag>
+        <tag>Mac</tag>
+        <tag>SSD</tag>
       </tags>
   </entry>
   <entry>
@@ -24,6 +26,19 @@
       </categories>
       <tags>
         <tag>Emergy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023 CT 113 完賽心得</title>
+    <url>/posts/dc7f95e3/</url>
+    <content><![CDATA[<h3 id="Intro-2023-CT-113-初鐵完賽心得"><a href="#Intro-2023-CT-113-初鐵完賽心得" class="headerlink" title="Intro 2023 CT 113 初鐵完賽心得"></a>Intro 2023 CT 113 初鐵完賽心得</h3><span id="more"></span>
+<p>這篇介紹2023 CT 113 初鐵完賽心得。</p>
+<h3 id="比賽過程-amp-心得"><a href="#比賽過程-amp-心得" class="headerlink" title="比賽過程&amp;心得"></a>比賽過程&amp;心得</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">因第一次參加鐵人三項比賽，前一晚雖然早睡但有點睡不太著。</span><br><span class="line"></span><br><span class="line">游泳部分，採取靠最右和最左的策略游，快接近最後一個轉彎時</span><br><span class="line">游斜的切過去~要時刻注意旁人，快結束上岸時要小心抽筋。請</span><br><span class="line">工作人員拉一把!</span><br><span class="line"></span><br><span class="line">T1轉換區，要補充熱量及果膠</span><br><span class="line"></span><br><span class="line">單車部分，90公里只有補給三次，建議帶多一點補給在車上，</span><br><span class="line">經過補給站只拿水壺。</span><br><span class="line"></span><br><span class="line">T2轉換區，要補充熱量及果膠和鹽份。</span><br><span class="line"></span><br><span class="line">跑步部分，這是最容易抽筋的階段，路上看到很多人狂抽筋。</span><br><span class="line">補給大概2公里有一站，因有揹水袋，一路上補果膠和鹽糖，</span><br><span class="line">怕抽筋直接補乖乖膠。</span><br><span class="line"></span><br><span class="line">很開心能順利完賽，沒有爆胎，沒有抽筋! 運氣很好~</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>ChallengeTaiwan</category>
+      </categories>
+      <tags>
+        <tag>ChallengeTaiwan</tag>
       </tags>
   </entry>
   <entry>
@@ -41,25 +56,6 @@
       </tags>
   </entry>
   <entry>
-    <title>OKR 目標與關鍵結果</title>
-    <url>/posts/2f054923/</url>
-    <content><![CDATA[<h2 id="OKR-目標與關鍵結果"><a href="#OKR-目標與關鍵結果" class="headerlink" title="OKR:目標與關鍵結果"></a>OKR:目標與關鍵結果</h2><span id="more"></span>
-<p>這篇簡介OKR:目標與關鍵結果。</p>
-<h2 id="Intro-OKR"><a href="#Intro-OKR" class="headerlink" title="Intro OKR:"></a>Intro OKR:</h2><p>最著名使用OKR的公司，例如:Google、Intel…等。</p>
-<p>O – Objective 目標</p>
-<p>成功時，應該是什麼模樣? (有登山目標型及射月型兩種)</p>
-<p>KR – key Result</p>
-<p>要怎麼做才能達到成功? (明確且可量化的指標)</p>
-<p>訂定一個Objective 及 三個 Key Result 來達成績效指標。</p>
-]]></content>
-      <categories>
-        <category>Management</category>
-      </categories>
-      <tags>
-        <tag>Management</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>AKL奧克蘭機場 國際線 轉 國內線詳解</title>
     <url>/posts/f243486e/</url>
     <content><![CDATA[<h3 id="關於AKL奧克蘭機場-國際線-轉-國內線詳解"><a href="#關於AKL奧克蘭機場-國際線-轉-國內線詳解" class="headerlink" title="關於AKL奧克蘭機場 國際線 轉 國內線詳解"></a>關於AKL奧克蘭機場 國際線 轉 國內線詳解</h3><span id="more"></span>
@@ -72,20 +68,6 @@
       </categories>
       <tags>
         <tag>Travel</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>分享 三種咖啡 果實處理 方法</title>
-    <url>/posts/ff074f63/</url>
-    <content><![CDATA[<h3 id="分享三種咖啡果實處理方法"><a href="#分享三種咖啡果實處理方法" class="headerlink" title="分享三種咖啡果實處理方法"></a>分享三種咖啡果實處理方法</h3><span id="more"></span>
-<p>這篇分享三種咖啡果實處理方法。</p>
-<h3 id="Roasting"><a href="#Roasting" class="headerlink" title="Roasting"></a>Roasting</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.日曬 : 直接將採下來的咖啡果實進行陽光日曬 時間需5周</span><br><span class="line"></span><br><span class="line">2.蜜處理 : 將咖啡果實先進行去皮，不洗去表面糖份 再進行日曬 時間需3周</span><br><span class="line"></span><br><span class="line">3.水洗 : 將咖啡果實先進行去皮，洗去表面糖份 再進行日曬 時間需2周</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Coffee</category>
-      </categories>
-      <tags>
-        <tag>Coffee</tag>
-        <tag>Roasting</tag>
       </tags>
   </entry>
   <entry>
@@ -117,30 +99,22 @@
       </tags>
   </entry>
   <entry>
-    <title>內湖 單車山路 練腿力路線</title>
-    <url>/posts/2182ee8e/</url>
-    <content><![CDATA[<h3 id="內湖單車山路練腿力路線"><a href="#內湖單車山路練腿力路線" class="headerlink" title="內湖單車山路練腿力路線"></a>內湖單車山路練腿力路線</h3><span id="more"></span>
-<p>這篇介紹內湖單車山路練腿力路線。</p>
-<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往東湖一路直行前進，左轉五指山路口．</span><br><span class="line"></span><br><span class="line">直行先左轉在往右轉，第一個補給站小７，之後會一路往上騎（剛開始爬升最辛苦</span><br><span class="line"></span><br><span class="line">五指山較至善路車少運動的人少，經過辛苦爬升後會先到海倫咖啡（行動咖啡餐車</span><br><span class="line"></span><br><span class="line">海倫咖啡沒開的話，往上還有拉瓦那咖啡可以稍做休息．</span><br><span class="line"></span><br><span class="line">接著拉瓦那咖啡往前直騎會到風櫃嘴就一路下山，左轉往中社第二個爬升出發．</span><br><span class="line"></span><br><span class="line">到車輪釣蝦場往左轉就是中社爬坡路線，該路線運動的人不少．（途中會經過派出所）</span><br><span class="line"></span><br><span class="line">到達中社後，一路下坡回到車輪釣蝦場後左轉往劍南路迎接第三個爬升路線</span><br><span class="line">（大概４公里）</span><br><span class="line"></span><br><span class="line">一路下山回到內湖路，往港墘捷運站方向騎行就可以回到大港墘公園．</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Bike</category>
-      </categories>
-      <tags>
-        <tag>Bike</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>內湖 單車 山路 練腿力路線 II</title>
-    <url>/posts/bdf3c7d7/</url>
-    <content><![CDATA[<h3 id="內湖單車山路練腿力路線-II"><a href="#內湖單車山路練腿力路線-II" class="headerlink" title="內湖單車山路練腿力路線 II"></a>內湖單車山路練腿力路線 II</h3><span id="more"></span>
-<p>這篇介紹內湖單車山路練腿力路線 II。</p>
-<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往劍南路方向騎行，到劍南路口往上騎行約兩公里到涼亭休息口</span><br><span class="line"></span><br><span class="line">往下滑行至橋往右騎，沿著中社方向到車輪釣蝦場後繼續往上騎車至楓林橋</span><br><span class="line"></span><br><span class="line">往上騎六公里可以到風櫃嘴，在往上可以到咖啡廳休息</span><br><span class="line"></span><br><span class="line">往下回到中社 (車輪釣蝦場) 往左上中社，下坡回到車輪釣蝦場往左回到劍南路的橋</span><br><span class="line"></span><br><span class="line">爬升 2 公里回到涼亭口，往下回到出發地點</span><br></pre></td></tr></table></figure>
+    <title>OKR 目標與關鍵結果</title>
+    <url>/posts/2f054923/</url>
+    <content><![CDATA[<h2 id="OKR-目標與關鍵結果"><a href="#OKR-目標與關鍵結果" class="headerlink" title="OKR:目標與關鍵結果"></a>OKR:目標與關鍵結果</h2><span id="more"></span>
+<p>這篇簡介OKR:目標與關鍵結果。</p>
+<h2 id="Intro-OKR"><a href="#Intro-OKR" class="headerlink" title="Intro OKR:"></a>Intro OKR:</h2><p>最著名使用OKR的公司，例如:Google、Intel…等。</p>
+<p>O – Objective 目標</p>
+<p>成功時，應該是什麼模樣? (有登山目標型及射月型兩種)</p>
+<p>KR – key Result</p>
+<p>要怎麼做才能達到成功? (明確且可量化的指標)</p>
+<p>訂定一個Objective 及 三個 Key Result 來達成績效指標。</p>
 ]]></content>
       <categories>
-        <category>Bike</category>
+        <category>Management</category>
       </categories>
       <tags>
-        <tag>Bike</tag>
+        <tag>Management</tag>
       </tags>
   </entry>
   <entry>
@@ -170,6 +144,20 @@
       </tags>
   </entry>
   <entry>
+    <title>國泰世華 網路銀行 匯美金 至 國外卷商帳戶</title>
+    <url>/posts/46d67672/</url>
+    <content><![CDATA[<h3 id="國泰世華網路銀行匯美金至國外卷商帳戶"><a href="#國泰世華網路銀行匯美金至國外卷商帳戶" class="headerlink" title="國泰世華網路銀行匯美金至國外卷商帳戶"></a>國泰世華網路銀行匯美金至國外卷商帳戶</h3><span id="more"></span>
+<p>這篇介紹國泰世華網路銀行匯美金至國外卷商帳戶。</p>
+<h3 id="操作流程"><a href="#操作流程" class="headerlink" title="操作流程"></a>操作流程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">只能用網頁版操作，要準備金融卡認證</span><br><span class="line"></span><br><span class="line">匯款附言填英文名 + 8 碼帳號</span><br><span class="line"></span><br><span class="line">全額到付，匯費 <span class="variable">$800</span></span><br><span class="line"></span><br><span class="line">已實測，超過台幣 50 萬元仍可匯～不用跑臨櫃</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Chrome Enable Dark Mode</title>
     <url>/posts/82ad42ac/</url>
     <content><![CDATA[<h2 id="Chrome啟用DarkMode"><a href="#Chrome啟用DarkMode" class="headerlink" title="Chrome啟用DarkMode"></a>Chrome啟用DarkMode</h2><span id="more"></span>
@@ -185,32 +173,44 @@
       </tags>
   </entry>
   <entry>
-    <title>國泰世華 網路銀行 匯美金 至 國外卷商帳戶</title>
-    <url>/posts/46d67672/</url>
-    <content><![CDATA[<h3 id="國泰世華網路銀行匯美金至國外卷商帳戶"><a href="#國泰世華網路銀行匯美金至國外卷商帳戶" class="headerlink" title="國泰世華網路銀行匯美金至國外卷商帳戶"></a>國泰世華網路銀行匯美金至國外卷商帳戶</h3><span id="more"></span>
-<p>這篇介紹國泰世華網路銀行匯美金至國外卷商帳戶。</p>
-<h3 id="操作流程"><a href="#操作流程" class="headerlink" title="操作流程"></a>操作流程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">只能用網頁版操作，要準備金融卡認證</span><br><span class="line"></span><br><span class="line">匯款附言填英文名 + 8 碼帳號</span><br><span class="line"></span><br><span class="line">全額到付，匯費 <span class="variable">$800</span></span><br><span class="line"></span><br><span class="line">已實測，超過台幣 50 萬元仍可匯～不用跑臨櫃</span><br></pre></td></tr></table></figure>
+    <title>內湖 單車 山路 練腿力路線 II</title>
+    <url>/posts/bdf3c7d7/</url>
+    <content><![CDATA[<h3 id="內湖單車山路練腿力路線-II"><a href="#內湖單車山路練腿力路線-II" class="headerlink" title="內湖單車山路練腿力路線 II"></a>內湖單車山路練腿力路線 II</h3><span id="more"></span>
+<p>這篇介紹內湖單車山路練腿力路線 II。</p>
+<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往劍南路方向騎行，到劍南路口往上騎行約兩公里到涼亭休息口</span><br><span class="line"></span><br><span class="line">往下滑行至橋往右騎，沿著中社方向到車輪釣蝦場後繼續往上騎車至楓林橋</span><br><span class="line"></span><br><span class="line">往上騎六公里可以到風櫃嘴，在往上可以到咖啡廳休息</span><br><span class="line"></span><br><span class="line">往下回到中社 (車輪釣蝦場) 往左上中社，下坡回到車輪釣蝦場往左回到劍南路的橋</span><br><span class="line"></span><br><span class="line">爬升 2 公里回到涼亭口，往下回到出發地點</span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
-        <category>Investment</category>
+        <category>Bike</category>
       </categories>
       <tags>
-        <tag>Investment</tag>
+        <tag>Bike</tag>
       </tags>
   </entry>
   <entry>
-    <title>2014 Mac Air Upgrade SSD Issue</title>
-    <url>/posts/a8e9019/</url>
-    <content><![CDATA[<h3 id="2014-Mac-Air-Upgrade-SSD-Issue"><a href="#2014-Mac-Air-Upgrade-SSD-Issue" class="headerlink" title="2014 Mac Air Upgrade SSD Issue"></a>2014 Mac Air Upgrade SSD Issue</h3><span id="more"></span>
-<p>這篇紀錄2014 Mac Air Upgrade SSD Issue。</p>
-<h3 id="Issue"><a href="#Issue" class="headerlink" title="Issue"></a>Issue</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">之前將2014 Mac air 從128G SSD 升級為三星 m.2 1T SSD。</span><br><span class="line">在有次重開機後，發現會進到地球畫面。只能用網路進到工具軟體。</span><br><span class="line">啟動磁碟會抓不到這顆1T的SSD，在磁碟工具內也看不到該SSD硬碟。</span><br><span class="line"></span><br><span class="line">解決方法:</span><br><span class="line">因為自行改SSD的緣故，只能製作開機USB，必須先裝某版本的MacOS，</span><br><span class="line">插入後即可選擇到啟動硬碟，進入到登入畫面。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>分享 三種咖啡 果實處理 方法</title>
+    <url>/posts/ff074f63/</url>
+    <content><![CDATA[<h3 id="分享三種咖啡果實處理方法"><a href="#分享三種咖啡果實處理方法" class="headerlink" title="分享三種咖啡果實處理方法"></a>分享三種咖啡果實處理方法</h3><span id="more"></span>
+<p>這篇分享三種咖啡果實處理方法。</p>
+<h3 id="Roasting"><a href="#Roasting" class="headerlink" title="Roasting"></a>Roasting</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.日曬 : 直接將採下來的咖啡果實進行陽光日曬 時間需5周</span><br><span class="line"></span><br><span class="line">2.蜜處理 : 將咖啡果實先進行去皮，不洗去表面糖份 再進行日曬 時間需3周</span><br><span class="line"></span><br><span class="line">3.水洗 : 將咖啡果實先進行去皮，洗去表面糖份 再進行日曬 時間需2周</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>MacAir</category>
+        <category>Coffee</category>
       </categories>
       <tags>
-        <tag>Apple</tag>
-        <tag>Mac</tag>
-        <tag>SSD</tag>
+        <tag>Coffee</tag>
+        <tag>Roasting</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FELLOW STAGG EKG 900 VERSUS FELLOW STAGG KETTLE V1.2</title>
+    <url>/posts/f688faff/</url>
+    <content><![CDATA[<h3 id="比較Fellow-STAGG-EKG-900與Fellow-STAGG-Kettle-V1-2兩者之間的差異"><a href="#比較Fellow-STAGG-EKG-900與Fellow-STAGG-Kettle-V1-2兩者之間的差異" class="headerlink" title="比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異"></a>比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異</h3><span id="more"></span>
+<p>這篇比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異。</p>
+<h3 id="介紹"><a href="#介紹" class="headerlink" title="介紹"></a>介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">這篇比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異</span><br><span class="line"></span><br><span class="line">EKG 900 是溫控手沖壺 需插電 可恆溫控制溫度 官方售價<span class="variable">$5980</span> 容量:900ml</span><br><span class="line"></span><br><span class="line">適合有電的環境，比賽用手沖壺</span><br><span class="line"></span><br><span class="line">Kettle v1.2 可明火煮水 不需插電 無法恆溫控制溫度 官方售價<span class="variable">$3280</span> 容量:1L</span><br><span class="line"></span><br><span class="line">適合沒有電的環境，戶外佳</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Coffee</category>
+      </categories>
+      <tags>
+        <tag>Coffee</tag>
       </tags>
   </entry>
   <entry>
@@ -230,32 +230,6 @@
       </tags>
   </entry>
   <entry>
-    <title>FELLOW STAGG EKG 900 VERSUS FELLOW STAGG KETTLE V1.2</title>
-    <url>/posts/f688faff/</url>
-    <content><![CDATA[<h3 id="比較Fellow-STAGG-EKG-900與Fellow-STAGG-Kettle-V1-2兩者之間的差異"><a href="#比較Fellow-STAGG-EKG-900與Fellow-STAGG-Kettle-V1-2兩者之間的差異" class="headerlink" title="比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異"></a>比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異</h3><span id="more"></span>
-<p>這篇比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異。</p>
-<h3 id="介紹"><a href="#介紹" class="headerlink" title="介紹"></a>介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">這篇比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異</span><br><span class="line"></span><br><span class="line">EKG 900 是溫控手沖壺 需插電 可恆溫控制溫度 官方售價<span class="variable">$5980</span> 容量:900ml</span><br><span class="line"></span><br><span class="line">適合有電的環境，比賽用手沖壺</span><br><span class="line"></span><br><span class="line">Kettle v1.2 可明火煮水 不需插電 無法恆溫控制溫度 官方售價<span class="variable">$3280</span> 容量:1L</span><br><span class="line"></span><br><span class="line">適合沒有電的環境，戶外佳</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Coffee</category>
-      </categories>
-      <tags>
-        <tag>Coffee</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</title>
-    <url>/posts/d107aedb/</url>
-    <content><![CDATA[<h3 id="造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil"><a href="#造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil" class="headerlink" title="造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil"></a>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</h3><span id="more"></span>
-<p>這篇紀錄造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">本書提到主要三個重點為因果關係、反事實以及限制條件。</span><br><span class="line">描述所有的思考框架都是由以上三點所構成，必須使用</span><br><span class="line">這三點來建立思考框架或另啟思考框架。</span><br><span class="line">表明人類是因為思考框架而建立出AI人工智慧，</span><br><span class="line">因AI不會自己產生思考框架，只有人類想出思考框架</span><br><span class="line">並使用AI人工智慧來將思考框架深入並發展。</span><br><span class="line"></span><br><span class="line">每件事情都有因果關係存在，必須有反事實來想像</span><br><span class="line">另外一個想像時空，並在這個時空中驗證思考正確性。</span><br><span class="line">限制條件是增加條件來限制天馬行空不可能的提案，</span><br><span class="line">減少時間並找出可用的思考框架。</span><br><span class="line"></span><br><span class="line">另啟思考框架通常是跳脫原本的思考框架，困難但往往</span><br><span class="line">成功會是think different。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Book</category>
-      </categories>
-      <tags>
-        <tag>Book</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GoPro7 無法開機 可能原因 及 嘗試解決方法</title>
     <url>/posts/fff241af/</url>
     <content><![CDATA[<h3 id="關於GoPro7無法開機可能原因及嘗試解決方法"><a href="#關於GoPro7無法開機可能原因及嘗試解決方法" class="headerlink" title="關於GoPro7無法開機可能原因及嘗試解決方法"></a>關於GoPro7無法開機可能原因及嘗試解決方法</h3><span id="more"></span>
@@ -269,19 +243,16 @@
       </tags>
   </entry>
   <entry>
-    <title>INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS</title>
-    <url>/posts/ca5b9589/</url>
-    <content><![CDATA[<h3 id="INTRO-GOOGLE-ANALYTICS-FOR-WORDPRESS-BY-MONSTERINSIGHTS"><a href="#INTRO-GOOGLE-ANALYTICS-FOR-WORDPRESS-BY-MONSTERINSIGHTS" class="headerlink" title="INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS"></a>INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS</h3><span id="more"></span>
-<p>這篇介紹GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS。</p>
-<h3 id="Step-by-step"><a href="#Step-by-step" class="headerlink" title="Step by step"></a>Step by step</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.WordPress後台 -&gt; 外掛 -&gt; 搜尋並安裝Google Analytics <span class="keyword">for</span> WordPress by MonsterInsights</span><br><span class="line"></span><br><span class="line">2.建立Google Analytics帳號</span><br><span class="line"></span><br><span class="line">3.在Google Analytics管理 -&gt; 建立資源 -&gt; 顯示進階選項 -&gt; 點選&lt;建立通用 Analytics (分析) 資源&gt;</span><br><span class="line"></span><br><span class="line">4.填入網站網址 -&gt; 點選只建立通用 Analytics (分析) 資源</span><br><span class="line"></span><br><span class="line">5.在WordPress後台 -&gt; 外掛 -&gt; Google Analytics <span class="keyword">for</span> WordPress by MonsterInsights -&gt; Settings -&gt; Connect MonsterInsights -&gt; 完成設定</span><br></pre></td></tr></table></figure>]]></content>
+    <title>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</title>
+    <url>/posts/d107aedb/</url>
+    <content><![CDATA[<h3 id="造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil"><a href="#造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil" class="headerlink" title="造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil"></a>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</h3><span id="more"></span>
+<p>這篇紀錄造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">本書提到主要三個重點為因果關係、反事實以及限制條件。</span><br><span class="line">描述所有的思考框架都是由以上三點所構成，必須使用</span><br><span class="line">這三點來建立思考框架或另啟思考框架。</span><br><span class="line">表明人類是因為思考框架而建立出AI人工智慧，</span><br><span class="line">因AI不會自己產生思考框架，只有人類想出思考框架</span><br><span class="line">並使用AI人工智慧來將思考框架深入並發展。</span><br><span class="line"></span><br><span class="line">每件事情都有因果關係存在，必須有反事實來想像</span><br><span class="line">另外一個想像時空，並在這個時空中驗證思考正確性。</span><br><span class="line">限制條件是增加條件來限制天馬行空不可能的提案，</span><br><span class="line">減少時間並找出可用的思考框架。</span><br><span class="line"></span><br><span class="line">另啟思考框架通常是跳脫原本的思考框架，困難但往往</span><br><span class="line">成功會是think different。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>WordPress</category>
+        <category>Book</category>
       </categories>
       <tags>
-        <tag>Website</tag>
-        <tag>WordPress</tag>
-        <tag>GoogleAnalytics</tag>
-        <tag>MonsterInsights</tag>
+        <tag>Book</tag>
       </tags>
   </entry>
   <entry>
@@ -313,6 +284,22 @@
         <tag>Website</tag>
         <tag>WordPress</tag>
         <tag>SMTP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS</title>
+    <url>/posts/ca5b9589/</url>
+    <content><![CDATA[<h3 id="INTRO-GOOGLE-ANALYTICS-FOR-WORDPRESS-BY-MONSTERINSIGHTS"><a href="#INTRO-GOOGLE-ANALYTICS-FOR-WORDPRESS-BY-MONSTERINSIGHTS" class="headerlink" title="INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS"></a>INTRO : GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS</h3><span id="more"></span>
+<p>這篇介紹GOOGLE ANALYTICS FOR WORDPRESS BY MONSTERINSIGHTS。</p>
+<h3 id="Step-by-step"><a href="#Step-by-step" class="headerlink" title="Step by step"></a>Step by step</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.WordPress後台 -&gt; 外掛 -&gt; 搜尋並安裝Google Analytics <span class="keyword">for</span> WordPress by MonsterInsights</span><br><span class="line"></span><br><span class="line">2.建立Google Analytics帳號</span><br><span class="line"></span><br><span class="line">3.在Google Analytics管理 -&gt; 建立資源 -&gt; 顯示進階選項 -&gt; 點選&lt;建立通用 Analytics (分析) 資源&gt;</span><br><span class="line"></span><br><span class="line">4.填入網站網址 -&gt; 點選只建立通用 Analytics (分析) 資源</span><br><span class="line"></span><br><span class="line">5.在WordPress後台 -&gt; 外掛 -&gt; Google Analytics <span class="keyword">for</span> WordPress by MonsterInsights -&gt; Settings -&gt; Connect MonsterInsights -&gt; 完成設定</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>WordPress</category>
+      </categories>
+      <tags>
+        <tag>Website</tag>
+        <tag>WordPress</tag>
+        <tag>GoogleAnalytics</tag>
+        <tag>MonsterInsights</tag>
       </tags>
   </entry>
   <entry>
@@ -390,19 +377,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Intro 2023 Challenge Taiwan</title>
-    <url>/posts/7fe69b15/</url>
-    <content><![CDATA[<h3 id="Intro-2023-Challenge-Taiwan"><a href="#Intro-2023-Challenge-Taiwan" class="headerlink" title="Intro 2023 Challenge Taiwan"></a>Intro 2023 Challenge Taiwan</h3><span id="more"></span>
-<p>這篇介紹2023 Challenge Taiwan。</p>
-<h3 id="事前準備"><a href="#事前準備" class="headerlink" title="事前準備"></a>事前準備</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">113比賽項目:</span><br><span class="line">游泳 1900 公尺</span><br><span class="line">單車 90K</span><br><span class="line">跑步 半馬21K</span><br><span class="line"></span><br><span class="line">事先準備相關補給品，前一年報名成功後預訂交通、住宿。</span><br><span class="line"></span><br><span class="line">單車要在比賽前寄送下去，有幾種方法</span><br><span class="line">1.自己開車載下去</span><br><span class="line">2.小莫運車服務</span><br><span class="line">3.火車行李房運送</span><br><span class="line"></span><br><span class="line">準備比賽要用的衣服(三鐵衣)、鞋子(單車+跑步)、安全帽、水壺、太陽眼鏡、毛巾、拖鞋、</span><br><span class="line">運動手錶、跑步背包+水袋。</span><br><span class="line"></span><br><span class="line">2023/04/20 前必須下載APP進行線上報到~</span><br><span class="line">2023/04/21 11:00~18:30 台東體育館報到領取比賽物資</span><br><span class="line">2023/04/21 14:00~20:00 自行車與轉換袋檢錄</span><br><span class="line">2023/04/21 20:00 前鐵花村領取早鳥禮</span><br><span class="line">2023/04/21 17:00~20:30 選手晚宴</span><br><span class="line"></span><br><span class="line">2023/04/22 (六) 113 A組</span><br><span class="line">07:35 start race 游泳關門 09:35，time:01:30</span><br><span class="line">單車關門 13:35，time:04:00</span><br><span class="line">跑步關門 16:30，time:03:30</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>ChallengeTaiwan</category>
-      </categories>
-      <tags>
-        <tag>ChallengeTaiwan</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Internet Fraud</title>
     <url>/posts/6a143b30/</url>
     <content><![CDATA[<h3 id="Internet-Fraud"><a href="#Internet-Fraud" class="headerlink" title="Internet Fraud"></a>Internet Fraud</h3><span id="more"></span>
@@ -414,6 +388,19 @@
       <tags>
         <tag>Internet</tag>
         <tag>Fraud</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Intro 2023 Challenge Taiwan</title>
+    <url>/posts/7fe69b15/</url>
+    <content><![CDATA[<h3 id="Intro-2023-Challenge-Taiwan"><a href="#Intro-2023-Challenge-Taiwan" class="headerlink" title="Intro 2023 Challenge Taiwan"></a>Intro 2023 Challenge Taiwan</h3><span id="more"></span>
+<p>這篇介紹2023 Challenge Taiwan。</p>
+<h3 id="事前準備"><a href="#事前準備" class="headerlink" title="事前準備"></a>事前準備</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">113比賽項目:</span><br><span class="line">游泳 1900 公尺</span><br><span class="line">單車 90K</span><br><span class="line">跑步 半馬21K</span><br><span class="line"></span><br><span class="line">事先準備相關補給品，前一年報名成功後預訂交通、住宿。</span><br><span class="line"></span><br><span class="line">單車要在比賽前寄送下去，有幾種方法</span><br><span class="line">1.自己開車載下去</span><br><span class="line">2.小莫運車服務</span><br><span class="line">3.火車行李房運送</span><br><span class="line"></span><br><span class="line">準備比賽要用的衣服(三鐵衣)、鞋子(單車+跑步)、安全帽、水壺、太陽眼鏡、毛巾、拖鞋、</span><br><span class="line">運動手錶、跑步背包+水袋。</span><br><span class="line"></span><br><span class="line">2023/04/20 前必須下載APP進行線上報到~</span><br><span class="line">2023/04/21 11:00~18:30 台東體育館報到領取比賽物資</span><br><span class="line">2023/04/21 14:00~20:00 自行車與轉換袋檢錄</span><br><span class="line">2023/04/21 20:00 前鐵花村領取早鳥禮</span><br><span class="line">2023/04/21 17:00~20:30 選手晚宴</span><br><span class="line"></span><br><span class="line">2023/04/22 (六) 113 A組</span><br><span class="line">07:35 start race 游泳關門 09:35，time:01:30</span><br><span class="line">單車關門 13:35，time:04:00</span><br><span class="line">跑步關門 16:30，time:03:30</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>ChallengeTaiwan</category>
+      </categories>
+      <tags>
+        <tag>ChallengeTaiwan</tag>
       </tags>
   </entry>
   <entry>
@@ -613,6 +600,20 @@
       </tags>
   </entry>
   <entry>
+    <title>What Is Curiosity Tendency</title>
+    <url>/posts/9c6fd3c7/</url>
+    <content><![CDATA[<h2 id="What-Is-Curiosity-Tendency"><a href="#What-Is-Curiosity-Tendency" class="headerlink" title="What Is Curiosity Tendency"></a>What Is Curiosity Tendency</h2><span id="more"></span>
+<p>What Is Curiosity Tendency</p>
+<h2 id="Curiosity-Tendency"><a href="#Curiosity-Tendency" class="headerlink" title="Curiosity Tendency"></a>Curiosity Tendency</h2><p>在人類文明中，好奇心能促進知識發展，而文化背景則能提高<br>其效率。ex:雅典人純粹的好奇心推動了數學和科學發展，羅馬<br>人則對數學或科學幾乎沒有貢獻。羅馬人更專注於礦藏、道路和<br>水利等﹝實用﹞工程。最好的現代教育機構能夠增強人的好奇<br>心，而好奇心則幫助人避免或者減少各種心理傾向造成的不良<br>後果。好奇心還能讓人在正式教育結束很久之後，繼續擁有許多<br>樂趣和智慧。</p>
+]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>What Is Creative Commons</title>
     <url>/posts/18eef1c0/</url>
     <content><![CDATA[<h3 id="What-Is-Creative-Commons"><a href="#What-Is-Creative-Commons" class="headerlink" title="What Is Creative Commons"></a>What Is Creative Commons</h3><span id="more"></span>
@@ -655,12 +656,11 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Envy Jealousy Tendency</title>
-    <url>/posts/1deb2030/</url>
-    <content><![CDATA[<h2 id="What-Is-Envy-Jealousy-Tendency"><a href="#What-Is-Envy-Jealousy-Tendency" class="headerlink" title="What Is Envy Jealousy Tendency"></a>What Is Envy Jealousy Tendency</h2><span id="more"></span>
-<p>What Is Envy Jealousy Tendency</p>
-<h2 id="Envy-Jealousy-Tendency"><a href="#Envy-Jealousy-Tendency" class="headerlink" title="Envy Jealousy Tendency"></a>Envy Jealousy Tendency</h2><p>現代生活中的忌妒無所不在。例如，當人拿到遠遠超出行情的<br>薪水時，會引起人們的一片嘩然。而在投資銀行，律師事務所<br>等組織的羨慕&#x2F;忌妒效應，通常更明顯。許多大型律師事務所<br>擔心這種效應會造成混亂，所以付給資深合夥人的薪酬一向<br>差不多，完全不管他們的貢獻如何。﹝驅動這世界的不是貪婪，<br>而是忌妒﹞</p>
-]]></content>
+    <title>What Is Gamblers Fallacy?</title>
+    <url>/posts/7d7b93d3/</url>
+    <content><![CDATA[<h3 id="What-Is-Gambler’s-Fallacy"><a href="#What-Is-Gambler’s-Fallacy" class="headerlink" title="What Is Gambler’s Fallacy?"></a>What Is Gambler’s Fallacy?</h3><span id="more"></span>
+<p>這篇介紹What Is Gambler’s Fallacy。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">賭徒謬誤（The Gambler’s Fallacy）亦稱為蒙地卡羅</span><br><span class="line">謬誤（The Monte Carlo Fallacy），是一種機率謬誤，</span><br><span class="line">主張由於某事發生了很多次，因此接下來不太可能發生</span><br><span class="line">；或者由於某事很久沒發生，因此接下來很可能會發生。</span><br><span class="line"></span><br><span class="line">賭徒謬誤的思維方式像是如此：拋一枚公平的硬幣，</span><br><span class="line">連續出現越多次正面朝上，下次拋出正面的機率就越小</span><br><span class="line">，拋出反面的機率就越大。</span><br><span class="line"></span><br><span class="line">最著名的案例是在蒙利卡羅的黑紅輪盤，當時已開出26次黑</span><br><span class="line">的結果，賭徒確信在第27次開出紅的結果機率遠大於黑，</span><br><span class="line">於是這些賭徒輸給賭場好幾百萬元。</span><br><span class="line"></span><br><span class="line">不管在輪盤是第幾次開結果，開出黑或紅的機率都是</span><br><span class="line">一樣為50%。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -669,11 +669,12 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Gamblers Fallacy?</title>
-    <url>/posts/7d7b93d3/</url>
-    <content><![CDATA[<h3 id="What-Is-Gambler’s-Fallacy"><a href="#What-Is-Gambler’s-Fallacy" class="headerlink" title="What Is Gambler’s Fallacy?"></a>What Is Gambler’s Fallacy?</h3><span id="more"></span>
-<p>這篇介紹What Is Gambler’s Fallacy。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">賭徒謬誤（The Gambler’s Fallacy）亦稱為蒙地卡羅</span><br><span class="line">謬誤（The Monte Carlo Fallacy），是一種機率謬誤，</span><br><span class="line">主張由於某事發生了很多次，因此接下來不太可能發生</span><br><span class="line">；或者由於某事很久沒發生，因此接下來很可能會發生。</span><br><span class="line"></span><br><span class="line">賭徒謬誤的思維方式像是如此：拋一枚公平的硬幣，</span><br><span class="line">連續出現越多次正面朝上，下次拋出正面的機率就越小</span><br><span class="line">，拋出反面的機率就越大。</span><br><span class="line"></span><br><span class="line">最著名的案例是在蒙利卡羅的黑紅輪盤，當時已開出26次黑</span><br><span class="line">的結果，賭徒確信在第27次開出紅的結果機率遠大於黑，</span><br><span class="line">於是這些賭徒輸給賭場好幾百萬元。</span><br><span class="line"></span><br><span class="line">不管在輪盤是第幾次開結果，開出黑或紅的機率都是</span><br><span class="line">一樣為50%。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>What Is Envy Jealousy Tendency</title>
+    <url>/posts/1deb2030/</url>
+    <content><![CDATA[<h2 id="What-Is-Envy-Jealousy-Tendency"><a href="#What-Is-Envy-Jealousy-Tendency" class="headerlink" title="What Is Envy Jealousy Tendency"></a>What Is Envy Jealousy Tendency</h2><span id="more"></span>
+<p>What Is Envy Jealousy Tendency</p>
+<h2 id="Envy-Jealousy-Tendency"><a href="#Envy-Jealousy-Tendency" class="headerlink" title="Envy Jealousy Tendency"></a>Envy Jealousy Tendency</h2><p>現代生活中的忌妒無所不在。例如，當人拿到遠遠超出行情的<br>薪水時，會引起人們的一片嘩然。而在投資銀行，律師事務所<br>等組織的羨慕&#x2F;忌妒效應，通常更明顯。許多大型律師事務所<br>擔心這種效應會造成混亂，所以付給資深合夥人的薪酬一向<br>差不多，完全不管他們的貢獻如何。﹝驅動這世界的不是貪婪，<br>而是忌妒﹞</p>
+]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -695,17 +696,16 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Curiosity Tendency</title>
-    <url>/posts/9c6fd3c7/</url>
-    <content><![CDATA[<h2 id="What-Is-Curiosity-Tendency"><a href="#What-Is-Curiosity-Tendency" class="headerlink" title="What Is Curiosity Tendency"></a>What Is Curiosity Tendency</h2><span id="more"></span>
-<p>What Is Curiosity Tendency</p>
-<h2 id="Curiosity-Tendency"><a href="#Curiosity-Tendency" class="headerlink" title="Curiosity Tendency"></a>Curiosity Tendency</h2><p>在人類文明中，好奇心能促進知識發展，而文化背景則能提高<br>其效率。ex:雅典人純粹的好奇心推動了數學和科學發展，羅馬<br>人則對數學或科學幾乎沒有貢獻。羅馬人更專注於礦藏、道路和<br>水利等﹝實用﹞工程。最好的現代教育機構能夠增強人的好奇<br>心，而好奇心則幫助人避免或者減少各種心理傾向造成的不良<br>後果。好奇心還能讓人在正式教育結束很久之後，繼續擁有許多<br>樂趣和智慧。</p>
-]]></content>
+    <title>What Is Hedge Fund</title>
+    <url>/posts/fbe6cd1a/</url>
+    <content><![CDATA[<h3 id="What-Is-Hedge-Fund"><a href="#What-Is-Hedge-Fund" class="headerlink" title="What Is Hedge Fund"></a>What Is Hedge Fund</h3><span id="more"></span>
+<p>這篇介紹What Is Hedge Fund。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">避險基金，又稱對沖基金或套利基金，是指由金融期貨、金融期權等金融衍生工具</span><br><span class="line">與金融組織結合後，以盈利為目的的金融基金。其最初目的為通過套期保值</span><br><span class="line">（Hedging）避免損失。</span><br><span class="line"></span><br><span class="line">在金融市場上，部分基金組織利用金融衍生工具採取多種以盈利為目的投資策略，</span><br><span class="line">這些基金組織便被稱為避險基金。目前，避險基金早已失去風險「對沖」的內涵，</span><br><span class="line">相反的，現在人們普遍認為避險基金實際是基於最新的投資理論和極其複雜的金融</span><br><span class="line">市場操作技巧，充分利用各種金融衍生產品的槓桿效用，承擔高風險、追求高收益</span><br><span class="line">的投資模式。</span><br><span class="line"></span><br><span class="line">著名避險基金:</span><br><span class="line"></span><br><span class="line">避險基金中最著名的莫過於喬治·索羅斯的量子基金及朱里安·羅伯遜的老虎基金，</span><br><span class="line">它們都曾創造過高達40%至50%的複合年度收益率。採取高風險的投資，為避險基金</span><br><span class="line">可能帶來高收益的同時也為避險基金帶來不可預估的損失。最大規模的避險基金都</span><br><span class="line">不可能在變幻莫測的金融市場中永遠處於不敗之地。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Psychology</category>
+        <category>Investment</category>
       </categories>
       <tags>
-        <tag>Psychology</tag>
+        <tag>Investment</tag>
       </tags>
   </entry>
   <entry>
@@ -723,16 +723,17 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Hedge Fund</title>
-    <url>/posts/fbe6cd1a/</url>
-    <content><![CDATA[<h3 id="What-Is-Hedge-Fund"><a href="#What-Is-Hedge-Fund" class="headerlink" title="What Is Hedge Fund"></a>What Is Hedge Fund</h3><span id="more"></span>
-<p>這篇介紹What Is Hedge Fund。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">避險基金，又稱對沖基金或套利基金，是指由金融期貨、金融期權等金融衍生工具</span><br><span class="line">與金融組織結合後，以盈利為目的的金融基金。其最初目的為通過套期保值</span><br><span class="line">（Hedging）避免損失。</span><br><span class="line"></span><br><span class="line">在金融市場上，部分基金組織利用金融衍生工具採取多種以盈利為目的投資策略，</span><br><span class="line">這些基金組織便被稱為避險基金。目前，避險基金早已失去風險「對沖」的內涵，</span><br><span class="line">相反的，現在人們普遍認為避險基金實際是基於最新的投資理論和極其複雜的金融</span><br><span class="line">市場操作技巧，充分利用各種金融衍生產品的槓桿效用，承擔高風險、追求高收益</span><br><span class="line">的投資模式。</span><br><span class="line"></span><br><span class="line">著名避險基金:</span><br><span class="line"></span><br><span class="line">避險基金中最著名的莫過於喬治·索羅斯的量子基金及朱里安·羅伯遜的老虎基金，</span><br><span class="line">它們都曾創造過高達40%至50%的複合年度收益率。採取高風險的投資，為避險基金</span><br><span class="line">可能帶來高收益的同時也為避險基金帶來不可預估的損失。最大規模的避險基金都</span><br><span class="line">不可能在變幻莫測的金融市場中永遠處於不敗之地。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>What Is Kantian Fairness Tendency</title>
+    <url>/posts/edd9fd3d/</url>
+    <content><![CDATA[<h2 id="What-Is-Kantian-Fairness-Tendency"><a href="#What-Is-Kantian-Fairness-Tendency" class="headerlink" title="What Is Kantian Fairness Tendency"></a>What Is Kantian Fairness Tendency</h2><span id="more"></span>
+<p>What Is Kantian Fairness Tendency</p>
+<h2 id="Kantian-Fairness-Tendency"><a href="#Kantian-Fairness-Tendency" class="headerlink" title="Kantian Fairness Tendency"></a>Kantian Fairness Tendency</h2><p>如果所有人都遵守規則，就能保證社會制度對每個人來說是<br>最好的。或著應該說，現代文明人都遵守並期待著，能從別人<br>身上得到康德所定義的這種公平。過去三百年來，世界各地<br>已經廢除了奴隸制度，這是很有意思的事，因為在此之前，奴隸<br>制度已經和各大宗教共存了幾千年，認為﹝康德式公平傾向﹞<br>是促成這種結果的主要因素。</p>
+]]></content>
       <categories>
-        <category>Investment</category>
+        <category>Psychology</category>
       </categories>
       <tags>
-        <tag>Investment</tag>
+        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -749,11 +750,11 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Kantian Fairness Tendency</title>
-    <url>/posts/edd9fd3d/</url>
-    <content><![CDATA[<h2 id="What-Is-Kantian-Fairness-Tendency"><a href="#What-Is-Kantian-Fairness-Tendency" class="headerlink" title="What Is Kantian Fairness Tendency"></a>What Is Kantian Fairness Tendency</h2><span id="more"></span>
-<p>What Is Kantian Fairness Tendency</p>
-<h2 id="Kantian-Fairness-Tendency"><a href="#Kantian-Fairness-Tendency" class="headerlink" title="Kantian Fairness Tendency"></a>Kantian Fairness Tendency</h2><p>如果所有人都遵守規則，就能保證社會制度對每個人來說是<br>最好的。或著應該說，現代文明人都遵守並期待著，能從別人<br>身上得到康德所定義的這種公平。過去三百年來，世界各地<br>已經廢除了奴隸制度，這是很有意思的事，因為在此之前，奴隸<br>制度已經和各大宗教共存了幾千年，認為﹝康德式公平傾向﹞<br>是促成這種結果的主要因素。</p>
+    <title>What Is Liking Loving Tendency</title>
+    <url>/posts/3a07f756/</url>
+    <content><![CDATA[<h2 id="What-Is-Liking-Loving-Tendency"><a href="#What-Is-Liking-Loving-Tendency" class="headerlink" title="What Is Liking Loving Tendency"></a>What Is Liking Loving Tendency</h2><span id="more"></span>
+<p>What Is Liking Loving Tendency</p>
+<h2 id="Liking-x2F-Loving-Tendency"><a href="#Liking-x2F-Loving-Tendency" class="headerlink" title="Liking&#x2F;Loving Tendency"></a>Liking&#x2F;Loving Tendency</h2><p>Liking &#x2F; Loving Tendency<br>除了父母、配偶和孩子之外，還有什麼是人類天生就喜歡和熱愛的呢?<br>人類喜歡和熱愛﹝被喜歡和被熱愛﹞，許多情場上的勝負皆因對方能<br>否表現出特別的關懷和愛護。一般而言，人終身都渴望得到他人的憐惜<br>和欣賞，而且是來自與他毫無關係之人。</p>
 ]]></content>
       <categories>
         <category>Psychology</category>
@@ -763,12 +764,11 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Liking Loving Tendency</title>
-    <url>/posts/3a07f756/</url>
-    <content><![CDATA[<h2 id="What-Is-Liking-Loving-Tendency"><a href="#What-Is-Liking-Loving-Tendency" class="headerlink" title="What Is Liking Loving Tendency"></a>What Is Liking Loving Tendency</h2><span id="more"></span>
-<p>What Is Liking Loving Tendency</p>
-<h2 id="Liking-x2F-Loving-Tendency"><a href="#Liking-x2F-Loving-Tendency" class="headerlink" title="Liking&#x2F;Loving Tendency"></a>Liking&#x2F;Loving Tendency</h2><p>Liking &#x2F; Loving Tendency<br>除了父母、配偶和孩子之外，還有什麼是人類天生就喜歡和熱愛的呢?<br>人類喜歡和熱愛﹝被喜歡和被熱愛﹞，許多情場上的勝負皆因對方能<br>否表現出特別的關懷和愛護。一般而言，人終身都渴望得到他人的憐惜<br>和欣賞，而且是來自與他毫無關係之人。</p>
-]]></content>
+    <title>What Is Marginal Effect?</title>
+    <url>/posts/2c521d7f/</url>
+    <content><![CDATA[<h3 id="What-Is-Marginal-Effect"><a href="#What-Is-Marginal-Effect" class="headerlink" title="What Is Marginal Effect?"></a>What Is Marginal Effect?</h3><span id="more"></span>
+<p>這篇介紹What Is Marginal Effect。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">邊際效應在經濟學上的定義，在資源是有限的前提之下，</span><br><span class="line">如何把資源分配到不同的項目上使用，成為經濟學、社會學</span><br><span class="line">、心理學和日常生活裡的重要課題。</span><br><span class="line"></span><br><span class="line">通常聽到的邊際效應例子都是逐漸遞減，當投入成本越高</span><br><span class="line">獲得的回報會逐漸降低。邊際效應也可能等於零，一家五口</span><br><span class="line">去遊樂場玩，買門票時售票員說今天買五送一，第六張門票</span><br><span class="line">的邊際效應也是零。</span><br><span class="line"></span><br><span class="line">上述舉例中的邊際效應都是逐漸遞減，這在許多現實的經濟</span><br><span class="line">和社會行為裡都會出現，因此也被稱為「邊際效應遞減定律」。</span><br><span class="line">不過在現實生活中，邊際效應也是會遞增的：木匠要做一把椅子</span><br><span class="line">，第一和第二支椅腳的邊際效應是零，第三支椅腳的邊際效應最大，</span><br><span class="line">第四支椅腳也有正的邊際效應，因為能夠增加椅子的平穩度，但第</span><br><span class="line">五支和第六支椅腳的邊際效應又等於零了。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">同樣是分配，我們每天有24小時，要把這24小時分配在睡眠、</span><br><span class="line">工作、學習、運動和與家人朋友共處這5個項目上面，這些項目</span><br><span class="line">的效應可以用一個健康、快樂、成功的效應來量度。每一小時或</span><br><span class="line">每一分鐘花在每一個項目的邊際效應是不同的，粗略來說，大致</span><br><span class="line">上都是遞減，例如剛上床睡覺時又甜又香，可是睡夠了，邊際效應</span><br><span class="line">就逐漸趨向於零；剛開始工作時的邊際效應很高，若工作過了頭，</span><br><span class="line">邊際效應可能就變成負的。若能把花在這五個項目上的時間總效應</span><br><span class="line">算出來，就是健康、快樂和成功的指數，也就知道如何分配每天的</span><br><span class="line">二十四小時了。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -794,11 +794,12 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Marginal Effect?</title>
-    <url>/posts/2c521d7f/</url>
-    <content><![CDATA[<h3 id="What-Is-Marginal-Effect"><a href="#What-Is-Marginal-Effect" class="headerlink" title="What Is Marginal Effect?"></a>What Is Marginal Effect?</h3><span id="more"></span>
-<p>這篇介紹What Is Marginal Effect。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">邊際效應在經濟學上的定義，在資源是有限的前提之下，</span><br><span class="line">如何把資源分配到不同的項目上使用，成為經濟學、社會學</span><br><span class="line">、心理學和日常生活裡的重要課題。</span><br><span class="line"></span><br><span class="line">通常聽到的邊際效應例子都是逐漸遞減，當投入成本越高</span><br><span class="line">獲得的回報會逐漸降低。邊際效應也可能等於零，一家五口</span><br><span class="line">去遊樂場玩，買門票時售票員說今天買五送一，第六張門票</span><br><span class="line">的邊際效應也是零。</span><br><span class="line"></span><br><span class="line">上述舉例中的邊際效應都是逐漸遞減，這在許多現實的經濟</span><br><span class="line">和社會行為裡都會出現，因此也被稱為「邊際效應遞減定律」。</span><br><span class="line">不過在現實生活中，邊際效應也是會遞增的：木匠要做一把椅子</span><br><span class="line">，第一和第二支椅腳的邊際效應是零，第三支椅腳的邊際效應最大，</span><br><span class="line">第四支椅腳也有正的邊際效應，因為能夠增加椅子的平穩度，但第</span><br><span class="line">五支和第六支椅腳的邊際效應又等於零了。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">同樣是分配，我們每天有24小時，要把這24小時分配在睡眠、</span><br><span class="line">工作、學習、運動和與家人朋友共處這5個項目上面，這些項目</span><br><span class="line">的效應可以用一個健康、快樂、成功的效應來量度。每一小時或</span><br><span class="line">每一分鐘花在每一個項目的邊際效應是不同的，粗略來說，大致</span><br><span class="line">上都是遞減，例如剛上床睡覺時又甜又香，可是睡夠了，邊際效應</span><br><span class="line">就逐漸趨向於零；剛開始工作時的邊際效應很高，若工作過了頭，</span><br><span class="line">邊際效應可能就變成負的。若能把花在這五個項目上的時間總效應</span><br><span class="line">算出來，就是健康、快樂和成功的指數，也就知道如何分配每天的</span><br><span class="line">二十四小時了。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>What Is Reciprocation Tendency</title>
+    <url>/posts/cc66598a/</url>
+    <content><![CDATA[<h2 id="What-Is-Reciprocation-Tendency"><a href="#What-Is-Reciprocation-Tendency" class="headerlink" title="What Is Reciprocation Tendency"></a>What Is Reciprocation Tendency</h2><span id="more"></span>
+<p>What Is Reciprocation Tendency</p>
+<h2 id="Reciprocation-Tendency"><a href="#Reciprocation-Tendency" class="headerlink" title="Reciprocation Tendency"></a>Reciprocation Tendency</h2><p>人們早就發現和猿類、猴類、狗類及其它許多認知能力較低的<br>動物相同，人類身上也有以德報德，以牙還牙的極端傾向。這<br>種傾向顯然能夠促進提升成員利益的團隊合作。這一點跟許多<br>社會性動物的基因程式很類似。</p>
+]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -817,6 +818,19 @@
       </categories>
       <tags>
         <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>內湖 單車山路 練腿力路線</title>
+    <url>/posts/2182ee8e/</url>
+    <content><![CDATA[<h3 id="內湖單車山路練腿力路線"><a href="#內湖單車山路練腿力路線" class="headerlink" title="內湖單車山路練腿力路線"></a>內湖單車山路練腿力路線</h3><span id="more"></span>
+<p>這篇介紹內湖單車山路練腿力路線。</p>
+<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往東湖一路直行前進，左轉五指山路口．</span><br><span class="line"></span><br><span class="line">直行先左轉在往右轉，第一個補給站小７，之後會一路往上騎（剛開始爬升最辛苦</span><br><span class="line"></span><br><span class="line">五指山較至善路車少運動的人少，經過辛苦爬升後會先到海倫咖啡（行動咖啡餐車</span><br><span class="line"></span><br><span class="line">海倫咖啡沒開的話，往上還有拉瓦那咖啡可以稍做休息．</span><br><span class="line"></span><br><span class="line">接著拉瓦那咖啡往前直騎會到風櫃嘴就一路下山，左轉往中社第二個爬升出發．</span><br><span class="line"></span><br><span class="line">到車輪釣蝦場往左轉就是中社爬坡路線，該路線運動的人不少．（途中會經過派出所）</span><br><span class="line"></span><br><span class="line">到達中社後，一路下坡回到車輪釣蝦場後左轉往劍南路迎接第三個爬升路線</span><br><span class="line">（大概４公里）</span><br><span class="line"></span><br><span class="line">一路下山回到內湖路，往港墘捷運站方向騎行就可以回到大港墘公園．</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Bike</category>
+      </categories>
+      <tags>
+        <tag>Bike</tag>
       </tags>
   </entry>
   <entry>
@@ -859,18 +873,18 @@
       </tags>
   </entry>
   <entry>
-    <title>ASTRA佈景主題套用</title>
-    <url>/posts/ebf5813d/</url>
-    <content><![CDATA[<h3 id="ASTRA佈景主題套用"><a href="#ASTRA佈景主題套用" class="headerlink" title="ASTRA佈景主題套用"></a>ASTRA佈景主題套用</h3><span id="more"></span>
-<p>這篇介紹ASTRA佈景主題套用。</p>
-<h3 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use"></a>How to use</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.安裝Starter Templates外掛</span><br><span class="line"></span><br><span class="line">2.點選see library -&gt; 選擇想要的佈景主題</span><br><span class="line"></span><br><span class="line">3.安裝Elementor編輯器</span><br></pre></td></tr></table></figure>]]></content>
+    <title>主機板B250M更換H110M-K</title>
+    <url>/posts/fd800bac/</url>
+    <content><![CDATA[<h2 id="主機板B250M更換H110M-K"><a href="#主機板B250M更換H110M-K" class="headerlink" title="主機板B250M更換H110M-K"></a>主機板B250M更換H110M-K</h2><span id="more"></span>
+<p>這篇介紹主機板B250M更換H110M-K。</p>
+<h2 id="過程"><a href="#過程" class="headerlink" title="過程:"></a>過程:</h2><p>經<a href="https://davidchenlab.com/posts/9541a16a/#more">https://davidchenlab.com/posts/9541a16a/#more</a> 檢測後<br>因電源供應器仍有保固 馬上先來找可以替換的主機板<br>上網查發現B250M已經停產 網路上只剩二手<br>原主機板支援CPU-1151腳位 DDR-2400的RAM<br>在原價屋上只有H110M-K兩塊主機板符合這規格 都是四年保固<br>最後決定買ASUS H110M-K來做更換 相較於原本的B250M是較陽春的主機板<br>記得要多買CPU散熱膏</p>
+<p>更換後目前皆正常!</p>
+]]></content>
       <categories>
-        <category>Astra</category>
+        <category>PersonalComputer</category>
       </categories>
       <tags>
-        <tag>Website</tag>
-        <tag>WordPress</tag>
-        <tag>Astra</tag>
+        <tag>PersonalComputer</tag>
       </tags>
   </entry>
   <entry>
@@ -884,21 +898,6 @@
       </categories>
       <tags>
         <tag>Health</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>主機板B250M更換H110M-K</title>
-    <url>/posts/fd800bac/</url>
-    <content><![CDATA[<h2 id="主機板B250M更換H110M-K"><a href="#主機板B250M更換H110M-K" class="headerlink" title="主機板B250M更換H110M-K"></a>主機板B250M更換H110M-K</h2><span id="more"></span>
-<p>這篇介紹主機板B250M更換H110M-K。</p>
-<h2 id="過程"><a href="#過程" class="headerlink" title="過程:"></a>過程:</h2><p>經<a href="https://davidchenlab.com/posts/9541a16a/#more">https://davidchenlab.com/posts/9541a16a/#more</a> 檢測後<br>因電源供應器仍有保固 馬上先來找可以替換的主機板<br>上網查發現B250M已經停產 網路上只剩二手<br>原主機板支援CPU-1151腳位 DDR-2400的RAM<br>在原價屋上只有H110M-K兩塊主機板符合這規格 都是四年保固<br>最後決定買ASUS H110M-K來做更換 相較於原本的B250M是較陽春的主機板<br>記得要多買CPU散熱膏</p>
-<p>更換後目前皆正常!</p>
-]]></content>
-      <categories>
-        <category>PersonalComputer</category>
-      </categories>
-      <tags>
-        <tag>PersonalComputer</tag>
       </tags>
   </entry>
   <entry>
@@ -1020,19 +1019,6 @@
       </tags>
   </entry>
   <entry>
-    <title>八里 到 淡水 至 漁人碼頭</title>
-    <url>/posts/83df165d/</url>
-    <content><![CDATA[<h3 id="八里-到-淡水-至-漁人碼頭-交通方法"><a href="#八里-到-淡水-至-漁人碼頭-交通方法" class="headerlink" title="八里 到 淡水 至 漁人碼頭 交通方法"></a>八里 到 淡水 至 漁人碼頭 交通方法</h3><span id="more"></span>
-<p>這篇介紹八里 到 淡水 至 漁人碼頭 交通方法。</p>
-<h3 id="交通方法"><a href="#交通方法" class="headerlink" title="交通方法"></a>交通方法</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">八里渡船頭到淡水只能搭交通船</span><br><span class="line">以2022年11月 價格單程<span class="variable">$34</span> 來回<span class="variable">$68</span></span><br><span class="line">從淡水渡船頭到淡水漁人碼頭有三種直達方法(回程也是同方式)</span><br><span class="line">1.搭藍色公路 單程<span class="variable">$90</span></span><br><span class="line">2.步行 約3公里</span><br><span class="line">3.搭紅26 一段票<span class="variable">$15</span></span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Traffic</category>
-      </categories>
-      <tags>
-        <tag>Traffic</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>分享 切藥 的兩種方法</title>
     <url>/posts/2c54dd50/</url>
     <content><![CDATA[<h2 id="分享切藥的兩種方法"><a href="#分享切藥的兩種方法" class="headerlink" title="分享切藥的兩種方法"></a>分享切藥的兩種方法</h2><span id="more"></span>
@@ -1048,25 +1034,16 @@
       </tags>
   </entry>
   <entry>
-    <title>分享多個 GMAIL找出 信件指令</title>
-    <url>/posts/b1468c1b/</url>
-    <content><![CDATA[<h2 id="分享多個-GMAIL找出-信件指令"><a href="#分享多個-GMAIL找出-信件指令" class="headerlink" title="分享多個 GMAIL找出 信件指令"></a>分享多個 GMAIL找出 信件指令</h2><span id="more"></span>
-<p>分享多個 GMAIL找出 信件指令</p>
-<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions:"></a>Instructions:</h2><p>1.找出未讀信件<br>label:unread</p>
-<p>2.找出重要信件<br>is:important</p>
-<p>3.找出未讀且重要信件<br>is:important label:unread</p>
-<p>4.找出特定年份以前信件 (找出2023年以前信件，不包含2023年)<br>older:2023</p>
-<p>5.找出特定日期信件<br>before:yyyy&#x2F;mm&#x2F;dd<br>example : before:2024&#x2F;01&#x2F;01</p>
-<p>6.找出特定檔案容量信件 (語法中的「xx」指的是檔案大小，由於 Gmail 的附件檔案容量上限是 25MB，所以 1MB~25MB 都可以輸入。)<br>size:xxmb<br>larger:xxMB<br>smaller:xxMB</p>
-<p>7.找出特定寄信者或收信者信件<br>from:(<span class="exturl" data-url="bWFpbHRvOiYjeDc4OyYjeDc4OyYjMTIwOyYjeDQwOyYjeDc4OyYjeDc4OyYjMTIwOyYjNDY7JiN4NjM7JiN4NmY7JiMxMDk7">&#x78;&#x78;&#120;&#x40;&#x78;&#x78;&#120;&#46;&#x63;&#x6f;&#109;<i class="fa fa-external-link-alt"></i></span>)<br>to:(<span class="exturl" data-url="bWFpbHRvOiYjMTIxOyYjMTIxOyYjeDc5OyYjNjQ7JiMxMjE7JiN4Nzk7JiMxMjE7JiM0NjsmIzk5OyYjMTExOyYjeDZkOw==">&#121;&#121;&#x79;&#64;&#121;&#x79;&#121;&#46;&#99;&#111;&#x6d;<i class="fa fa-external-link-alt"></i></span>)</p>
-<p>example : from:google</p>
-<p>8.刪除促銷內容<br>點選促銷內容視窗 -&gt; 左上全選 -&gt; 中間選取促銷內容全部 -&gt; 刪除 -&gt; 會慢慢刪除需等待</p>
-]]></content>
+    <title>原則-PrinciplesLifeAndWork</title>
+    <url>/posts/8f898476/</url>
+    <content><![CDATA[<h3 id="原則-PrinciplesLifeAndWork"><a href="#原則-PrinciplesLifeAndWork" class="headerlink" title="原則-PrinciplesLifeAndWork"></a>原則-PrinciplesLifeAndWork</h3><span id="more"></span>
+<p>這篇紀錄原則-PrinciplesLifeAndWork。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">作者是橋水基金的創辦人Ray Dalio，本書介紹他的成長過程以及從</span><br><span class="line">創業歷經失敗到慢慢成功。可以從Ray Dalio身上學到該避開哪些可</span><br><span class="line">能會失敗的決策過程。如何創造創意擇優，極其公開透明的企業文化。</span><br><span class="line">皆是本書的重點，非常推薦及期待Ray Dalio的下一本著作。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>GMAIL</category>
+        <category>Book</category>
       </categories>
       <tags>
-        <tag>GMAIL</tag>
+        <tag>Book</tag>
       </tags>
   </entry>
   <entry>
@@ -1083,16 +1060,30 @@
       </tags>
   </entry>
   <entry>
-    <title>原則-PrinciplesLifeAndWork</title>
-    <url>/posts/8f898476/</url>
-    <content><![CDATA[<h3 id="原則-PrinciplesLifeAndWork"><a href="#原則-PrinciplesLifeAndWork" class="headerlink" title="原則-PrinciplesLifeAndWork"></a>原則-PrinciplesLifeAndWork</h3><span id="more"></span>
-<p>這篇紀錄原則-PrinciplesLifeAndWork。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">作者是橋水基金的創辦人Ray Dalio，本書介紹他的成長過程以及從</span><br><span class="line">創業歷經失敗到慢慢成功。可以從Ray Dalio身上學到該避開哪些可</span><br><span class="line">能會失敗的決策過程。如何創造創意擇優，極其公開透明的企業文化。</span><br><span class="line">皆是本書的重點，非常推薦及期待Ray Dalio的下一本著作。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>八里 到 淡水 至 漁人碼頭</title>
+    <url>/posts/83df165d/</url>
+    <content><![CDATA[<h3 id="八里-到-淡水-至-漁人碼頭-交通方法"><a href="#八里-到-淡水-至-漁人碼頭-交通方法" class="headerlink" title="八里 到 淡水 至 漁人碼頭 交通方法"></a>八里 到 淡水 至 漁人碼頭 交通方法</h3><span id="more"></span>
+<p>這篇介紹八里 到 淡水 至 漁人碼頭 交通方法。</p>
+<h3 id="交通方法"><a href="#交通方法" class="headerlink" title="交通方法"></a>交通方法</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">八里渡船頭到淡水只能搭交通船</span><br><span class="line">以2022年11月 價格單程<span class="variable">$34</span> 來回<span class="variable">$68</span></span><br><span class="line">從淡水渡船頭到淡水漁人碼頭有三種直達方法(回程也是同方式)</span><br><span class="line">1.搭藍色公路 單程<span class="variable">$90</span></span><br><span class="line">2.步行 約3公里</span><br><span class="line">3.搭紅26 一段票<span class="variable">$15</span></span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Book</category>
+        <category>Traffic</category>
       </categories>
       <tags>
-        <tag>Book</tag>
+        <tag>Traffic</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>唯潔雅 抽取式 衛生紙 小發現</title>
+    <url>/posts/ac3729c9/</url>
+    <content><![CDATA[<h2 id="唯潔雅-抽取式-衛生紙-小發現"><a href="#唯潔雅-抽取式-衛生紙-小發現" class="headerlink" title="唯潔雅 抽取式 衛生紙 小發現"></a>唯潔雅 抽取式 衛生紙 小發現</h2><span id="more"></span>
+<p>唯潔雅 抽取式 衛生紙 小發現</p>
+<h2 id="Process"><a href="#Process" class="headerlink" title="Process:"></a>Process:</h2><p>某天要去補貨衛生紙，去逛了自由聯盟跟全聯，發現唯潔雅衛生紙看起來一樣外表但兩家有不同價格。<br>一包121元，一包139元，139元外表看起來比較大包，121元的較小包。<br>但仔細一看121元是10包140抽，139元是14包100抽，總數都是1400抽，只是14包用比較多包裝材料。<br>建議可以買10包140抽，比較便宜也比較環保。</p>
+]]></content>
+      <categories>
+        <category>Tissue</category>
+      </categories>
+      <tags>
+        <tag>Tissue</tag>
       </tags>
   </entry>
   <entry>
@@ -1126,20 +1117,6 @@
       </tags>
   </entry>
   <entry>
-    <title>唯潔雅 抽取式 衛生紙 小發現</title>
-    <url>/posts/ac3729c9/</url>
-    <content><![CDATA[<h2 id="唯潔雅-抽取式-衛生紙-小發現"><a href="#唯潔雅-抽取式-衛生紙-小發現" class="headerlink" title="唯潔雅 抽取式 衛生紙 小發現"></a>唯潔雅 抽取式 衛生紙 小發現</h2><span id="more"></span>
-<p>唯潔雅 抽取式 衛生紙 小發現</p>
-<h2 id="Process"><a href="#Process" class="headerlink" title="Process:"></a>Process:</h2><p>某天要去補貨衛生紙，去逛了自由聯盟跟全聯，發現唯潔雅衛生紙看起來一樣外表但兩家有不同價格。<br>一包121元，一包139元，139元外表看起來比較大包，121元的較小包。<br>但仔細一看121元是10包140抽，139元是14包100抽，總數都是1400抽，只是14包用比較多包裝材料。<br>建議可以買10包140抽，比較便宜也比較環保。</p>
-]]></content>
-      <categories>
-        <category>Tissue</category>
-      </categories>
-      <tags>
-        <tag>Tissue</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>國賓影城 A+卡 退卡流程</title>
     <url>/posts/34099507/</url>
     <content><![CDATA[<h2 id="國賓影城-A-卡-退卡流程"><a href="#國賓影城-A-卡-退卡流程" class="headerlink" title="國賓影城 A+卡 退卡流程"></a>國賓影城 A+卡 退卡流程</h2><span id="more"></span>
@@ -1151,6 +1128,19 @@
       </categories>
       <tags>
         <tag>Ambassador</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>報考動力小船駕照之體檢建議</title>
+    <url>/posts/26505fa3/</url>
+    <content><![CDATA[<h3 id="報考動力小船駕照之體檢建議"><a href="#報考動力小船駕照之體檢建議" class="headerlink" title="報考動力小船駕照之體檢建議"></a>報考動力小船駕照之體檢建議</h3><span id="more"></span>
+<p>這篇介紹報考動力小船駕照之體檢建議。</p>
+<h3 id="建議及注意事項"><a href="#建議及注意事項" class="headerlink" title="建議及注意事項"></a>建議及注意事項</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">需去公立醫院體檢</span><br><span class="line">需準備體檢專用表格(建議先填好)、身分證、健保卡、一吋照片兩張</span><br><span class="line">推薦去基隆市立醫院(不用預約 現場排隊掛號</span><br><span class="line">上午10:30前需掛號 -&gt; 開始做檢查 -&gt; 當天下午15:30可以領報告</span><br><span class="line">(建議可提前打電話詢問報告是否已出來)</span><br><span class="line"></span><br><span class="line">體檢費用印象中NT<span class="variable">$6XX</span></span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>PhysicalExamination</category>
+      </categories>
+      <tags>
+        <tag>PhysicalExamination</tag>
       </tags>
   </entry>
   <entry>
@@ -1182,19 +1172,6 @@
         <tag>Globe</tag>
         <tag>Manila</tag>
         <tag>SimCard</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>報考動力小船駕照之體檢建議</title>
-    <url>/posts/26505fa3/</url>
-    <content><![CDATA[<h3 id="報考動力小船駕照之體檢建議"><a href="#報考動力小船駕照之體檢建議" class="headerlink" title="報考動力小船駕照之體檢建議"></a>報考動力小船駕照之體檢建議</h3><span id="more"></span>
-<p>這篇介紹報考動力小船駕照之體檢建議。</p>
-<h3 id="建議及注意事項"><a href="#建議及注意事項" class="headerlink" title="建議及注意事項"></a>建議及注意事項</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">需去公立醫院體檢</span><br><span class="line">需準備體檢專用表格(建議先填好)、身分證、健保卡、一吋照片兩張</span><br><span class="line">推薦去基隆市立醫院(不用預約 現場排隊掛號</span><br><span class="line">上午10:30前需掛號 -&gt; 開始做檢查 -&gt; 當天下午15:30可以領報告</span><br><span class="line">(建議可提前打電話詢問報告是否已出來)</span><br><span class="line"></span><br><span class="line">體檢費用印象中NT<span class="variable">$6XX</span></span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>PhysicalExamination</category>
-      </categories>
-      <tags>
-        <tag>PhysicalExamination</tag>
       </tags>
   </entry>
   <entry>
@@ -1261,16 +1238,40 @@
       </tags>
   </entry>
   <entry>
-    <title>推薦 黏塑膠 黏著劑</title>
-    <url>/posts/c19426bb/</url>
-    <content><![CDATA[<h3 id="推薦-黏塑膠-黏著劑"><a href="#推薦-黏塑膠-黏著劑" class="headerlink" title="推薦 黏塑膠 黏著劑"></a>推薦 黏塑膠 黏著劑</h3><span id="more"></span>
-<p>這篇推薦黏塑膠黏著劑。</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有黏塑膠與塑膠間的需求，原本是用快乾黏。</span><br><span class="line">但撐不久~後來在找有沒有其它能黏更牢靠的黏著劑。</span><br><span class="line">聽說速利康和AB膠都可以，振宇五金買的AB膠。</span><br><span class="line">需將A膠和B膠混合，因很快就黏固所以要趁還有黏性時，</span><br><span class="line">將兩者用AB膠固定黏起來，並放置24小時。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>分享多個 GMAIL找出 信件指令</title>
+    <url>/posts/b1468c1b/</url>
+    <content><![CDATA[<h2 id="分享多個-GMAIL找出-信件指令"><a href="#分享多個-GMAIL找出-信件指令" class="headerlink" title="分享多個 GMAIL找出 信件指令"></a>分享多個 GMAIL找出 信件指令</h2><span id="more"></span>
+<p>分享多個 GMAIL找出 信件指令</p>
+<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions:"></a>Instructions:</h2><p>1.找出未讀信件<br>label:unread</p>
+<p>2.找出重要信件<br>is:important</p>
+<p>3.找出未讀且重要信件<br>is:important label:unread</p>
+<p>4.找出特定年份以前信件 (找出2023年以前信件，不包含2023年)<br>older:2023</p>
+<p>5.找出特定日期信件<br>before:yyyy&#x2F;mm&#x2F;dd<br>example : before:2024&#x2F;01&#x2F;01</p>
+<p>6.找出特定檔案容量信件 (語法中的「xx」指的是檔案大小，由於 Gmail 的附件檔案容量上限是 25MB，所以 1MB~25MB 都可以輸入。)<br>size:xxmb<br>larger:xxMB<br>smaller:xxMB</p>
+<p>7.找出特定寄信者或收信者信件<br>from:(<span class="exturl" data-url="bWFpbHRvOiYjMTIwOyYjMTIwOyYjMTIwOyYjeDQwOyYjeDc4OyYjeDc4OyYjMTIwOyYjeDJlOyYjOTk7JiMxMTE7JiMxMDk7">&#120;&#120;&#120;&#x40;&#x78;&#x78;&#120;&#x2e;&#99;&#111;&#109;<i class="fa fa-external-link-alt"></i></span>)<br>to:(<span class="exturl" data-url="bWFpbHRvOiYjMTIxOyYjMTIxOyYjeDc5OyYjNjQ7JiN4Nzk7JiMxMjE7JiN4Nzk7JiM0NjsmI3g2MzsmI3g2ZjsmI3g2ZDs=">&#121;&#121;&#x79;&#64;&#x79;&#121;&#x79;&#46;&#x63;&#x6f;&#x6d;<i class="fa fa-external-link-alt"></i></span>)</p>
+<p>example : from:google</p>
+<p>8.刪除促銷內容<br>點選促銷內容視窗 -&gt; 左上全選 -&gt; 中間選取促銷內容全部 -&gt; 刪除 -&gt; 會慢慢刪除需等待</p>
+]]></content>
       <categories>
-        <category>Adhesive</category>
+        <category>GMAIL</category>
       </categories>
       <tags>
-        <tag>Adhesive</tag>
+        <tag>GMAIL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ASTRA佈景主題套用</title>
+    <url>/posts/ebf5813d/</url>
+    <content><![CDATA[<h3 id="ASTRA佈景主題套用"><a href="#ASTRA佈景主題套用" class="headerlink" title="ASTRA佈景主題套用"></a>ASTRA佈景主題套用</h3><span id="more"></span>
+<p>這篇介紹ASTRA佈景主題套用。</p>
+<h3 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use"></a>How to use</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.安裝Starter Templates外掛</span><br><span class="line"></span><br><span class="line">2.點選see library -&gt; 選擇想要的佈景主題</span><br><span class="line"></span><br><span class="line">3.安裝Elementor編輯器</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Astra</category>
+      </categories>
+      <tags>
+        <tag>Website</tag>
+        <tag>WordPress</tag>
+        <tag>Astra</tag>
       </tags>
   </entry>
   <entry>
@@ -1284,6 +1285,19 @@
       </categories>
       <tags>
         <tag>Insurance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>推薦 黏塑膠 黏著劑</title>
+    <url>/posts/c19426bb/</url>
+    <content><![CDATA[<h3 id="推薦-黏塑膠-黏著劑"><a href="#推薦-黏塑膠-黏著劑" class="headerlink" title="推薦 黏塑膠 黏著劑"></a>推薦 黏塑膠 黏著劑</h3><span id="more"></span>
+<p>這篇推薦黏塑膠黏著劑。</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有黏塑膠與塑膠間的需求，原本是用快乾黏。</span><br><span class="line">但撐不久~後來在找有沒有其它能黏更牢靠的黏著劑。</span><br><span class="line">聽說速利康和AB膠都可以，振宇五金買的AB膠。</span><br><span class="line">需將A膠和B膠混合，因很快就黏固所以要趁還有黏性時，</span><br><span class="line">將兩者用AB膠固定黏起來，並放置24小時。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Adhesive</category>
+      </categories>
+      <tags>
+        <tag>Adhesive</tag>
       </tags>
   </entry>
   <entry>
@@ -1310,6 +1324,26 @@
       </categories>
       <tags>
         <tag>Onsen</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>紀錄亮引擎燈 (空氣流量計) 的其中一種原因</title>
+    <url>/posts/c0904ac7/</url>
+    <content><![CDATA[<h2 id="紀錄亮引擎燈-空氣流量計-的其中一種原因"><a href="#紀錄亮引擎燈-空氣流量計-的其中一種原因" class="headerlink" title="紀錄亮引擎燈 (空氣流量計) 的其中一種原因"></a>紀錄亮引擎燈 (空氣流量計) 的其中一種原因</h2><span id="more"></span>
+<p>這篇介紹紀錄亮引擎燈 (空氣流量計) 的其中一種原因。</p>
+<h2 id="過程"><a href="#過程" class="headerlink" title="過程:"></a>過程:</h2><p>換完變速箱油後，因All new Mazda3變速箱加油孔在空濾正下方</p>
+<p>需先拔空氣流量計的插頭和空濾上下座，才能看到變速箱加油孔。</p>
+<p>加完變速箱油後，裝好空濾上下座，忘了將空氣流量計插頭插回去就發動</p>
+<p>結果直接亮引擎燈、胎壓燈。</p>
+<p>將空氣流量計插頭插回去就，剩引擎燈還亮著。</p>
+<p>再發動一次，引擎燈依然還亮著。</p>
+<p>等待一段時間後，再發動後，ECU電腦會偵測空氣流量計正常，引擎燈就會<br>自動消失。</p>
+]]></content>
+      <categories>
+        <category>Car</category>
+      </categories>
+      <tags>
+        <tag>Car</tag>
       </tags>
   </entry>
   <entry>
@@ -1340,26 +1374,6 @@
       </tags>
   </entry>
   <entry>
-    <title>紀錄亮引擎燈 (空氣流量計) 的其中一種原因</title>
-    <url>/posts/c0904ac7/</url>
-    <content><![CDATA[<h2 id="紀錄亮引擎燈-空氣流量計-的其中一種原因"><a href="#紀錄亮引擎燈-空氣流量計-的其中一種原因" class="headerlink" title="紀錄亮引擎燈 (空氣流量計) 的其中一種原因"></a>紀錄亮引擎燈 (空氣流量計) 的其中一種原因</h2><span id="more"></span>
-<p>這篇介紹紀錄亮引擎燈 (空氣流量計) 的其中一種原因。</p>
-<h2 id="過程"><a href="#過程" class="headerlink" title="過程:"></a>過程:</h2><p>換完變速箱油後，因All new Mazda3變速箱加油孔在空濾正下方</p>
-<p>需先拔空氣流量計的插頭和空濾上下座，才能看到變速箱加油孔。</p>
-<p>加完變速箱油後，裝好空濾上下座，忘了將空氣流量計插頭插回去就發動</p>
-<p>結果直接亮引擎燈、胎壓燈。</p>
-<p>將空氣流量計插頭插回去就，剩引擎燈還亮著。</p>
-<p>再發動一次，引擎燈依然還亮著。</p>
-<p>等待一段時間後，再發動後，ECU電腦會偵測空氣流量計正常，引擎燈就會<br>自動消失。</p>
-]]></content>
-      <categories>
-        <category>Car</category>
-      </categories>
-      <tags>
-        <tag>Car</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>申請 鼻頭角漁港 緊急避難 入港</title>
     <url>/posts/3180caaa/</url>
     <content><![CDATA[<h3 id="申請-鼻頭角漁港-緊急避難-入港"><a href="#申請-鼻頭角漁港-緊急避難-入港" class="headerlink" title="申請 鼻頭角漁港 緊急避難 入港"></a>申請 鼻頭角漁港 緊急避難 入港</h3><span id="more"></span>
@@ -1384,33 +1398,6 @@
       <tags>
         <tag>Travel</tag>
         <tag>Gas</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>美國公債 殖利率 與 股市 的關聯</title>
-    <url>/posts/a3daf891/</url>
-    <content><![CDATA[<h3 id="美國公債殖利率與股市的關聯"><a href="#美國公債殖利率與股市的關聯" class="headerlink" title="美國公債殖利率與股市的關聯"></a>美國公債殖利率與股市的關聯</h3><span id="more"></span>
-<p>這篇介紹美國公債殖利率與股市的關聯。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">「利率」是由中央銀行決定，在美國當然是由美國聯邦</span><br><span class="line">銀行 FED，在台灣則是中央銀行控制。各國目前的利率</span><br><span class="line">都非常的低，有些國家的利率更低到零。全球央行均刻意</span><br><span class="line">的壓低利率 （除了俄羅斯及巴西之外），以創造刺激</span><br><span class="line">通膨的環境。在這種長期低利率下，造就全球的資金氾濫</span><br><span class="line">、熱錢亂竄。</span><br><span class="line"></span><br><span class="line">「債券」的長期利率不是由中央銀行決定，大致上由市場</span><br><span class="line">決定 （不考慮 QE 購債的間接影響）。美國 10 年期公債</span><br><span class="line">殖利率普遍被市場認為是零風險利率。債券的利率越高，</span><br><span class="line">對股票的壓力越大。所有的投資者，無論是大型保險公司</span><br><span class="line">或退休基金的基金經理，還是小儲戶，都必須選擇一種</span><br><span class="line">投資方式，選擇股票，還是債券？</span><br><span class="line"></span><br><span class="line">如果債券利率高於通貨膨脹率和股票紅利，大家就會</span><br><span class="line">選擇債券。如果長期債券利率低，投資者願冒更大的</span><br><span class="line">風險，轉向投資股票。因此，債券市場利率愈高，可供</span><br><span class="line">股票市場利用的資金愈少。反之，債券市場利率愈低，</span><br><span class="line">可供股票市場利用的資金愈多。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Investment</category>
-      </categories>
-      <tags>
-        <tag>Investment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>維修 電視 經驗</title>
-    <url>/posts/b64e3275/</url>
-    <content><![CDATA[<h3 id="介紹-維修-電視-經驗"><a href="#介紹-維修-電視-經驗" class="headerlink" title="介紹 維修 電視 經驗"></a>介紹 維修 電視 經驗</h3><span id="more"></span>
-<p>這篇介紹維修電視經驗</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有一天電視開始出現閃屏，根據之前電視壞掉的經驗</span><br><span class="line">通常報修原廠或是一般的店家都會直接換主機板或背板。</span><br><span class="line">動輒要好幾千元~因為直接換最快不用檢修。</span><br><span class="line">最近找到一個叫電視爸爸專門維修電視的退休人士。</span><br><span class="line">現在的電視3~5年過保後就會故障，一台壽命很短~</span><br><span class="line">但通常只需要更換零件就能繼續看，但這種工作需要花時間檢修</span><br><span class="line">一般店家不願意做，基於環保的概念~如果能修好的話，必須找到</span><br><span class="line">相對專業的專家來處理!</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>TV</category>
-      </categories>
-      <tags>
-        <tag>TV</tag>
-        <tag>LED</tag>
       </tags>
   </entry>
   <entry>
@@ -1442,6 +1429,46 @@
       </tags>
   </entry>
   <entry>
+    <title>美國公債 殖利率 與 股市 的關聯</title>
+    <url>/posts/a3daf891/</url>
+    <content><![CDATA[<h3 id="美國公債殖利率與股市的關聯"><a href="#美國公債殖利率與股市的關聯" class="headerlink" title="美國公債殖利率與股市的關聯"></a>美國公債殖利率與股市的關聯</h3><span id="more"></span>
+<p>這篇介紹美國公債殖利率與股市的關聯。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">「利率」是由中央銀行決定，在美國當然是由美國聯邦</span><br><span class="line">銀行 FED，在台灣則是中央銀行控制。各國目前的利率</span><br><span class="line">都非常的低，有些國家的利率更低到零。全球央行均刻意</span><br><span class="line">的壓低利率 （除了俄羅斯及巴西之外），以創造刺激</span><br><span class="line">通膨的環境。在這種長期低利率下，造就全球的資金氾濫</span><br><span class="line">、熱錢亂竄。</span><br><span class="line"></span><br><span class="line">「債券」的長期利率不是由中央銀行決定，大致上由市場</span><br><span class="line">決定 （不考慮 QE 購債的間接影響）。美國 10 年期公債</span><br><span class="line">殖利率普遍被市場認為是零風險利率。債券的利率越高，</span><br><span class="line">對股票的壓力越大。所有的投資者，無論是大型保險公司</span><br><span class="line">或退休基金的基金經理，還是小儲戶，都必須選擇一種</span><br><span class="line">投資方式，選擇股票，還是債券？</span><br><span class="line"></span><br><span class="line">如果債券利率高於通貨膨脹率和股票紅利，大家就會</span><br><span class="line">選擇債券。如果長期債券利率低，投資者願冒更大的</span><br><span class="line">風險，轉向投資股票。因此，債券市場利率愈高，可供</span><br><span class="line">股票市場利用的資金愈少。反之，債券市場利率愈低，</span><br><span class="line">可供股票市場利用的資金愈多。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>維修 電視 經驗</title>
+    <url>/posts/b64e3275/</url>
+    <content><![CDATA[<h3 id="介紹-維修-電視-經驗"><a href="#介紹-維修-電視-經驗" class="headerlink" title="介紹 維修 電視 經驗"></a>介紹 維修 電視 經驗</h3><span id="more"></span>
+<p>這篇介紹維修電視經驗</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有一天電視開始出現閃屏，根據之前電視壞掉的經驗</span><br><span class="line">通常報修原廠或是一般的店家都會直接換主機板或背板。</span><br><span class="line">動輒要好幾千元~因為直接換最快不用檢修。</span><br><span class="line">最近找到一個叫電視爸爸專門維修電視的退休人士。</span><br><span class="line">現在的電視3~5年過保後就會故障，一台壽命很短~</span><br><span class="line">但通常只需要更換零件就能繼續看，但這種工作需要花時間檢修</span><br><span class="line">一般店家不願意做，基於環保的概念~如果能修好的話，必須找到</span><br><span class="line">相對專業的專家來處理!</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>TV</category>
+      </categories>
+      <tags>
+        <tag>TV</tag>
+        <tag>LED</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>處理腳踝扭傷</title>
+    <url>/posts/508b0447/</url>
+    <content><![CDATA[<h3 id="處理腳踝扭傷"><a href="#處理腳踝扭傷" class="headerlink" title="處理腳踝扭傷"></a>處理腳踝扭傷</h3><span id="more"></span>
+<p>這篇介紹處理腳踝扭傷。</p>
+<h3 id="處理步驟"><a href="#處理步驟" class="headerlink" title="處理步驟"></a>處理步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.先進行冰敷，每小時冰15分鐘</span><br><span class="line">2.腳踝腫起來，走路會痛到無法走的話 =&gt; 先去看急診骨科 + X光檢查</span><br><span class="line">3.骨科確認骨頭沒事後，改看復健科。</span><br><span class="line">4.這段期間持續冰敷緩解疼痛!</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Ankle</category>
+      </categories>
+      <tags>
+        <tag>Ankle</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>記錄換機油 變速箱油所需材料</title>
     <url>/posts/8e77708b/</url>
     <content><![CDATA[<h3 id="記錄換機油-變速箱油所需材料"><a href="#記錄換機油-變速箱油所需材料" class="headerlink" title="記錄換機油 變速箱油所需材料"></a>記錄換機油 變速箱油所需材料</h3><span id="more"></span>
@@ -1469,16 +1496,16 @@
       </tags>
   </entry>
   <entry>
-    <title>處理腳踝扭傷</title>
-    <url>/posts/508b0447/</url>
-    <content><![CDATA[<h3 id="處理腳踝扭傷"><a href="#處理腳踝扭傷" class="headerlink" title="處理腳踝扭傷"></a>處理腳踝扭傷</h3><span id="more"></span>
-<p>這篇介紹處理腳踝扭傷。</p>
-<h3 id="處理步驟"><a href="#處理步驟" class="headerlink" title="處理步驟"></a>處理步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.先進行冰敷，每小時冰15分鐘</span><br><span class="line">2.腳踝腫起來，走路會痛到無法走的話 =&gt; 先去看急診骨科 + X光檢查</span><br><span class="line">3.骨科確認骨頭沒事後，改看復健科。</span><br><span class="line">4.這段期間持續冰敷緩解疼痛!</span><br></pre></td></tr></table></figure>]]></content>
+    <title>關於 CHROME REMOTE DESKTOP 延伸螢幕</title>
+    <url>/posts/8bd7e342/</url>
+    <content><![CDATA[<h3 id="關於CHROME-REMOTE-DESKTOP-延伸螢幕"><a href="#關於CHROME-REMOTE-DESKTOP-延伸螢幕" class="headerlink" title="關於CHROME REMOTE DESKTOP 延伸螢幕"></a>關於CHROME REMOTE DESKTOP 延伸螢幕</h3><span id="more"></span>
+<p>這篇介紹關於CHROME REMOTE DESKTOP 延伸螢幕。</p>
+<h3 id="PC-Versus-Mobile"><a href="#PC-Versus-Mobile" class="headerlink" title="PC Versus Mobile"></a>PC Versus Mobile</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">欲遠端的電腦有延伸螢幕，只有PC版使用Chrome Remote </span><br><span class="line">Desktop遠端過去時可以選要檢視哪一個螢幕</span><br><span class="line"></span><br><span class="line">手機版遠端過去只能看到延伸螢幕的畫面</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Ankle</category>
+        <category>Software</category>
       </categories>
       <tags>
-        <tag>Ankle</tag>
+        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
@@ -1495,46 +1522,6 @@
       </tags>
   </entry>
   <entry>
-    <title>近視雷射 術前評估心得</title>
-    <url>/posts/24fe481a/</url>
-    <content><![CDATA[<h3 id="關於近視雷射-術前評估心得"><a href="#關於近視雷射-術前評估心得" class="headerlink" title="關於近視雷射 術前評估心得"></a>關於近視雷射 術前評估心得</h3><span id="more"></span>
-<p>這篇介紹近視雷射 術前評估心得。</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">這次挑選兩家分別是桃園市諾貝爾眼科與蘆竹大學眼科來做近視雷射評估。</span><br><span class="line">兩家皆會做驗光、測量近視度數與散光度數，淚液測試以及眼睛健康度、</span><br><span class="line">視網膜檢查、角膜厚度...等。</span><br><span class="line">來評估是否適合做近視雷射手術或是適合做哪一種近視雷射手術。</span><br><span class="line"></span><br><span class="line">檢查前一個禮拜不能戴隱形眼鏡!</span><br><span class="line">評估過程都會點散瞳劑，檢查當天建議不要開車，搭交通工具去檢查。</span><br><span class="line">檢查完都會有專人說明檢查後結果的數據，會說哪幾種術式可以做，以及</span><br><span class="line">各術式的價格提供參考。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>LaserEyeSurgery</category>
-      </categories>
-      <tags>
-        <tag>LaserEyeSurgery</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>長榮半馬初體驗</title>
-    <url>/posts/d3146281/</url>
-    <content><![CDATA[<h3 id="長榮半馬初體驗"><a href="#長榮半馬初體驗" class="headerlink" title="長榮半馬初體驗"></a>長榮半馬初體驗</h3><span id="more"></span>
-<p>這篇介紹長榮半馬初體驗。</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">日期:2022/10/23(日) 總統府前大道起跑</span><br><span class="line">衣保車截止時間: 04:50</span><br><span class="line">自行開車的話建議停台大醫院附近(回程會比較近)</span><br><span class="line"></span><br><span class="line">一路上補給介紹</span><br><span class="line">海綿站只有海綿跟水</span><br><span class="line">補給站有水和舒跑，幾站會有香蕉、番茄(有吃到的</span><br><span class="line">建議自備鹽糖、能量膠...補給</span><br><span class="line"></span><br><span class="line">補給要提前吃，才有效!</span><br><span class="line">回程搭車去台大醫院的人比較多，需排隊等公車(免錢)</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Marathon</category>
-      </categories>
-      <tags>
-        <tag>Marathon</tag>
-        <tag>Run</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 CHROME REMOTE DESKTOP 延伸螢幕</title>
-    <url>/posts/8bd7e342/</url>
-    <content><![CDATA[<h3 id="關於CHROME-REMOTE-DESKTOP-延伸螢幕"><a href="#關於CHROME-REMOTE-DESKTOP-延伸螢幕" class="headerlink" title="關於CHROME REMOTE DESKTOP 延伸螢幕"></a>關於CHROME REMOTE DESKTOP 延伸螢幕</h3><span id="more"></span>
-<p>這篇介紹關於CHROME REMOTE DESKTOP 延伸螢幕。</p>
-<h3 id="PC-Versus-Mobile"><a href="#PC-Versus-Mobile" class="headerlink" title="PC Versus Mobile"></a>PC Versus Mobile</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">欲遠端的電腦有延伸螢幕，只有PC版使用Chrome Remote </span><br><span class="line">Desktop遠端過去時可以選要檢視哪一個螢幕</span><br><span class="line"></span><br><span class="line">手機版遠端過去只能看到延伸螢幕的畫面</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Software</category>
-      </categories>
-      <tags>
-        <tag>Software</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 國外刷卡 需要PINCODE</title>
     <url>/posts/d6f0d53a/</url>
     <content><![CDATA[<h3 id="關於國外刷卡需要PINCODE"><a href="#關於國外刷卡需要PINCODE" class="headerlink" title="關於國外刷卡需要PINCODE"></a>關於國外刷卡需要PINCODE</h3><span id="more"></span>
@@ -1545,6 +1532,19 @@
       </categories>
       <tags>
         <tag>CreditCard</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>近視雷射 術前評估心得</title>
+    <url>/posts/24fe481a/</url>
+    <content><![CDATA[<h3 id="關於近視雷射-術前評估心得"><a href="#關於近視雷射-術前評估心得" class="headerlink" title="關於近視雷射 術前評估心得"></a>關於近視雷射 術前評估心得</h3><span id="more"></span>
+<p>這篇介紹近視雷射 術前評估心得。</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">這次挑選兩家分別是桃園市諾貝爾眼科與蘆竹大學眼科來做近視雷射評估。</span><br><span class="line">兩家皆會做驗光、測量近視度數與散光度數，淚液測試以及眼睛健康度、</span><br><span class="line">視網膜檢查、角膜厚度...等。</span><br><span class="line">來評估是否適合做近視雷射手術或是適合做哪一種近視雷射手術。</span><br><span class="line"></span><br><span class="line">檢查前一個禮拜不能戴隱形眼鏡!</span><br><span class="line">評估過程都會點散瞳劑，檢查當天建議不要開車，搭交通工具去檢查。</span><br><span class="line">檢查完都會有專人說明檢查後結果的數據，會說哪幾種術式可以做，以及</span><br><span class="line">各術式的價格提供參考。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>LaserEyeSurgery</category>
+      </categories>
+      <tags>
+        <tag>LaserEyeSurgery</tag>
       </tags>
   </entry>
   <entry>
@@ -1586,6 +1586,20 @@
       </categories>
       <tags>
         <tag>Wine</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>長榮半馬初體驗</title>
+    <url>/posts/d3146281/</url>
+    <content><![CDATA[<h3 id="長榮半馬初體驗"><a href="#長榮半馬初體驗" class="headerlink" title="長榮半馬初體驗"></a>長榮半馬初體驗</h3><span id="more"></span>
+<p>這篇介紹長榮半馬初體驗。</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">日期:2022/10/23(日) 總統府前大道起跑</span><br><span class="line">衣保車截止時間: 04:50</span><br><span class="line">自行開車的話建議停台大醫院附近(回程會比較近)</span><br><span class="line"></span><br><span class="line">一路上補給介紹</span><br><span class="line">海綿站只有海綿跟水</span><br><span class="line">補給站有水和舒跑，幾站會有香蕉、番茄(有吃到的</span><br><span class="line">建議自備鹽糖、能量膠...補給</span><br><span class="line"></span><br><span class="line">補給要提前吃，才有效!</span><br><span class="line">回程搭車去台大醫院的人比較多，需排隊等公車(免錢)</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Marathon</category>
+      </categories>
+      <tags>
+        <tag>Marathon</tag>
+        <tag>Run</tag>
       </tags>
   </entry>
 </search>
