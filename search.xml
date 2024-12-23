@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>20210513 停電 小知識</title>
-    <url>/posts/828a084/</url>
-    <content><![CDATA[<h3 id="20210513停電小知識"><a href="#20210513停電小知識" class="headerlink" title="20210513停電小知識"></a>20210513停電小知識</h3><span id="more"></span>
-<p>這篇介紹20210513停電小知識。</p>
-<h3 id="停電小知識"><a href="#停電小知識" class="headerlink" title="停電小知識"></a>停電小知識</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">台電將全台限電用戶分為 A、B、C、D、E、F 共六個組別，遇到限電措施實施時即會分</span><br><span class="line">區輪流限電。要怎麼知道自己家裡哪一個限電區，只要拿出電費帳單查看帳單金額上方</span><br><span class="line">的「輪流停電組別」即可知道。</span><br><span class="line"></span><br><span class="line">針對受到限電的一般用戶，台電將會有補償措施，計算方式為：</span><br><span class="line"></span><br><span class="line">底度費（或包制電費）× 4％ × 停電次數</span><br><span class="line">底度費：一般住宅用戶（單相低壓電表）每月底度為 20 度，依現行電價 1.63 元/度</span><br><span class="line">計算，每月底度費 32.6 元。全台用電戶共分為九個組別才對，一般限電會從工業用</span><br><span class="line">戶開始限電，之後才是民生用電，A 組和 B 組屬於緊急限電類型，只要系統有突發</span><br><span class="line">意外就會無預警限電（當然台電會盡量提前通知啦），C 組、D 組、E 組、F 組屬於</span><br><span class="line">計畫限電類型，如果台電知道隔天電力供應將會不足，會提前一天在下午四點前通知</span><br><span class="line">輪流限電，每組每次停電 50 分鐘。</span><br><span class="line">至於 H 組、I 組、J 組則屬於特殊不限電組，H 組包含國防、交通等重要用戶、I </span><br><span class="line">組屬於特高壓用戶、J 組則是台電電廠配電線路的變壓器饋線，因為性質特殊將不會</span><br><span class="line">限電。</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+    <title>2014 Mac Air Upgrade SSD Issue</title>
+    <url>/posts/a8e9019/</url>
+    <content><![CDATA[<h3 id="2014-Mac-Air-Upgrade-SSD-Issue"><a href="#2014-Mac-Air-Upgrade-SSD-Issue" class="headerlink" title="2014 Mac Air Upgrade SSD Issue"></a>2014 Mac Air Upgrade SSD Issue</h3><span id="more"></span>
+<p>這篇紀錄2014 Mac Air Upgrade SSD Issue。</p>
+<h3 id="Issue"><a href="#Issue" class="headerlink" title="Issue"></a>Issue</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">之前將2014 Mac air 從128G SSD 升級為三星 m.2 1T SSD。</span><br><span class="line">在有次重開機後，發現會進到地球畫面。只能用網路進到工具軟體。</span><br><span class="line">啟動磁碟會抓不到這顆1T的SSD，在磁碟工具內也看不到該SSD硬碟。</span><br><span class="line"></span><br><span class="line">解決方法:</span><br><span class="line">因為自行改SSD的緣故，只能製作開機USB，必須先裝某版本的MacOS，</span><br><span class="line">插入後即可選擇到啟動硬碟，進入到登入畫面。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Emergy</category>
+        <category>MacAir</category>
       </categories>
       <tags>
-        <tag>Emergy</tag>
+        <tag>Apple</tag>
+        <tag>Mac</tag>
+        <tag>SSD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>55688 多元計程車 固定收費 經驗</title>
+    <url>/posts/db782bd2/</url>
+    <content><![CDATA[<h3 id="55688-多元計程車-固定收費-經驗"><a href="#55688-多元計程車-固定收費-經驗" class="headerlink" title="55688 多元計程車 固定收費 經驗"></a>55688 多元計程車 固定收費 經驗</h3><span id="more"></span>
+<p>這篇介紹55688 多元計程車 固定收費 經驗。</p>
+<h3 id="使用55688-App-多元計程車"><a href="#使用55688-App-多元計程車" class="headerlink" title="使用55688 App 多元計程車"></a>使用55688 App 多元計程車</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有兩種費用選擇</span><br><span class="line">1.跳錶</span><br><span class="line">2.固定收費</span><br><span class="line"></span><br><span class="line">經實測在沒有大塞車發生時，跳錶會比固定收費便宜一些。</span><br><span class="line">如果發生大塞車固定收費才會比跳錶便宜!</span><br><span class="line"></span><br><span class="line">若使用55688 固定收費是<span class="variable">$198</span>，但司機還是用跳錶方式計算</span><br><span class="line">最後跳錶是<span class="variable">$180</span>，但司機只會收到<span class="variable">$180</span>。</span><br><span class="line"><span class="variable">$18</span>元會被平台方收取~</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Taxi</category>
+      </categories>
+      <tags>
+        <tag>Taxi</tag>
+        <tag>Traffic</tag>
       </tags>
   </entry>
   <entry>
@@ -24,6 +40,34 @@
       </categories>
       <tags>
         <tag>ChallengeTaiwan</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20210513 停電 小知識</title>
+    <url>/posts/828a084/</url>
+    <content><![CDATA[<h3 id="20210513停電小知識"><a href="#20210513停電小知識" class="headerlink" title="20210513停電小知識"></a>20210513停電小知識</h3><span id="more"></span>
+<p>這篇介紹20210513停電小知識。</p>
+<h3 id="停電小知識"><a href="#停電小知識" class="headerlink" title="停電小知識"></a>停電小知識</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">台電將全台限電用戶分為 A、B、C、D、E、F 共六個組別，遇到限電措施實施時即會分</span><br><span class="line">區輪流限電。要怎麼知道自己家裡哪一個限電區，只要拿出電費帳單查看帳單金額上方</span><br><span class="line">的「輪流停電組別」即可知道。</span><br><span class="line"></span><br><span class="line">針對受到限電的一般用戶，台電將會有補償措施，計算方式為：</span><br><span class="line"></span><br><span class="line">底度費（或包制電費）× 4％ × 停電次數</span><br><span class="line">底度費：一般住宅用戶（單相低壓電表）每月底度為 20 度，依現行電價 1.63 元/度</span><br><span class="line">計算，每月底度費 32.6 元。全台用電戶共分為九個組別才對，一般限電會從工業用</span><br><span class="line">戶開始限電，之後才是民生用電，A 組和 B 組屬於緊急限電類型，只要系統有突發</span><br><span class="line">意外就會無預警限電（當然台電會盡量提前通知啦），C 組、D 組、E 組、F 組屬於</span><br><span class="line">計畫限電類型，如果台電知道隔天電力供應將會不足，會提前一天在下午四點前通知</span><br><span class="line">輪流限電，每組每次停電 50 分鐘。</span><br><span class="line">至於 H 組、I 組、J 組則屬於特殊不限電組，H 組包含國防、交通等重要用戶、I </span><br><span class="line">組屬於特高壓用戶、J 組則是台電電廠配電線路的變壓器饋線，因為性質特殊將不會</span><br><span class="line">限電。</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Emergy</category>
+      </categories>
+      <tags>
+        <tag>Emergy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AKL奧克蘭機場 國際線 轉 國內線詳解</title>
+    <url>/posts/f243486e/</url>
+    <content><![CDATA[<h3 id="關於AKL奧克蘭機場-國際線-轉-國內線詳解"><a href="#關於AKL奧克蘭機場-國際線-轉-國內線詳解" class="headerlink" title="關於AKL奧克蘭機場 國際線 轉 國內線詳解"></a>關於AKL奧克蘭機場 國際線 轉 國內線詳解</h3><span id="more"></span>
+<p>這篇介紹關於AKL奧克蘭機場 國際線 轉 國內線詳解。</p>
+<h3 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">通常在台灣去紐西蘭南島從OTA購買機票時，需要轉機一次。</span><br><span class="line">一般是從AKL奧克蘭機場國際線轉國內線再飛基督城或皇后鎮。</span><br><span class="line"></span><br><span class="line">一般來說，轉機時機大約是一個半小時。</span><br><span class="line">出發時都會預先給國際線+國內線的boarding pass。</span><br><span class="line"></span><br><span class="line">從台灣飛奧克蘭下飛機時需要先過海關，再來是行李轉盤領行李。</span><br><span class="line">排隊申報物品完才能出境到國際線大廳。個人經驗是這三個地方</span><br><span class="line">排隊很花時間，估計至少要半小時到一小時。</span><br></pre></td></tr></table></figure>
+
+<h3 id="國際線轉國內線"><a href="#國際線轉國內線" class="headerlink" title="國際線轉國內線"></a>國際線轉國內線</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">再來是奧克蘭機場國際線如何到國內線這段。</span><br><span class="line">第一種方法</span><br><span class="line">國際線有A~G櫃台，依照指示走出大廳大門後，走到中間會有巴士站。</span><br><span class="line">Free Shuttle Terminal Bus會在C的站牌，等待巴士就可以載你到國內線。</span><br><span class="line">巴士大約15分一班，路程大約5~10分。</span><br><span class="line"></span><br><span class="line">如果很急怕趕不上的話有第二種方法(Walk)</span><br><span class="line">從最靠近G櫃台的門口出去，地上會有綠色的線，沿著綠線就可以走到國內線</span><br><span class="line">機場，路程大約是10~15分。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Travel</category>
+      </categories>
+      <tags>
+        <tag>Travel</tag>
       </tags>
   </entry>
   <entry>
@@ -74,20 +118,6 @@
       </tags>
   </entry>
   <entry>
-    <title>55688 多元計程車 固定收費 經驗</title>
-    <url>/posts/db782bd2/</url>
-    <content><![CDATA[<h3 id="55688-多元計程車-固定收費-經驗"><a href="#55688-多元計程車-固定收費-經驗" class="headerlink" title="55688 多元計程車 固定收費 經驗"></a>55688 多元計程車 固定收費 經驗</h3><span id="more"></span>
-<p>這篇介紹55688 多元計程車 固定收費 經驗。</p>
-<h3 id="使用55688-App-多元計程車"><a href="#使用55688-App-多元計程車" class="headerlink" title="使用55688 App 多元計程車"></a>使用55688 App 多元計程車</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">有兩種費用選擇</span><br><span class="line">1.跳錶</span><br><span class="line">2.固定收費</span><br><span class="line"></span><br><span class="line">經實測在沒有大塞車發生時，跳錶會比固定收費便宜一些。</span><br><span class="line">如果發生大塞車固定收費才會比跳錶便宜!</span><br><span class="line"></span><br><span class="line">若使用55688 固定收費是<span class="variable">$198</span>，但司機還是用跳錶方式計算</span><br><span class="line">最後跳錶是<span class="variable">$180</span>，但司機只會收到<span class="variable">$180</span>。</span><br><span class="line"><span class="variable">$18</span>元會被平台方收取~</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Taxi</category>
-      </categories>
-      <tags>
-        <tag>Taxi</tag>
-        <tag>Traffic</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Apply VN Evisa</title>
     <url>/posts/66e7e840/</url>
     <content><![CDATA[<h2 id="Apply-VN-Evisa"><a href="#Apply-VN-Evisa" class="headerlink" title="Apply VN Evisa"></a>Apply VN Evisa</h2><span id="more"></span>
@@ -102,26 +132,11 @@
       </tags>
   </entry>
   <entry>
-    <title>AKL奧克蘭機場 國際線 轉 國內線詳解</title>
-    <url>/posts/f243486e/</url>
-    <content><![CDATA[<h3 id="關於AKL奧克蘭機場-國際線-轉-國內線詳解"><a href="#關於AKL奧克蘭機場-國際線-轉-國內線詳解" class="headerlink" title="關於AKL奧克蘭機場 國際線 轉 國內線詳解"></a>關於AKL奧克蘭機場 國際線 轉 國內線詳解</h3><span id="more"></span>
-<p>這篇介紹關於AKL奧克蘭機場 國際線 轉 國內線詳解。</p>
-<h3 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">通常在台灣去紐西蘭南島從OTA購買機票時，需要轉機一次。</span><br><span class="line">一般是從AKL奧克蘭機場國際線轉國內線再飛基督城或皇后鎮。</span><br><span class="line"></span><br><span class="line">一般來說，轉機時機大約是一個半小時。</span><br><span class="line">出發時都會預先給國際線+國內線的boarding pass。</span><br><span class="line"></span><br><span class="line">從台灣飛奧克蘭下飛機時需要先過海關，再來是行李轉盤領行李。</span><br><span class="line">排隊申報物品完才能出境到國際線大廳。個人經驗是這三個地方</span><br><span class="line">排隊很花時間，估計至少要半小時到一小時。</span><br></pre></td></tr></table></figure>
-
-<h3 id="國際線轉國內線"><a href="#國際線轉國內線" class="headerlink" title="國際線轉國內線"></a>國際線轉國內線</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">再來是奧克蘭機場國際線如何到國內線這段。</span><br><span class="line">第一種方法</span><br><span class="line">國際線有A~G櫃台，依照指示走出大廳大門後，走到中間會有巴士站。</span><br><span class="line">Free Shuttle Terminal Bus會在C的站牌，等待巴士就可以載你到國內線。</span><br><span class="line">巴士大約15分一班，路程大約5~10分。</span><br><span class="line"></span><br><span class="line">如果很急怕趕不上的話有第二種方法(Walk)</span><br><span class="line">從最靠近G櫃台的門口出去，地上會有綠色的線，沿著綠線就可以走到國內線</span><br><span class="line">機場，路程大約是10~15分。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Travel</category>
-      </categories>
-      <tags>
-        <tag>Travel</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>內湖 單車山路 練腿力路線 III</title>
-    <url>/posts/3ba01d20/</url>
-    <content><![CDATA[<h3 id="內湖單車山路練腿力路線-III"><a href="#內湖單車山路練腿力路線-III" class="headerlink" title="內湖單車山路練腿力路線 III"></a>內湖單車山路練腿力路線 III</h3><span id="more"></span>
-<p>這篇介紹內湖單車山路練腿力路線 III。</p>
-<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發，往劍南路方向騎行</span><br><span class="line"></span><br><span class="line">到達車輪釣蝦場後往上騎行，越過上坡後往左平等里</span><br><span class="line"></span><br><span class="line">一路爬坡至平等里雜貨店(休息站</span><br><span class="line"></span><br><span class="line">一路往上爬至軍營，往右轉最後一段魔王坡，大約爬坡10幾公里</span><br><span class="line"></span><br><span class="line">冷水坑有咖啡、牛肉麵，假日人多</span><br><span class="line"></span><br><span class="line">有下雨就人少些</span><br><span class="line"></span><br><span class="line">原路騎返，下坡路段多請煞車慢騎，安全第一</span><br></pre></td></tr></table></figure>]]></content>
+    <title>內湖 單車山路 練腿力路線</title>
+    <url>/posts/2182ee8e/</url>
+    <content><![CDATA[<h3 id="內湖單車山路練腿力路線"><a href="#內湖單車山路練腿力路線" class="headerlink" title="內湖單車山路練腿力路線"></a>內湖單車山路練腿力路線</h3><span id="more"></span>
+<p>這篇介紹內湖單車山路練腿力路線。</p>
+<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往東湖一路直行前進，左轉五指山路口．</span><br><span class="line"></span><br><span class="line">直行先左轉在往右轉，第一個補給站小７，之後會一路往上騎（剛開始爬升最辛苦</span><br><span class="line"></span><br><span class="line">五指山較至善路車少運動的人少，經過辛苦爬升後會先到海倫咖啡（行動咖啡餐車</span><br><span class="line"></span><br><span class="line">海倫咖啡沒開的話，往上還有拉瓦那咖啡可以稍做休息．</span><br><span class="line"></span><br><span class="line">接著拉瓦那咖啡往前直騎會到風櫃嘴就一路下山，左轉往中社第二個爬升出發．</span><br><span class="line"></span><br><span class="line">到車輪釣蝦場往左轉就是中社爬坡路線，該路線運動的人不少．（途中會經過派出所）</span><br><span class="line"></span><br><span class="line">到達中社後，一路下坡回到車輪釣蝦場後左轉往劍南路迎接第三個爬升路線</span><br><span class="line">（大概４公里）</span><br><span class="line"></span><br><span class="line">一路下山回到內湖路，往港墘捷運站方向騎行就可以回到大港墘公園．</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Bike</category>
       </categories>
@@ -130,26 +145,25 @@
       </tags>
   </entry>
   <entry>
-    <title>2014 Mac Air Upgrade SSD Issue</title>
-    <url>/posts/a8e9019/</url>
-    <content><![CDATA[<h3 id="2014-Mac-Air-Upgrade-SSD-Issue"><a href="#2014-Mac-Air-Upgrade-SSD-Issue" class="headerlink" title="2014 Mac Air Upgrade SSD Issue"></a>2014 Mac Air Upgrade SSD Issue</h3><span id="more"></span>
-<p>這篇紀錄2014 Mac Air Upgrade SSD Issue。</p>
-<h3 id="Issue"><a href="#Issue" class="headerlink" title="Issue"></a>Issue</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">之前將2014 Mac air 從128G SSD 升級為三星 m.2 1T SSD。</span><br><span class="line">在有次重開機後，發現會進到地球畫面。只能用網路進到工具軟體。</span><br><span class="line">啟動磁碟會抓不到這顆1T的SSD，在磁碟工具內也看不到該SSD硬碟。</span><br><span class="line"></span><br><span class="line">解決方法:</span><br><span class="line">因為自行改SSD的緣故，只能製作開機USB，必須先裝某版本的MacOS，</span><br><span class="line">插入後即可選擇到啟動硬碟，進入到登入畫面。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>內湖 單車 山路 練腿力路線 II</title>
+    <url>/posts/bdf3c7d7/</url>
+    <content><![CDATA[<h3 id="內湖單車山路練腿力路線-II"><a href="#內湖單車山路練腿力路線-II" class="headerlink" title="內湖單車山路練腿力路線 II"></a>內湖單車山路練腿力路線 II</h3><span id="more"></span>
+<p>這篇介紹內湖單車山路練腿力路線 II。</p>
+<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往劍南路方向騎行，到劍南路口往上騎行約兩公里到涼亭休息口</span><br><span class="line"></span><br><span class="line">往下滑行至橋往右騎，沿著中社方向到車輪釣蝦場後繼續往上騎車至楓林橋</span><br><span class="line"></span><br><span class="line">往上騎六公里可以到風櫃嘴，在往上可以到咖啡廳休息</span><br><span class="line"></span><br><span class="line">往下回到中社 (車輪釣蝦場) 往左上中社，下坡回到車輪釣蝦場往左回到劍南路的橋</span><br><span class="line"></span><br><span class="line">爬升 2 公里回到涼亭口，往下回到出發地點</span><br></pre></td></tr></table></figure>
+]]></content>
       <categories>
-        <category>MacAir</category>
+        <category>Bike</category>
       </categories>
       <tags>
-        <tag>Apple</tag>
-        <tag>Mac</tag>
-        <tag>SSD</tag>
+        <tag>Bike</tag>
       </tags>
   </entry>
   <entry>
-    <title>內湖 單車山路 練腿力路線</title>
-    <url>/posts/2182ee8e/</url>
-    <content><![CDATA[<h3 id="內湖單車山路練腿力路線"><a href="#內湖單車山路練腿力路線" class="headerlink" title="內湖單車山路練腿力路線"></a>內湖單車山路練腿力路線</h3><span id="more"></span>
-<p>這篇介紹內湖單車山路練腿力路線。</p>
-<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往東湖一路直行前進，左轉五指山路口．</span><br><span class="line"></span><br><span class="line">直行先左轉在往右轉，第一個補給站小７，之後會一路往上騎（剛開始爬升最辛苦</span><br><span class="line"></span><br><span class="line">五指山較至善路車少運動的人少，經過辛苦爬升後會先到海倫咖啡（行動咖啡餐車</span><br><span class="line"></span><br><span class="line">海倫咖啡沒開的話，往上還有拉瓦那咖啡可以稍做休息．</span><br><span class="line"></span><br><span class="line">接著拉瓦那咖啡往前直騎會到風櫃嘴就一路下山，左轉往中社第二個爬升出發．</span><br><span class="line"></span><br><span class="line">到車輪釣蝦場往左轉就是中社爬坡路線，該路線運動的人不少．（途中會經過派出所）</span><br><span class="line"></span><br><span class="line">到達中社後，一路下坡回到車輪釣蝦場後左轉往劍南路迎接第三個爬升路線</span><br><span class="line">（大概４公里）</span><br><span class="line"></span><br><span class="line">一路下山回到內湖路，往港墘捷運站方向騎行就可以回到大港墘公園．</span><br></pre></td></tr></table></figure>]]></content>
+    <title>內湖 單車山路 練腿力路線 III</title>
+    <url>/posts/3ba01d20/</url>
+    <content><![CDATA[<h3 id="內湖單車山路練腿力路線-III"><a href="#內湖單車山路練腿力路線-III" class="headerlink" title="內湖單車山路練腿力路線 III"></a>內湖單車山路練腿力路線 III</h3><span id="more"></span>
+<p>這篇介紹內湖單車山路練腿力路線 III。</p>
+<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發，往劍南路方向騎行</span><br><span class="line"></span><br><span class="line">到達車輪釣蝦場後往上騎行，越過上坡後往左平等里</span><br><span class="line"></span><br><span class="line">一路爬坡至平等里雜貨店(休息站</span><br><span class="line"></span><br><span class="line">一路往上爬至軍營，往右轉最後一段魔王坡，大約爬坡10幾公里</span><br><span class="line"></span><br><span class="line">冷水坑有咖啡、牛肉麵，假日人多</span><br><span class="line"></span><br><span class="line">有下雨就人少些</span><br><span class="line"></span><br><span class="line">原路騎返，下坡路段多請煞車慢騎，安全第一</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Bike</category>
       </categories>
@@ -171,6 +185,35 @@
       </tags>
   </entry>
   <entry>
+    <title>國泰世華 網路銀行 匯美金 至 國外卷商帳戶</title>
+    <url>/posts/46d67672/</url>
+    <content><![CDATA[<h3 id="國泰世華網路銀行匯美金至國外卷商帳戶"><a href="#國泰世華網路銀行匯美金至國外卷商帳戶" class="headerlink" title="國泰世華網路銀行匯美金至國外卷商帳戶"></a>國泰世華網路銀行匯美金至國外卷商帳戶</h3><span id="more"></span>
+<p>這篇介紹國泰世華網路銀行匯美金至國外卷商帳戶。</p>
+<h3 id="操作流程"><a href="#操作流程" class="headerlink" title="操作流程"></a>操作流程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">只能用網頁版操作，要準備金融卡認證</span><br><span class="line"></span><br><span class="line">匯款附言填英文名 + 8 碼帳號</span><br><span class="line"></span><br><span class="line">全額到付，匯費 <span class="variable">$800</span></span><br><span class="line"></span><br><span class="line">已實測，超過台幣 50 萬元仍可匯～不用跑臨櫃</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Chrome Enable Dark Mode</title>
+    <url>/posts/82ad42ac/</url>
+    <content><![CDATA[<h2 id="Chrome啟用DarkMode"><a href="#Chrome啟用DarkMode" class="headerlink" title="Chrome啟用DarkMode"></a>Chrome啟用DarkMode</h2><span id="more"></span>
+<p>這篇介紹Chrome啟用DarkMode。</p>
+<h2 id="Step"><a href="#Step" class="headerlink" title="Step:"></a>Step:</h2><p>1.在Chrome瀏覽器輸入chrome:&#x2F;&#x2F;flags&#x2F;#enable-force-dark</p>
+<p>2.找到Force Dark Mode for Web Contents 將它Enabled</p>
+]]></content>
+      <categories>
+        <category>Chrome</category>
+      </categories>
+      <tags>
+        <tag>Chrome</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>虛擬主機 + WORDPRESS.ORG + FREENOM.COM + CLOUDFARE = 架設網站</title>
     <url>/posts/3661c38e/</url>
     <content><![CDATA[<h3 id="虛擬主機-WORDPRESS-ORG-FREENOM-COM-CLOUDFARE-x3D-架設網站"><a href="#虛擬主機-WORDPRESS-ORG-FREENOM-COM-CLOUDFARE-x3D-架設網站" class="headerlink" title="虛擬主機+WORDPRESS.ORG+FREENOM.COM+CLOUDFARE&#x3D;架設網站"></a>虛擬主機+WORDPRESS.ORG+FREENOM.COM+CLOUDFARE&#x3D;架設網站</h3><span id="more"></span>
@@ -187,20 +230,6 @@
       </tags>
   </entry>
   <entry>
-    <title>內湖 單車 山路 練腿力路線 II</title>
-    <url>/posts/bdf3c7d7/</url>
-    <content><![CDATA[<h3 id="內湖單車山路練腿力路線-II"><a href="#內湖單車山路練腿力路線-II" class="headerlink" title="內湖單車山路練腿力路線 II"></a>內湖單車山路練腿力路線 II</h3><span id="more"></span>
-<p>這篇介紹內湖單車山路練腿力路線 II。</p>
-<h3 id="路線介紹"><a href="#路線介紹" class="headerlink" title="路線介紹"></a>路線介紹</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從大港墘公園出發往劍南路方向騎行，到劍南路口往上騎行約兩公里到涼亭休息口</span><br><span class="line"></span><br><span class="line">往下滑行至橋往右騎，沿著中社方向到車輪釣蝦場後繼續往上騎車至楓林橋</span><br><span class="line"></span><br><span class="line">往上騎六公里可以到風櫃嘴，在往上可以到咖啡廳休息</span><br><span class="line"></span><br><span class="line">往下回到中社 (車輪釣蝦場) 往左上中社，下坡回到車輪釣蝦場往左回到劍南路的橋</span><br><span class="line"></span><br><span class="line">爬升 2 公里回到涼亭口，往下回到出發地點</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>Bike</category>
-      </categories>
-      <tags>
-        <tag>Bike</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FELLOW STAGG EKG 900 VERSUS FELLOW STAGG KETTLE V1.2</title>
     <url>/posts/f688faff/</url>
     <content><![CDATA[<h3 id="比較Fellow-STAGG-EKG-900與Fellow-STAGG-Kettle-V1-2兩者之間的差異"><a href="#比較Fellow-STAGG-EKG-900與Fellow-STAGG-Kettle-V1-2兩者之間的差異" class="headerlink" title="比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異"></a>比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異</h3><span id="more"></span>
@@ -211,6 +240,19 @@
       </categories>
       <tags>
         <tag>Coffee</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</title>
+    <url>/posts/d107aedb/</url>
+    <content><![CDATA[<h3 id="造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil"><a href="#造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil" class="headerlink" title="造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil"></a>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</h3><span id="more"></span>
+<p>這篇紀錄造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">本書提到主要三個重點為因果關係、反事實以及限制條件。</span><br><span class="line">描述所有的思考框架都是由以上三點所構成，必須使用</span><br><span class="line">這三點來建立思考框架或另啟思考框架。</span><br><span class="line">表明人類是因為思考框架而建立出AI人工智慧，</span><br><span class="line">因AI不會自己產生思考框架，只有人類想出思考框架</span><br><span class="line">並使用AI人工智慧來將思考框架深入並發展。</span><br><span class="line"></span><br><span class="line">每件事情都有因果關係存在，必須有反事實來想像</span><br><span class="line">另外一個想像時空，並在這個時空中驗證思考正確性。</span><br><span class="line">限制條件是增加條件來限制天馬行空不可能的提案，</span><br><span class="line">減少時間並找出可用的思考框架。</span><br><span class="line"></span><br><span class="line">另啟思考框架通常是跳脫原本的思考框架，困難但往往</span><br><span class="line">成功會是think different。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Book</category>
+      </categories>
+      <tags>
+        <tag>Book</tag>
       </tags>
   </entry>
   <entry>
@@ -241,21 +283,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Chrome Enable Dark Mode</title>
-    <url>/posts/82ad42ac/</url>
-    <content><![CDATA[<h2 id="Chrome啟用DarkMode"><a href="#Chrome啟用DarkMode" class="headerlink" title="Chrome啟用DarkMode"></a>Chrome啟用DarkMode</h2><span id="more"></span>
-<p>這篇介紹Chrome啟用DarkMode。</p>
-<h2 id="Step"><a href="#Step" class="headerlink" title="Step:"></a>Step:</h2><p>1.在Chrome瀏覽器輸入chrome:&#x2F;&#x2F;flags&#x2F;#enable-force-dark</p>
-<p>2.找到Force Dark Mode for Web Contents 將它Enabled</p>
-]]></content>
-      <categories>
-        <category>Chrome</category>
-      </categories>
-      <tags>
-        <tag>Chrome</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Good To Great II</title>
     <url>/posts/19ad5602/</url>
     <content><![CDATA[<h2 id="Good-To-Great-II"><a href="#Good-To-Great-II" class="headerlink" title="Good To Great II"></a>Good To Great II</h2><span id="more"></span>
@@ -273,30 +300,19 @@
       </tags>
   </entry>
   <entry>
-    <title>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</title>
-    <url>/posts/d107aedb/</url>
-    <content><![CDATA[<h3 id="造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil"><a href="#造局者-思考框架的威力-Framers-Human-Advantage-in-an-Age-of-Technology-and-Turmoil" class="headerlink" title="造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil"></a>造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil</h3><span id="more"></span>
-<p>這篇紀錄造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">本書提到主要三個重點為因果關係、反事實以及限制條件。</span><br><span class="line">描述所有的思考框架都是由以上三點所構成，必須使用</span><br><span class="line">這三點來建立思考框架或另啟思考框架。</span><br><span class="line">表明人類是因為思考框架而建立出AI人工智慧，</span><br><span class="line">因AI不會自己產生思考框架，只有人類想出思考框架</span><br><span class="line">並使用AI人工智慧來將思考框架深入並發展。</span><br><span class="line"></span><br><span class="line">每件事情都有因果關係存在，必須有反事實來想像</span><br><span class="line">另外一個想像時空，並在這個時空中驗證思考正確性。</span><br><span class="line">限制條件是增加條件來限制天馬行空不可能的提案，</span><br><span class="line">減少時間並找出可用的思考框架。</span><br><span class="line"></span><br><span class="line">另啟思考框架通常是跳脫原本的思考框架，困難但往往</span><br><span class="line">成功會是think different。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Book</category>
-      </categories>
-      <tags>
-        <tag>Book</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>國泰世華 網路銀行 匯美金 至 國外卷商帳戶</title>
-    <url>/posts/46d67672/</url>
-    <content><![CDATA[<h3 id="國泰世華網路銀行匯美金至國外卷商帳戶"><a href="#國泰世華網路銀行匯美金至國外卷商帳戶" class="headerlink" title="國泰世華網路銀行匯美金至國外卷商帳戶"></a>國泰世華網路銀行匯美金至國外卷商帳戶</h3><span id="more"></span>
-<p>這篇介紹國泰世華網路銀行匯美金至國外卷商帳戶。</p>
-<h3 id="操作流程"><a href="#操作流程" class="headerlink" title="操作流程"></a>操作流程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">只能用網頁版操作，要準備金融卡認證</span><br><span class="line"></span><br><span class="line">匯款附言填英文名 + 8 碼帳號</span><br><span class="line"></span><br><span class="line">全額到付，匯費 <span class="variable">$800</span></span><br><span class="line"></span><br><span class="line">已實測，超過台幣 50 萬元仍可匯～不用跑臨櫃</span><br></pre></td></tr></table></figure>
+    <title>Good To Great III</title>
+    <url>/posts/3315dac3/</url>
+    <content><![CDATA[<h2 id="Good-To-Great-III"><a href="#Good-To-Great-III" class="headerlink" title="Good To Great III"></a>Good To Great III</h2><span id="more"></span>
+<p>Good To Great III</p>
+<h2 id="Good-To-Great-III-1"><a href="#Good-To-Great-III-1" class="headerlink" title="Good To Great III"></a>Good To Great III</h2><p>從優秀到卓越的公司和對照公司在策略上並無太大差異。</p>
+<p>兩組公司都有清楚的策略，沒有證據顯示從優秀到卓越的</p>
+<p>公司，比對照公司花更多時間在長程的策略規劃上。</p>
 ]]></content>
       <categories>
-        <category>Investment</category>
+        <category>GoodToGreat</category>
       </categories>
       <tags>
-        <tag>Investment</tag>
+        <tag>GoodToGreat</tag>
       </tags>
   </entry>
   <entry>
@@ -307,37 +323,6 @@
 <h2 id="Good-To-Great-IV-1"><a href="#Good-To-Great-IV-1" class="headerlink" title="Good To Great IV"></a>Good To Great IV</h2><p>從優秀到卓越的公司並沒有把焦點全放在如何成為一家</p>
 <p>卓越的公司；他們也花時間思考應該做什麼事，以及應該</p>
 <p>停止做哪些事。</p>
-]]></content>
-      <categories>
-        <category>GoodToGreat</category>
-      </categories>
-      <tags>
-        <tag>GoodToGreat</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Good To Great VI</title>
-    <url>/posts/d4f7589c/</url>
-    <content><![CDATA[<h2 id="Good-To-Great-VI"><a href="#Good-To-Great-VI" class="headerlink" title="Good To Great VI"></a>Good To Great VI</h2><span id="more"></span>
-<p>Good To Great VI</p>
-<h2 id="Good-To-Great-VI-1"><a href="#Good-To-Great-VI-1" class="headerlink" title="Good To Great VI"></a>Good To Great VI</h2><p>併購無法帶動從優秀到卓越的轉變；兩家平庸的大企業</p>
-<p>聯姻之後，仍然無法變成一家卓越公司。</p>
-]]></content>
-      <categories>
-        <category>GoodToGreat</category>
-      </categories>
-      <tags>
-        <tag>GoodToGreat</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Good To Great III</title>
-    <url>/posts/3315dac3/</url>
-    <content><![CDATA[<h2 id="Good-To-Great-III"><a href="#Good-To-Great-III" class="headerlink" title="Good To Great III"></a>Good To Great III</h2><span id="more"></span>
-<p>Good To Great III</p>
-<h2 id="Good-To-Great-III-1"><a href="#Good-To-Great-III-1" class="headerlink" title="Good To Great III"></a>Good To Great III</h2><p>從優秀到卓越的公司和對照公司在策略上並無太大差異。</p>
-<p>兩組公司都有清楚的策略，沒有證據顯示從優秀到卓越的</p>
-<p>公司，比對照公司花更多時間在長程的策略規劃上。</p>
 ]]></content>
       <categories>
         <category>GoodToGreat</category>
@@ -379,13 +364,12 @@
       </tags>
   </entry>
   <entry>
-    <title>Good To Great VII</title>
-    <url>/posts/246f3e8e/</url>
-    <content><![CDATA[<h2 id="Good-To-Great-VII"><a href="#Good-To-Great-VII" class="headerlink" title="Good To Great VII"></a>Good To Great VII</h2><span id="more"></span>
-<p>Good To Great VII</p>
-<h2 id="Good-To-Great-VII-1"><a href="#Good-To-Great-VII-1" class="headerlink" title="Good To Great VII"></a>Good To Great VII</h2><p>從優秀到卓越的公司不怎麼在意管理變動、激勵員工，或</p>
-<p>營造團結的氣氛。當具備了充分條件時，忠誠、團結、激勵</p>
-<p>和改變的問題都不再是問題。</p>
+    <title>Good To Great VI</title>
+    <url>/posts/d4f7589c/</url>
+    <content><![CDATA[<h2 id="Good-To-Great-VI"><a href="#Good-To-Great-VI" class="headerlink" title="Good To Great VI"></a>Good To Great VI</h2><span id="more"></span>
+<p>Good To Great VI</p>
+<h2 id="Good-To-Great-VI-1"><a href="#Good-To-Great-VI-1" class="headerlink" title="Good To Great VI"></a>Good To Great VI</h2><p>併購無法帶動從優秀到卓越的轉變；兩家平庸的大企業</p>
+<p>聯姻之後，仍然無法變成一家卓越公司。</p>
 ]]></content>
       <categories>
         <category>GoodToGreat</category>
@@ -395,16 +379,13 @@
       </tags>
   </entry>
   <entry>
-    <title>Good To Great XII</title>
-    <url>/posts/2ef11384/</url>
-    <content><![CDATA[<h2 id="Good-To-Great-XII"><a href="#Good-To-Great-XII" class="headerlink" title="Good To Great XII"></a>Good To Great XII</h2><span id="more"></span>
-<p>Good To Great XII</p>
-<h2 id="Good-To-Great-XII-1"><a href="#Good-To-Great-XII-1" class="headerlink" title="Good To Great XII"></a>Good To Great XII</h2><p>面對殘酷的現實，但絕不喪失信心</p>
-<p>關於如何追求卓越，從當過戰俘的人身上學到的教訓，可能遠</p>
-<p>勝於討論公司策略的商業書籍所教導的內容。每個從優秀到卓</p>
-<p>越的公司都抱持所謂的史托克戴爾弔詭，一方面有充分的紀律，</p>
-<p>勇於面對眼前最殘酷的現實，但同時抱著絕不動搖的堅強信念，</p>
-<p>不管遭遇多大的橫逆，都相信自己一定能堅持到最後。</p>
+    <title>Good To Great VII</title>
+    <url>/posts/246f3e8e/</url>
+    <content><![CDATA[<h2 id="Good-To-Great-VII"><a href="#Good-To-Great-VII" class="headerlink" title="Good To Great VII"></a>Good To Great VII</h2><span id="more"></span>
+<p>Good To Great VII</p>
+<h2 id="Good-To-Great-VII-1"><a href="#Good-To-Great-VII-1" class="headerlink" title="Good To Great VII"></a>Good To Great VII</h2><p>從優秀到卓越的公司不怎麼在意管理變動、激勵員工，或</p>
+<p>營造團結的氣氛。當具備了充分條件時，忠誠、團結、激勵</p>
+<p>和改變的問題都不再是問題。</p>
 ]]></content>
       <categories>
         <category>GoodToGreat</category>
@@ -471,16 +452,16 @@
       </tags>
   </entry>
   <entry>
-    <title>Good To Great XIII</title>
-    <url>/posts/37f9a093/</url>
-    <content><![CDATA[<h2 id="Good-To-Great-XIII"><a href="#Good-To-Great-XIII" class="headerlink" title="Good To Great XIII"></a>Good To Great XIII</h2><span id="more"></span>
-<p>Good To Great XIII</p>
-<h2 id="Good-To-Great-XIII-1"><a href="#Good-To-Great-XIII-1" class="headerlink" title="Good To Great XIII"></a>Good To Great XIII</h2><p>刺蝟原則</p>
-<p>要從優秀公司蛻變為卓越公司，必須先克服能力的詛咒。只不過</p>
-<p>因為這是你們的核心事業，不見得表示你們一定做得比別人優秀。</p>
-<p>如果核心事業無法成為世界頂尖，公司就絕對不可能躍升為卓越</p>
-<p>企業，因此必須以能反映三個圓圈的交集的簡單概念來取代核心</p>
-<p>事業這種概念。</p>
+    <title>Good To Great XII</title>
+    <url>/posts/2ef11384/</url>
+    <content><![CDATA[<h2 id="Good-To-Great-XII"><a href="#Good-To-Great-XII" class="headerlink" title="Good To Great XII"></a>Good To Great XII</h2><span id="more"></span>
+<p>Good To Great XII</p>
+<h2 id="Good-To-Great-XII-1"><a href="#Good-To-Great-XII-1" class="headerlink" title="Good To Great XII"></a>Good To Great XII</h2><p>面對殘酷的現實，但絕不喪失信心</p>
+<p>關於如何追求卓越，從當過戰俘的人身上學到的教訓，可能遠</p>
+<p>勝於討論公司策略的商業書籍所教導的內容。每個從優秀到卓</p>
+<p>越的公司都抱持所謂的史托克戴爾弔詭，一方面有充分的紀律，</p>
+<p>勇於面對眼前最殘酷的現實，但同時抱著絕不動搖的堅強信念，</p>
+<p>不管遭遇多大的橫逆，都相信自己一定能堅持到最後。</p>
 ]]></content>
       <categories>
         <category>GoodToGreat</category>
@@ -527,6 +508,25 @@
       </tags>
   </entry>
   <entry>
+    <title>Good To Great XIII</title>
+    <url>/posts/37f9a093/</url>
+    <content><![CDATA[<h2 id="Good-To-Great-XIII"><a href="#Good-To-Great-XIII" class="headerlink" title="Good To Great XIII"></a>Good To Great XIII</h2><span id="more"></span>
+<p>Good To Great XIII</p>
+<h2 id="Good-To-Great-XIII-1"><a href="#Good-To-Great-XIII-1" class="headerlink" title="Good To Great XIII"></a>Good To Great XIII</h2><p>刺蝟原則</p>
+<p>要從優秀公司蛻變為卓越公司，必須先克服能力的詛咒。只不過</p>
+<p>因為這是你們的核心事業，不見得表示你們一定做得比別人優秀。</p>
+<p>如果核心事業無法成為世界頂尖，公司就絕對不可能躍升為卓越</p>
+<p>企業，因此必須以能反映三個圓圈的交集的簡單概念來取代核心</p>
+<p>事業這種概念。</p>
+]]></content>
+      <categories>
+        <category>GoodToGreat</category>
+      </categories>
+      <tags>
+        <tag>GoodToGreat</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Good To Great XVI</title>
     <url>/posts/e3ab1d1a/</url>
     <content><![CDATA[<h2 id="Good-To-Great-XVI"><a href="#Good-To-Great-XVI" class="headerlink" title="Good To Great XVI"></a>Good To Great XVI</h2><span id="more"></span>
@@ -563,19 +563,6 @@
       </tags>
   </entry>
   <entry>
-    <title>How To Set Charles Schwab Travel Notice</title>
-    <url>/posts/9a26f59f/</url>
-    <content><![CDATA[<h3 id="How-To-Set-Charles-Schwab-Travel-Notice"><a href="#How-To-Set-Charles-Schwab-Travel-Notice" class="headerlink" title="How To Set Charles Schwab Travel Notice"></a>How To Set Charles Schwab Travel Notice</h3><span id="more"></span>
-<p>這篇介紹How To Set Charles Schwab Travel Notice。</p>
-<h3 id="出國需要使用Debit-Card領當地貨幣"><a href="#出國需要使用Debit-Card領當地貨幣" class="headerlink" title="出國需要使用Debit Card領當地貨幣"></a>出國需要使用Debit Card領當地貨幣</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">需要先設定Travel Notice，來填寫出國的日期、國家。</span><br><span class="line"></span><br><span class="line">步驟:</span><br><span class="line">先登入Charles Schwab網站，右上角Support-&gt; Debit Cards &amp; Checks</span><br><span class="line">-&gt; + Add Travel Notice</span><br><span class="line">跳出視窗填入出國的日期、國家。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Investment</category>
-      </categories>
-      <tags>
-        <tag>Investment</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>How To Capture PNG From MP4 By VLC Media Player</title>
     <url>/posts/941e3846/</url>
     <content><![CDATA[<h2 id="How-To-Capture-PNG-From-MP4-By-VLC-Media-Player"><a href="#How-To-Capture-PNG-From-MP4-By-VLC-Media-Player" class="headerlink" title="How To Capture PNG From MP4 By VLC Media Player"></a>How To Capture PNG From MP4 By VLC Media Player</h2><span id="more"></span>
@@ -607,6 +594,19 @@
       </tags>
   </entry>
   <entry>
+    <title>How To Set Charles Schwab Travel Notice</title>
+    <url>/posts/9a26f59f/</url>
+    <content><![CDATA[<h3 id="How-To-Set-Charles-Schwab-Travel-Notice"><a href="#How-To-Set-Charles-Schwab-Travel-Notice" class="headerlink" title="How To Set Charles Schwab Travel Notice"></a>How To Set Charles Schwab Travel Notice</h3><span id="more"></span>
+<p>這篇介紹How To Set Charles Schwab Travel Notice。</p>
+<h3 id="出國需要使用Debit-Card領當地貨幣"><a href="#出國需要使用Debit-Card領當地貨幣" class="headerlink" title="出國需要使用Debit Card領當地貨幣"></a>出國需要使用Debit Card領當地貨幣</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">需要先設定Travel Notice，來填寫出國的日期、國家。</span><br><span class="line"></span><br><span class="line">步驟:</span><br><span class="line">先登入Charles Schwab網站，右上角Support-&gt; Debit Cards &amp; Checks</span><br><span class="line">-&gt; + Add Travel Notice</span><br><span class="line">跳出視窗填入出國的日期、國家。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>How To Set VLC Player Scene Filter Recording Ratio</title>
     <url>/posts/e72128d8/</url>
     <content><![CDATA[<h2 id="How-To-Set-VLC-Player-Scene-Filter-Recording-Ratio"><a href="#How-To-Set-VLC-Player-Scene-Filter-Recording-Ratio" class="headerlink" title="How To Set VLC Player Scene Filter Recording Ratio"></a>How To Set VLC Player Scene Filter Recording Ratio</h2><span id="more"></span>
@@ -621,20 +621,6 @@
         <tag>VLC Media Player</tag>
         <tag>Scene Filter</tag>
         <tag>Recording Ratio</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>How To Use Ledger With Metamask</title>
-    <url>/posts/d15c396c/</url>
-    <content><![CDATA[<h3 id="How-To-Use-Ledger-With-Metamask"><a href="#How-To-Use-Ledger-With-Metamask" class="headerlink" title="How To Use Ledger With Metamask"></a>How To Use Ledger With Metamask</h3><span id="more"></span>
-<p>這篇介紹How To Use Ledger With Metamask。</p>
-<h3 id="步驟"><a href="#步驟" class="headerlink" title="步驟"></a>步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">先購買冷錢包Ledger</span><br><span class="line">在Ledger Live上安裝Ethereum app -&gt; 開啟 app -&gt; Application is ready</span><br><span class="line">開啟Metamask on Chrome，點選右上小狐狸圖示 -&gt; 連結硬體錢包</span><br><span class="line">上述沒問題時會跳出Select an account畫面 -&gt; 選擇其中一個 -&gt; unlock</span><br><span class="line">即可連接至Ledger1帳號</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Ledger</category>
-      </categories>
-      <tags>
-        <tag>Ledger</tag>
-        <tag>Metamask</tag>
       </tags>
   </entry>
   <entry>
@@ -665,6 +651,20 @@
       </categories>
       <tags>
         <tag>Music</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How To Use Ledger With Metamask</title>
+    <url>/posts/d15c396c/</url>
+    <content><![CDATA[<h3 id="How-To-Use-Ledger-With-Metamask"><a href="#How-To-Use-Ledger-With-Metamask" class="headerlink" title="How To Use Ledger With Metamask"></a>How To Use Ledger With Metamask</h3><span id="more"></span>
+<p>這篇介紹How To Use Ledger With Metamask。</p>
+<h3 id="步驟"><a href="#步驟" class="headerlink" title="步驟"></a>步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">先購買冷錢包Ledger</span><br><span class="line">在Ledger Live上安裝Ethereum app -&gt; 開啟 app -&gt; Application is ready</span><br><span class="line">開啟Metamask on Chrome，點選右上小狐狸圖示 -&gt; 連結硬體錢包</span><br><span class="line">上述沒問題時會跳出Select an account畫面 -&gt; 選擇其中一個 -&gt; unlock</span><br><span class="line">即可連接至Ledger1帳號</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Ledger</category>
+      </categories>
+      <tags>
+        <tag>Ledger</tag>
+        <tag>Metamask</tag>
       </tags>
   </entry>
   <entry>
@@ -708,6 +708,19 @@
       </tags>
   </entry>
   <entry>
+    <title>Kelly Formula</title>
+    <url>/posts/e4423a28/</url>
+    <content><![CDATA[<h3 id="凱利公式-Kelly-Formula"><a href="#凱利公式-Kelly-Formula" class="headerlink" title="凱利公式(Kelly Formula)"></a>凱利公式(Kelly Formula)</h3><span id="more"></span>
+<p>這篇介紹凱利公式(Kelly Formula)。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">凱利公式是在對自己有利的時候下大注，對自己不利的時候下小注或不下注。</span><br><span class="line">資金配置參考凱利公式，就有機會大賺小賠，讓長期獲利期望值最大化。</span><br><span class="line">這個公式主要根據賠率來計算最佳資金配置比例，計算公式如下：</span><br><span class="line"></span><br><span class="line">最佳資金配置比例 f=(b*p-q)/b=p-q/b，其中 f 為這次賭注占總資金的建議比例，</span><br><span class="line">b 為賠率，p 為獲利機率，q 為虧損機率。</span><br><span class="line"></span><br><span class="line">以擲硬幣為例，如果硬幣出現正面，你贏5倍賭注；出現反面，就輸掉這次賭注，</span><br><span class="line">代表賠率為5（b＝5/1）。而且擲出正面硬幣，你有50%勝率（p＝0.5，q＝0.5），</span><br><span class="line">也就是「出現正面你大贏，出現反面你小輸」。遇到這種低風險高報酬的賭局，</span><br><span class="line">你就應該下注，而且應該下大注。根據凱利公式計算，如果你有1萬元，</span><br><span class="line">每次下注40%，就能獲得最大利益。</span><br><span class="line"></span><br><span class="line">計算式如下： f＝0.5－0.5/5=40%</span><br><span class="line"></span><br><span class="line">凱利公式應用在投資領域也是同樣的道理。如果你打算用100萬元投資股票，</span><br><span class="line">發現某一檔個股，有六成機率獲利50%、四成機率虧損25%，</span><br><span class="line">也就是賠率為2（b＝50% / 25%），勝率為60%（p=60%，q=40%），</span><br><span class="line">理論上若要讓收益期望值最大化，就應該用40萬元買進此檔個股（f＝(2×0.6－0.4) / 2＝40%）。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey</title>
     <url>/posts/590a6cf2/</url>
     <content><![CDATA[<h3 id="這一生-你想留下什麼-史丹佛的10堂領導課-Leading-Matters-Lessons-from-My-Journey"><a href="#這一生-你想留下什麼-史丹佛的10堂領導課-Leading-Matters-Lessons-from-My-Journey" class="headerlink" title="這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey"></a>這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey</h3><span id="more"></span>
@@ -731,6 +744,21 @@
       </categories>
       <tags>
         <tag>Network</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Recommend Podcast For Read Book</title>
+    <url>/posts/e95628e5/</url>
+    <content><![CDATA[<h3 id="Recommend-Podcast-For-Read-Book"><a href="#Recommend-Podcast-For-Read-Book" class="headerlink" title="Recommend Podcast For Read Book"></a>Recommend Podcast For Read Book</h3><span id="more"></span>
+<p>這篇介紹Recommend Podcast For Read Book。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">當通勤時，不想繼續用眼力及想吸收一些有關書的資訊和知識時。</span><br><span class="line">這邊推薦下載Spotify去聽一個Podcast節目: 下一本讀什麼?</span><br><span class="line">這邊介紹許多成長類和投資理財相關書籍，聽完覺得是自己想補強</span><br><span class="line">的領域或範疇，再去買電子書或實體書來閱讀補足知識即可。</span><br><span class="line"></span><br><span class="line">非常推薦瓦基(作者)的下一本讀什麼?</span><br><span class="line">memo:用Spotify收聽沒有廣告，也可以用ApplePodcast收聽!</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Podcast</category>
+      </categories>
+      <tags>
+        <tag>Podcast</tag>
+        <tag>Read</tag>
+        <tag>Spotify</tag>
       </tags>
   </entry>
   <entry>
@@ -837,22 +865,6 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Availability-Misweighing Tendency</title>
-    <url>/posts/4fbb1087/</url>
-    <content><![CDATA[<h2 id="What-Is-Availability-Misweighing-Tendency"><a href="#What-Is-Availability-Misweighing-Tendency" class="headerlink" title="What Is Availability-Misweighing Tendency"></a>What Is Availability-Misweighing Tendency</h2><span id="more"></span>
-<p>What Is Availability-Misweighing Tendency</p>
-<h2 id="Availability-Misweighing-Tendency"><a href="#Availability-Misweighing-Tendency" class="headerlink" title="Availability-Misweighing Tendency"></a>Availability-Misweighing Tendency</h2><p>人類的大腦是有限而不完美的，很容易滿足於容易到手的東西。<br>大腦無法使用記不住或不認識的東西，因為大腦會受到一種或<br>幾種心理傾向影響，所以對容易得到的東西，大腦會高估其重<br>要性，因而表現出易取得性誤導傾向。</p>
-<p>避免受此傾向影響的主要對策，通常是按程序辦事，包括使用<br>總是很有幫助的檢查清單。</p>
-<p>TIP:別因為一樣事實或一個點子很容易取得，就以為特別重要。</p>
-]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>What Is Authority-Misinfluence Tendency</title>
     <url>/posts/58c9d08d/</url>
     <content><![CDATA[<h2 id="What-Is-Authority-Misinfluence-Tendency"><a href="#What-Is-Authority-Misinfluence-Tendency" class="headerlink" title="What Is Authority-Misinfluence Tendency"></a>What Is Authority-Misinfluence Tendency</h2><span id="more"></span>
@@ -869,18 +881,19 @@
       </tags>
   </entry>
   <entry>
-    <title>Recommend Podcast For Read Book</title>
-    <url>/posts/e95628e5/</url>
-    <content><![CDATA[<h3 id="Recommend-Podcast-For-Read-Book"><a href="#Recommend-Podcast-For-Read-Book" class="headerlink" title="Recommend Podcast For Read Book"></a>Recommend Podcast For Read Book</h3><span id="more"></span>
-<p>這篇介紹Recommend Podcast For Read Book。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">當通勤時，不想繼續用眼力及想吸收一些有關書的資訊和知識時。</span><br><span class="line">這邊推薦下載Spotify去聽一個Podcast節目: 下一本讀什麼?</span><br><span class="line">這邊介紹許多成長類和投資理財相關書籍，聽完覺得是自己想補強</span><br><span class="line">的領域或範疇，再去買電子書或實體書來閱讀補足知識即可。</span><br><span class="line"></span><br><span class="line">非常推薦瓦基(作者)的下一本讀什麼?</span><br><span class="line">memo:用Spotify收聽沒有廣告，也可以用ApplePodcast收聽!</span><br></pre></td></tr></table></figure>]]></content>
+    <title>What Is Availability-Misweighing Tendency</title>
+    <url>/posts/4fbb1087/</url>
+    <content><![CDATA[<h2 id="What-Is-Availability-Misweighing-Tendency"><a href="#What-Is-Availability-Misweighing-Tendency" class="headerlink" title="What Is Availability-Misweighing Tendency"></a>What Is Availability-Misweighing Tendency</h2><span id="more"></span>
+<p>What Is Availability-Misweighing Tendency</p>
+<h2 id="Availability-Misweighing-Tendency"><a href="#Availability-Misweighing-Tendency" class="headerlink" title="Availability-Misweighing Tendency"></a>Availability-Misweighing Tendency</h2><p>人類的大腦是有限而不完美的，很容易滿足於容易到手的東西。<br>大腦無法使用記不住或不認識的東西，因為大腦會受到一種或<br>幾種心理傾向影響，所以對容易得到的東西，大腦會高估其重<br>要性，因而表現出易取得性誤導傾向。</p>
+<p>避免受此傾向影響的主要對策，通常是按程序辦事，包括使用<br>總是很有幫助的檢查清單。</p>
+<p>TIP:別因為一樣事實或一個點子很容易取得，就以為特別重要。</p>
+]]></content>
       <categories>
-        <category>Podcast</category>
+        <category>Psychology</category>
       </categories>
       <tags>
-        <tag>Podcast</tag>
-        <tag>Read</tag>
-        <tag>Spotify</tag>
+        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -894,19 +907,6 @@
       </categories>
       <tags>
         <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>What Is Creative Commons</title>
-    <url>/posts/18eef1c0/</url>
-    <content><![CDATA[<h3 id="What-Is-Creative-Commons"><a href="#What-Is-Creative-Commons" class="headerlink" title="What Is Creative Commons"></a>What Is Creative Commons</h3><span id="more"></span>
-<p>這篇介紹What Is Creative Commons。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">Creative Commons license</span><br><span class="line"></span><br><span class="line">是一種公共著作權授權條款，其允許分發受著作權保護的作品。</span><br><span class="line">一個作者可使用創作共享授權授予他人分享、使用，甚至創作</span><br><span class="line">衍生作品的權利。創作共享提供給作者靈活性（例如，他們</span><br><span class="line">可以選擇允許非商業用途使用他們的作品），保護使用或重新</span><br><span class="line">分配他人作品的人，所以他們只要遵守由作者指定的條件，</span><br><span class="line">不必擔心侵犯著作權。</span><br><span class="line"></span><br><span class="line">創用CC授權條款有多種不同類型。授權條款可以有不同的</span><br><span class="line">組合，由分發條款決定。</span><br><span class="line"></span><br><span class="line">說明	縮寫	姓名標示要求	混合作品	允許商業性使用	允許自由文化作品	符合OKI的「開放定義」</span><br><span class="line">不受限制地在全球範圍內釋出內容							CC0			否	是	是	是	是</span><br><span class="line">姓名標示（BY）											BY			是	是	是	是	是</span><br><span class="line">姓名標示（BY）-相同方式分享（SA）						BY-SA		是	是	是	是	是</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）						BY-NC		是	是	否	否	否</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）-相同方式分享（SA）	BY-NC-SA	是	是	否	否	否</span><br><span class="line">姓名標示（BY）-禁止改作（ND）							BY-ND		是	否	是	否	否</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）-禁止改作（ND）		BY-NC-ND	是	否	否	否	否</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Website</category>
-      </categories>
-      <tags>
-        <tag>Website</tag>
       </tags>
   </entry>
   <entry>
@@ -934,6 +934,19 @@
       </categories>
       <tags>
         <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is Creative Commons</title>
+    <url>/posts/18eef1c0/</url>
+    <content><![CDATA[<h3 id="What-Is-Creative-Commons"><a href="#What-Is-Creative-Commons" class="headerlink" title="What Is Creative Commons"></a>What Is Creative Commons</h3><span id="more"></span>
+<p>這篇介紹What Is Creative Commons。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">Creative Commons license</span><br><span class="line"></span><br><span class="line">是一種公共著作權授權條款，其允許分發受著作權保護的作品。</span><br><span class="line">一個作者可使用創作共享授權授予他人分享、使用，甚至創作</span><br><span class="line">衍生作品的權利。創作共享提供給作者靈活性（例如，他們</span><br><span class="line">可以選擇允許非商業用途使用他們的作品），保護使用或重新</span><br><span class="line">分配他人作品的人，所以他們只要遵守由作者指定的條件，</span><br><span class="line">不必擔心侵犯著作權。</span><br><span class="line"></span><br><span class="line">創用CC授權條款有多種不同類型。授權條款可以有不同的</span><br><span class="line">組合，由分發條款決定。</span><br><span class="line"></span><br><span class="line">說明	縮寫	姓名標示要求	混合作品	允許商業性使用	允許自由文化作品	符合OKI的「開放定義」</span><br><span class="line">不受限制地在全球範圍內釋出內容							CC0			否	是	是	是	是</span><br><span class="line">姓名標示（BY）											BY			是	是	是	是	是</span><br><span class="line">姓名標示（BY）-相同方式分享（SA）						BY-SA		是	是	是	是	是</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）						BY-NC		是	是	否	否	否</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）-相同方式分享（SA）	BY-NC-SA	是	是	否	否	否</span><br><span class="line">姓名標示（BY）-禁止改作（ND）							BY-ND		是	否	是	否	否</span><br><span class="line">姓名標示（BY）-非商業性使用（NC）-禁止改作（ND）		BY-NC-ND	是	否	否	否	否</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Website</category>
+      </categories>
+      <tags>
+        <tag>Website</tag>
       </tags>
   </entry>
   <entry>
@@ -1051,19 +1064,6 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Hedge Fund</title>
-    <url>/posts/fbe6cd1a/</url>
-    <content><![CDATA[<h3 id="What-Is-Hedge-Fund"><a href="#What-Is-Hedge-Fund" class="headerlink" title="What Is Hedge Fund"></a>What Is Hedge Fund</h3><span id="more"></span>
-<p>這篇介紹What Is Hedge Fund。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">避險基金，又稱對沖基金或套利基金，是指由金融期貨、金融期權等金融衍生工具</span><br><span class="line">與金融組織結合後，以盈利為目的的金融基金。其最初目的為通過套期保值</span><br><span class="line">（Hedging）避免損失。</span><br><span class="line"></span><br><span class="line">在金融市場上，部分基金組織利用金融衍生工具採取多種以盈利為目的投資策略，</span><br><span class="line">這些基金組織便被稱為避險基金。目前，避險基金早已失去風險「對沖」的內涵，</span><br><span class="line">相反的，現在人們普遍認為避險基金實際是基於最新的投資理論和極其複雜的金融</span><br><span class="line">市場操作技巧，充分利用各種金融衍生產品的槓桿效用，承擔高風險、追求高收益</span><br><span class="line">的投資模式。</span><br><span class="line"></span><br><span class="line">著名避險基金:</span><br><span class="line"></span><br><span class="line">避險基金中最著名的莫過於喬治·索羅斯的量子基金及朱里安·羅伯遜的老虎基金，</span><br><span class="line">它們都曾創造過高達40%至50%的複合年度收益率。採取高風險的投資，為避險基金</span><br><span class="line">可能帶來高收益的同時也為避險基金帶來不可預估的損失。最大規模的避險基金都</span><br><span class="line">不可能在變幻莫測的金融市場中永遠處於不敗之地。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Investment</category>
-      </categories>
-      <tags>
-        <tag>Investment</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>What Is Inconsistency-Avoidance Tendency</title>
     <url>/posts/1e2efed1/</url>
     <content><![CDATA[<h2 id="What-Is-Inconsistency-Avoidance-Tendency"><a href="#What-Is-Inconsistency-Avoidance-Tendency" class="headerlink" title="What Is Inconsistency-Avoidance Tendency"></a>What Is Inconsistency-Avoidance Tendency</h2><span id="more"></span>
@@ -1075,6 +1075,19 @@
       </categories>
       <tags>
         <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is Hedge Fund</title>
+    <url>/posts/fbe6cd1a/</url>
+    <content><![CDATA[<h3 id="What-Is-Hedge-Fund"><a href="#What-Is-Hedge-Fund" class="headerlink" title="What Is Hedge Fund"></a>What Is Hedge Fund</h3><span id="more"></span>
+<p>這篇介紹What Is Hedge Fund。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">避險基金，又稱對沖基金或套利基金，是指由金融期貨、金融期權等金融衍生工具</span><br><span class="line">與金融組織結合後，以盈利為目的的金融基金。其最初目的為通過套期保值</span><br><span class="line">（Hedging）避免損失。</span><br><span class="line"></span><br><span class="line">在金融市場上，部分基金組織利用金融衍生工具採取多種以盈利為目的投資策略，</span><br><span class="line">這些基金組織便被稱為避險基金。目前，避險基金早已失去風險「對沖」的內涵，</span><br><span class="line">相反的，現在人們普遍認為避險基金實際是基於最新的投資理論和極其複雜的金融</span><br><span class="line">市場操作技巧，充分利用各種金融衍生產品的槓桿效用，承擔高風險、追求高收益</span><br><span class="line">的投資模式。</span><br><span class="line"></span><br><span class="line">著名避險基金:</span><br><span class="line"></span><br><span class="line">避險基金中最著名的莫過於喬治·索羅斯的量子基金及朱里安·羅伯遜的老虎基金，</span><br><span class="line">它們都曾創造過高達40%至50%的複合年度收益率。採取高風險的投資，為避險基金</span><br><span class="line">可能帶來高收益的同時也為避險基金帶來不可預估的損失。最大規模的避險基金都</span><br><span class="line">不可能在變幻莫測的金融市場中永遠處於不敗之地。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
       </tags>
   </entry>
   <entry>
@@ -1221,11 +1234,12 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Simple Pain-Avoiding Psychological Denial Tendency</title>
-    <url>/posts/116c993/</url>
-    <content><![CDATA[<h2 id="What-Is-Simple-Pain-Avoiding-Psychological-Denial-Tendency"><a href="#What-Is-Simple-Pain-Avoiding-Psychological-Denial-Tendency" class="headerlink" title="What Is Simple Pain-Avoiding Psychological Denial Tendency"></a>What Is Simple Pain-Avoiding Psychological Denial Tendency</h2><span id="more"></span>
-<p>What Is Simple Pain-Avoiding Psychological Denial Tendency</p>
-<h2 id="Simple-Pain-Avoiding-Psychological-Denial-Tendency"><a href="#Simple-Pain-Avoiding-Psychological-Denial-Tendency" class="headerlink" title="Simple Pain-Avoiding Psychological Denial Tendency"></a>Simple Pain-Avoiding Psychological Denial Tendency</h2><p>不敢想信自己的親人因故逝去，依然拒絕相信這個死訊，<br>就是簡單的、避免痛苦的心理否認。現實太過痛苦，令人<br>無法承受。所以人會扭曲各種事實，直到它們變得可以承<br>受。我們或多或少都有這種傾向，而這經常會引發嚴重<br>問題。引發這種極端後果的心理傾向，經常跟愛情、死亡<br>或酒精、毒品的依賴有關。</p>
+    <title>What Is Senescence-Misinfluence Tendency</title>
+    <url>/posts/869bdc39/</url>
+    <content><![CDATA[<h2 id="What-Is-Senescence-Misinfluence-Tendency"><a href="#What-Is-Senescence-Misinfluence-Tendency" class="headerlink" title="What Is Senescence-Misinfluence Tendency"></a>What Is Senescence-Misinfluence Tendency</h2><span id="more"></span>
+<p>What Is Senescence-Misinfluence Tendency</p>
+<h2 id="Senescence-Misinfluence-Tendency"><a href="#Senescence-Misinfluence-Tendency" class="headerlink" title="Senescence-Misinfluence Tendency"></a>Senescence-Misinfluence Tendency</h2><p>年齡增長自然會造成認知衰退，每個人認知衰退的時間早晚和<br>速度快慢不盡相同。基本上沒有人已經很老還善於學習複雜的<br>新技能</p>
+<p>持續快樂思考和學習，多少能夠延緩終將面對的衰老。</p>
 ]]></content>
       <categories>
         <category>Psychology</category>
@@ -1235,12 +1249,11 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Senescence-Misinfluence Tendency</title>
-    <url>/posts/869bdc39/</url>
-    <content><![CDATA[<h2 id="What-Is-Senescence-Misinfluence-Tendency"><a href="#What-Is-Senescence-Misinfluence-Tendency" class="headerlink" title="What Is Senescence-Misinfluence Tendency"></a>What Is Senescence-Misinfluence Tendency</h2><span id="more"></span>
-<p>What Is Senescence-Misinfluence Tendency</p>
-<h2 id="Senescence-Misinfluence-Tendency"><a href="#Senescence-Misinfluence-Tendency" class="headerlink" title="Senescence-Misinfluence Tendency"></a>Senescence-Misinfluence Tendency</h2><p>年齡增長自然會造成認知衰退，每個人認知衰退的時間早晚和<br>速度快慢不盡相同。基本上沒有人已經很老還善於學習複雜的<br>新技能</p>
-<p>持續快樂思考和學習，多少能夠延緩終將面對的衰老。</p>
+    <title>What Is Simple Pain-Avoiding Psychological Denial Tendency</title>
+    <url>/posts/116c993/</url>
+    <content><![CDATA[<h2 id="What-Is-Simple-Pain-Avoiding-Psychological-Denial-Tendency"><a href="#What-Is-Simple-Pain-Avoiding-Psychological-Denial-Tendency" class="headerlink" title="What Is Simple Pain-Avoiding Psychological Denial Tendency"></a>What Is Simple Pain-Avoiding Psychological Denial Tendency</h2><span id="more"></span>
+<p>What Is Simple Pain-Avoiding Psychological Denial Tendency</p>
+<h2 id="Simple-Pain-Avoiding-Psychological-Denial-Tendency"><a href="#Simple-Pain-Avoiding-Psychological-Denial-Tendency" class="headerlink" title="Simple Pain-Avoiding Psychological Denial Tendency"></a>Simple Pain-Avoiding Psychological Denial Tendency</h2><p>不敢想信自己的親人因故逝去，依然拒絕相信這個死訊，<br>就是簡單的、避免痛苦的心理否認。現實太過痛苦，令人<br>無法承受。所以人會扭曲各種事實，直到它們變得可以承<br>受。我們或多或少都有這種傾向，而這經常會引發嚴重<br>問題。引發這種極端後果的心理傾向，經常跟愛情、死亡<br>或酒精、毒品的依賴有關。</p>
 ]]></content>
       <categories>
         <category>Psychology</category>
@@ -1264,38 +1277,11 @@
       </tags>
   </entry>
   <entry>
-    <title>Kelly Formula</title>
-    <url>/posts/e4423a28/</url>
-    <content><![CDATA[<h3 id="凱利公式-Kelly-Formula"><a href="#凱利公式-Kelly-Formula" class="headerlink" title="凱利公式(Kelly Formula)"></a>凱利公式(Kelly Formula)</h3><span id="more"></span>
-<p>這篇介紹凱利公式(Kelly Formula)。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">凱利公式是在對自己有利的時候下大注，對自己不利的時候下小注或不下注。</span><br><span class="line">資金配置參考凱利公式，就有機會大賺小賠，讓長期獲利期望值最大化。</span><br><span class="line">這個公式主要根據賠率來計算最佳資金配置比例，計算公式如下：</span><br><span class="line"></span><br><span class="line">最佳資金配置比例 f=(b*p-q)/b=p-q/b，其中 f 為這次賭注占總資金的建議比例，</span><br><span class="line">b 為賠率，p 為獲利機率，q 為虧損機率。</span><br><span class="line"></span><br><span class="line">以擲硬幣為例，如果硬幣出現正面，你贏5倍賭注；出現反面，就輸掉這次賭注，</span><br><span class="line">代表賠率為5（b＝5/1）。而且擲出正面硬幣，你有50%勝率（p＝0.5，q＝0.5），</span><br><span class="line">也就是「出現正面你大贏，出現反面你小輸」。遇到這種低風險高報酬的賭局，</span><br><span class="line">你就應該下注，而且應該下大注。根據凱利公式計算，如果你有1萬元，</span><br><span class="line">每次下注40%，就能獲得最大利益。</span><br><span class="line"></span><br><span class="line">計算式如下： f＝0.5－0.5/5=40%</span><br><span class="line"></span><br><span class="line">凱利公式應用在投資領域也是同樣的道理。如果你打算用100萬元投資股票，</span><br><span class="line">發現某一檔個股，有六成機率獲利50%、四成機率虧損25%，</span><br><span class="line">也就是賠率為2（b＝50% / 25%），勝率為60%（p=60%，q=40%），</span><br><span class="line">理論上若要讓收益期望值最大化，就應該用40萬元買進此檔個股（f＝(2×0.6－0.4) / 2＝40%）。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Investment</category>
-      </categories>
-      <tags>
-        <tag>Investment</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>What Is Survivorship Bias</title>
     <url>/posts/9773facc/</url>
     <content><![CDATA[<h3 id="倖存者偏差-What-Is-Survivorship-Bias"><a href="#倖存者偏差-What-Is-Survivorship-Bias" class="headerlink" title="倖存者偏差(What Is Survivorship Bias)"></a>倖存者偏差(What Is Survivorship Bias)</h3><span id="more"></span>
 <p>這篇介紹倖存者偏差(What Is Survivorship Bias)。</p>
 <h3 id="Survivorship-Bias"><a href="#Survivorship-Bias" class="headerlink" title="Survivorship Bias"></a>Survivorship Bias</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">倖存者偏差所指的就是過度關注倖存的資料（可以被觀察到的人事物），而忽略了可能無法觀察到的資料，導致了錯誤的認知與結論。</span><br><span class="line"></span><br><span class="line">1.A 公司採用了某種新的促銷策略，使得營收增長了200%（但是又有多少公司嘗試了同樣的策略，卻是以失敗收場）</span><br><span class="line">2.這間廟很靈驗！出海回來，沒有遇難的船員都有到這間廟拜拜（但是又有多少人有拜神卻淹死的呢？）</span><br><span class="line">3.OOO吃了某種減肥藥，一下子就瘦了10公斤（但是又有多少比例的人吃這種減肥藥是無效的呢？）</span><br><span class="line">4.勵志書籍常常說只要吃苦耐勞、有創意就會成功（但還有一堆擁有同樣特質的失敗者默默無聞不被我們發現）</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>What Is Stress-Influence Tendency</title>
-    <url>/posts/91944538/</url>
-    <content><![CDATA[<h2 id="What-Is-Stress-Influence-Tendency"><a href="#What-Is-Stress-Influence-Tendency" class="headerlink" title="What Is Stress-Influence Tendency"></a>What Is Stress-Influence Tendency</h2><span id="more"></span>
-<p>What Is Stress-Influence Tendency</p>
-<h2 id="Stress-Influence-Tendency"><a href="#Stress-Influence-Tendency" class="headerlink" title="Stress-Influence Tendency"></a>Stress-Influence Tendency</h2><p>壓力會使社會認同傾向變得更加強大，輕度的壓力能夠稍微改善<br>人的表現，比如說考試時:沉重的壓力則容易引發功能障礙。<br>如果要以最理智的態度來處理這個爭議，那麼雙方必須借鑑巴<br>夫洛夫最後的研究成果:施加大量的壓力可能是治療﹝喪失心智﹞<br>的唯一方法。</p>
-]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -1317,6 +1303,19 @@
       </tags>
   </entry>
   <entry>
+    <title>What Is Volunteers Delimma?</title>
+    <url>/posts/ee525b9f/</url>
+    <content><![CDATA[<h3 id="What-Is-Volunteers-Delimma"><a href="#What-Is-Volunteers-Delimma" class="headerlink" title="What Is Volunteers Delimma?"></a>What Is Volunteers Delimma?</h3><span id="more"></span>
+<p>這篇介紹What Is Volunteers Delimma。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">志願者困境的博弈模型是，有N個參與者，每人都面臨</span><br><span class="line">要麼犧牲自己小部分利益，要麼選擇搭便車。</span><br><span class="line"></span><br><span class="line">用如下場景來描述該博弈：有一個社區都停電了，社區</span><br><span class="line">裡所有居民都知道，只要有一個人花錢打電話給電力公</span><br><span class="line">司，電力公司就會修復這個問題。但是如果沒有志願者</span><br><span class="line">，所有人都面臨一直沒電的情況。如果有一個人決定做</span><br><span class="line">志願者，其他人都會因為沒有做而獲益。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Zero Sum Game</title>
     <url>/posts/3a0c4326/</url>
     <content><![CDATA[<h3 id="零和遊戲-ZERO-SUM-GAME"><a href="#零和遊戲-ZERO-SUM-GAME" class="headerlink" title="零和遊戲(ZERO-SUM GAME)"></a>零和遊戲(ZERO-SUM GAME)</h3><span id="more"></span>
@@ -1327,6 +1326,21 @@
       </categories>
       <tags>
         <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is Use-It-Lost-It Tendency</title>
+    <url>/posts/8e0ef921/</url>
+    <content><![CDATA[<h2 id="What-Is-Use-It-Lost-It-Tendency"><a href="#What-Is-Use-It-Lost-It-Tendency" class="headerlink" title="What Is Use-It-Lost-It Tendency"></a>What Is Use-It-Lost-It Tendency</h2><span id="more"></span>
+<p>What Is Use-It-Lost-It Tendency</p>
+<h2 id="Use-It-Lost-It-Tendency"><a href="#Use-It-Lost-It-Tendency" class="headerlink" title="Use-It-Lost-It Tendency"></a>Use-It-Lost-It Tendency</h2><p>所有技能都會因為不用而退化，避免這種損失的正確對策，是<br>運用一些類似飛行員訓練中的飛行模擬器。模擬器讓飛行員能<br>夠持續演練所有很少用到，但必須保證萬無一失的技能。</p>
+<p>聰明人在學習重要技能時，除非練到精通，否則是不會停下來的</p>
+]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -1358,19 +1372,6 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is Volunteers Delimma?</title>
-    <url>/posts/ee525b9f/</url>
-    <content><![CDATA[<h3 id="What-Is-Volunteers-Delimma"><a href="#What-Is-Volunteers-Delimma" class="headerlink" title="What Is Volunteers Delimma?"></a>What Is Volunteers Delimma?</h3><span id="more"></span>
-<p>這篇介紹What Is Volunteers Delimma。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">志願者困境的博弈模型是，有N個參與者，每人都面臨</span><br><span class="line">要麼犧牲自己小部分利益，要麼選擇搭便車。</span><br><span class="line"></span><br><span class="line">用如下場景來描述該博弈：有一個社區都停電了，社區</span><br><span class="line">裡所有居民都知道，只要有一個人花錢打電話給電力公</span><br><span class="line">司，電力公司就會修復這個問題。但是如果沒有志願者</span><br><span class="line">，所有人都面臨一直沒電的情況。如果有一個人決定做</span><br><span class="line">志願者，其他人都會因為沒有做而獲益。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>主機板B250M更換H110M-K</title>
     <url>/posts/fd800bac/</url>
     <content><![CDATA[<h2 id="主機板B250M更換H110M-K"><a href="#主機板B250M更換H110M-K" class="headerlink" title="主機板B250M更換H110M-K"></a>主機板B250M更換H110M-K</h2><span id="more"></span>
@@ -1383,21 +1384,6 @@
       </categories>
       <tags>
         <tag>PersonalComputer</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>What Is Use-It-Lost-It Tendency</title>
-    <url>/posts/8e0ef921/</url>
-    <content><![CDATA[<h2 id="What-Is-Use-It-Lost-It-Tendency"><a href="#What-Is-Use-It-Lost-It-Tendency" class="headerlink" title="What Is Use-It-Lost-It Tendency"></a>What Is Use-It-Lost-It Tendency</h2><span id="more"></span>
-<p>What Is Use-It-Lost-It Tendency</p>
-<h2 id="Use-It-Lost-It-Tendency"><a href="#Use-It-Lost-It-Tendency" class="headerlink" title="Use-It-Lost-It Tendency"></a>Use-It-Lost-It Tendency</h2><p>所有技能都會因為不用而退化，避免這種損失的正確對策，是<br>運用一些類似飛行員訓練中的飛行模擬器。模擬器讓飛行員能<br>夠持續演練所有很少用到，但必須保證萬無一失的技能。</p>
-<p>聰明人在學習重要技能時，除非練到精通，否則是不會停下來的</p>
-]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -1414,19 +1400,6 @@
       </tags>
   </entry>
   <entry>
-    <title>介紹水肺氣瓶 大小支的差異</title>
-    <url>/posts/5a48e763/</url>
-    <content><![CDATA[<h3 id="介紹水肺氣瓶-大小支的差異"><a href="#介紹水肺氣瓶-大小支的差異" class="headerlink" title="介紹水肺氣瓶 大小支的差異"></a>介紹水肺氣瓶 大小支的差異</h3><span id="more"></span>
-<p>這篇介紹水肺氣瓶 大小支的差異。</p>
-<h3 id="Versus"><a href="#Versus" class="headerlink" title="Versus"></a>Versus</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">我常去的氣瓶店提供的尺寸是S80(大)和S63(小)兩種，英制</span><br><span class="line"></span><br><span class="line">S80 : 80立方呎，約11.3公升</span><br><span class="line">S63 : 63立方呎</span><br><span class="line"></span><br><span class="line">在台灣，兩種氣瓶通常會是200bar</span><br><span class="line"></span><br><span class="line">用公升數來算的話，S63會比S80少1/3的空氣容量。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Dive</category>
-      </categories>
-      <tags>
-        <tag>Dive</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>介紹HyRead 電子書 使用心得</title>
     <url>/posts/48e2ff70/</url>
     <content><![CDATA[<h2 id="介紹HyRead電子書使用心得"><a href="#介紹HyRead電子書使用心得" class="headerlink" title="介紹HyRead電子書使用心得"></a>介紹HyRead電子書使用心得</h2><span id="more"></span>
@@ -1440,6 +1413,33 @@
       </categories>
       <tags>
         <tag>Ebook</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>介紹水肺氣瓶 大小支的差異</title>
+    <url>/posts/5a48e763/</url>
+    <content><![CDATA[<h3 id="介紹水肺氣瓶-大小支的差異"><a href="#介紹水肺氣瓶-大小支的差異" class="headerlink" title="介紹水肺氣瓶 大小支的差異"></a>介紹水肺氣瓶 大小支的差異</h3><span id="more"></span>
+<p>這篇介紹水肺氣瓶 大小支的差異。</p>
+<h3 id="Versus"><a href="#Versus" class="headerlink" title="Versus"></a>Versus</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">我常去的氣瓶店提供的尺寸是S80(大)和S63(小)兩種，英制</span><br><span class="line"></span><br><span class="line">S80 : 80立方呎，約11.3公升</span><br><span class="line">S63 : 63立方呎</span><br><span class="line"></span><br><span class="line">在台灣，兩種氣瓶通常會是200bar</span><br><span class="line"></span><br><span class="line">用公升數來算的話，S63會比S80少1/3的空氣容量。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Dive</category>
+      </categories>
+      <tags>
+        <tag>Dive</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>介紹 決策過程 的指導思想</title>
+    <url>/posts/236b328d/</url>
+    <content><![CDATA[<h2 id="介紹-決策過程-的指導思想"><a href="#介紹-決策過程-的指導思想" class="headerlink" title="介紹 決策過程 的指導思想"></a>介紹 決策過程 的指導思想</h2><span id="more"></span>
+<p>介紹 決策過程 的指導思想</p>
+<h2 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h2><p>1.擴充你的選項<br>2.用現實檢驗你的觀點<br>3.從長遠考慮<br>4.為決策錯誤做好準備</p>
+]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -1462,20 +1462,6 @@
       </tags>
   </entry>
   <entry>
-    <title>介紹 決策過程 的指導思想</title>
-    <url>/posts/236b328d/</url>
-    <content><![CDATA[<h2 id="介紹-決策過程-的指導思想"><a href="#介紹-決策過程-的指導思想" class="headerlink" title="介紹 決策過程 的指導思想"></a>介紹 決策過程 的指導思想</h2><span id="more"></span>
-<p>介紹 決策過程 的指導思想</p>
-<h2 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h2><p>1.擴充你的選項<br>2.用現實檢驗你的觀點<br>3.從長遠考慮<br>4.為決策錯誤做好準備</p>
-]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>介紹越捷航空 票種與 航班異動 如何處理</title>
     <url>/posts/665e53eb/</url>
     <content><![CDATA[<h2 id="介紹越捷航空票種與航班異動如何處理"><a href="#介紹越捷航空票種與航班異動如何處理" class="headerlink" title="介紹越捷航空票種與航班異動如何處理"></a>介紹越捷航空票種與航班異動如何處理</h2><span id="more"></span>
@@ -1493,6 +1479,19 @@
       </tags>
   </entry>
   <entry>
+    <title>內湖至 貓空單車路線</title>
+    <url>/posts/8a359b61/</url>
+    <content><![CDATA[<h3 id="內湖至貓空單車路線"><a href="#內湖至貓空單車路線" class="headerlink" title="內湖至貓空單車路線"></a>內湖至貓空單車路線</h3><span id="more"></span>
+<p>這篇介紹內湖至貓空單車路線。</p>
+<h3 id="路線"><a href="#路線" class="headerlink" title="路線"></a>路線</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從內湖出發走民權東路一路往下騎到大稻埕五號水門，</span><br><span class="line">延著河濱往下騎會經過景美橋和景美溪橋。</span><br><span class="line"></span><br><span class="line">繼續往下到新店，木柵後到政治大學附近籃球場往左上</span><br><span class="line">過橋至對面即可通過政治大學側門。</span><br><span class="line"></span><br><span class="line">繼續往指南路騎到三段經過7-11往右騎往貓空山上，一條</span><br><span class="line">路會直接到貓空纜車站後，三岔路往左繼續騎~</span><br><span class="line"></span><br><span class="line">騎到靠近深坑後會有涼亭，往右往上騎就是碎心坡，到頂</span><br><span class="line">往下騎就是天南宮(阿柔洋山)</span><br><span class="line"></span><br><span class="line">回程往台北方向騎，就會回到政治大學。回程走原路或</span><br><span class="line">河濱都可以回到內湖。</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Bike</category>
+      </categories>
+      <tags>
+        <tag>Bike</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>兌換 統一發票 memo</title>
     <url>/posts/1b61ccd7/</url>
     <content><![CDATA[<h3 id="兌換-統一發票-memo"><a href="#兌換-統一發票-memo" class="headerlink" title="兌換 統一發票 memo"></a>兌換 統一發票 memo</h3><span id="more"></span>
@@ -1506,16 +1505,17 @@
       </tags>
   </entry>
   <entry>
-    <title>內湖至 貓空單車路線</title>
-    <url>/posts/8a359b61/</url>
-    <content><![CDATA[<h3 id="內湖至貓空單車路線"><a href="#內湖至貓空單車路線" class="headerlink" title="內湖至貓空單車路線"></a>內湖至貓空單車路線</h3><span id="more"></span>
-<p>這篇介紹內湖至貓空單車路線。</p>
-<h3 id="路線"><a href="#路線" class="headerlink" title="路線"></a>路線</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">從內湖出發走民權東路一路往下騎到大稻埕五號水門，</span><br><span class="line">延著河濱往下騎會經過景美橋和景美溪橋。</span><br><span class="line"></span><br><span class="line">繼續往下到新店，木柵後到政治大學附近籃球場往左上</span><br><span class="line">過橋至對面即可通過政治大學側門。</span><br><span class="line"></span><br><span class="line">繼續往指南路騎到三段經過7-11往右騎往貓空山上，一條</span><br><span class="line">路會直接到貓空纜車站後，三岔路往左繼續騎~</span><br><span class="line"></span><br><span class="line">騎到靠近深坑後會有涼亭，往右往上騎就是碎心坡，到頂</span><br><span class="line">往下騎就是天南宮(阿柔洋山)</span><br><span class="line"></span><br><span class="line">回程往台北方向騎，就會回到政治大學。回程走原路或</span><br><span class="line">河濱都可以回到內湖。</span><br></pre></td></tr></table></figure>]]></content>
+    <title>分享ATM 領錢 退出卡片時 故障經驗</title>
+    <url>/posts/36ca54ae/</url>
+    <content><![CDATA[<h2 id="分享ATM-領錢-退出卡片時-故障經驗"><a href="#分享ATM-領錢-退出卡片時-故障經驗" class="headerlink" title="分享ATM 領錢 退出卡片時 故障經驗"></a>分享ATM 領錢 退出卡片時 故障經驗</h2><span id="more"></span>
+<p>分享ATM 領錢 退出卡片時 故障經驗</p>
+<h2 id="Process"><a href="#Process" class="headerlink" title="Process:"></a>Process:</h2><p>某天去ATM領錢，最後卡片出來之前卡住，倒數45秒後~<br>畫面出現請聯絡客服，旁邊有分機可以打進去分行內。<br>有人員出來協助，請我稍等一下，他們去把卡片取出來(領取卡片需要核對身份資料)<br>原因可能是卡片有折到，新的機器有高機率會卡住出不來!<br>換一台舊型的領就可以了!</p>
+]]></content>
       <categories>
-        <category>Bike</category>
+        <category>ATM</category>
       </categories>
       <tags>
-        <tag>Bike</tag>
+        <tag>ATM</tag>
       </tags>
   </entry>
   <entry>
@@ -1532,17 +1532,25 @@
       </tags>
   </entry>
   <entry>
-    <title>分享ATM 領錢 退出卡片時 故障經驗</title>
-    <url>/posts/36ca54ae/</url>
-    <content><![CDATA[<h2 id="分享ATM-領錢-退出卡片時-故障經驗"><a href="#分享ATM-領錢-退出卡片時-故障經驗" class="headerlink" title="分享ATM 領錢 退出卡片時 故障經驗"></a>分享ATM 領錢 退出卡片時 故障經驗</h2><span id="more"></span>
-<p>分享ATM 領錢 退出卡片時 故障經驗</p>
-<h2 id="Process"><a href="#Process" class="headerlink" title="Process:"></a>Process:</h2><p>某天去ATM領錢，最後卡片出來之前卡住，倒數45秒後~<br>畫面出現請聯絡客服，旁邊有分機可以打進去分行內。<br>有人員出來協助，請我稍等一下，他們去把卡片取出來(領取卡片需要核對身份資料)<br>原因可能是卡片有折到，新的機器有高機率會卡住出不來!<br>換一台舊型的領就可以了!</p>
+    <title>分享多個 GMAIL找出 信件指令</title>
+    <url>/posts/b1468c1b/</url>
+    <content><![CDATA[<h2 id="分享多個-GMAIL找出-信件指令"><a href="#分享多個-GMAIL找出-信件指令" class="headerlink" title="分享多個 GMAIL找出 信件指令"></a>分享多個 GMAIL找出 信件指令</h2><span id="more"></span>
+<p>分享多個 GMAIL找出 信件指令</p>
+<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions:"></a>Instructions:</h2><p>1.找出未讀信件<br>label:unread</p>
+<p>2.找出重要信件<br>is:important</p>
+<p>3.找出未讀且重要信件<br>is:important label:unread</p>
+<p>4.找出特定年份以前信件 (找出2023年以前信件，不包含2023年)<br>older:2023</p>
+<p>5.找出特定日期信件<br>before:yyyy&#x2F;mm&#x2F;dd<br>example : before:2024&#x2F;01&#x2F;01</p>
+<p>6.找出特定檔案容量信件 (語法中的「xx」指的是檔案大小，由於 Gmail 的附件檔案容量上限是 25MB，所以 1MB~25MB 都可以輸入。)<br>size:xxmb<br>larger:xxMB<br>smaller:xxMB</p>
+<p>7.找出特定寄信者或收信者信件<br>from:(<span class="exturl" data-url="bWFpbHRvOiYjeDc4OyYjeDc4OyYjMTIwOyYjNjQ7JiN4Nzg7JiMxMjA7JiMxMjA7JiN4MmU7JiN4NjM7JiN4NmY7JiMxMDk7">&#x78;&#x78;&#120;&#64;&#x78;&#120;&#120;&#x2e;&#x63;&#x6f;&#109;<i class="fa fa-external-link-alt"></i></span>)<br>to:(<span class="exturl" data-url="bWFpbHRvOiYjeDc5OyYjeDc5OyYjMTIxOyYjeDQwOyYjMTIxOyYjeDc5OyYjeDc5OyYjNDY7JiN4NjM7JiMxMTE7JiMxMDk7">&#x79;&#x79;&#121;&#x40;&#121;&#x79;&#x79;&#46;&#x63;&#111;&#109;<i class="fa fa-external-link-alt"></i></span>)</p>
+<p>example : from:google</p>
+<p>8.刪除促銷內容<br>點選促銷內容視窗 -&gt; 左上全選 -&gt; 中間選取促銷內容全部 -&gt; 刪除 -&gt; 會慢慢刪除需等待</p>
 ]]></content>
       <categories>
-        <category>ATM</category>
+        <category>GMAIL</category>
       </categories>
       <tags>
-        <tag>ATM</tag>
+        <tag>GMAIL</tag>
       </tags>
   </entry>
   <entry>
@@ -1561,25 +1569,30 @@
       </tags>
   </entry>
   <entry>
-    <title>分享多個 GMAIL找出 信件指令</title>
-    <url>/posts/b1468c1b/</url>
-    <content><![CDATA[<h2 id="分享多個-GMAIL找出-信件指令"><a href="#分享多個-GMAIL找出-信件指令" class="headerlink" title="分享多個 GMAIL找出 信件指令"></a>分享多個 GMAIL找出 信件指令</h2><span id="more"></span>
-<p>分享多個 GMAIL找出 信件指令</p>
-<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions:"></a>Instructions:</h2><p>1.找出未讀信件<br>label:unread</p>
-<p>2.找出重要信件<br>is:important</p>
-<p>3.找出未讀且重要信件<br>is:important label:unread</p>
-<p>4.找出特定年份以前信件 (找出2023年以前信件，不包含2023年)<br>older:2023</p>
-<p>5.找出特定日期信件<br>before:yyyy&#x2F;mm&#x2F;dd<br>example : before:2024&#x2F;01&#x2F;01</p>
-<p>6.找出特定檔案容量信件 (語法中的「xx」指的是檔案大小，由於 Gmail 的附件檔案容量上限是 25MB，所以 1MB~25MB 都可以輸入。)<br>size:xxmb<br>larger:xxMB<br>smaller:xxMB</p>
-<p>7.找出特定寄信者或收信者信件<br>from:(<span class="exturl" data-url="bWFpbHRvOiYjeDc4OyYjMTIwOyYjMTIwOyYjeDQwOyYjMTIwOyYjeDc4OyYjMTIwOyYjNDY7JiM5OTsmI3g2ZjsmIzEwOTs=">&#x78;&#120;&#120;&#x40;&#120;&#x78;&#120;&#46;&#99;&#x6f;&#109;<i class="fa fa-external-link-alt"></i></span>)<br>to:(<span class="exturl" data-url="bWFpbHRvOiYjeDc5OyYjeDc5OyYjeDc5OyYjeDQwOyYjeDc5OyYjeDc5OyYjMTIxOyYjNDY7JiN4NjM7JiMxMTE7JiN4NmQ7">&#x79;&#x79;&#x79;&#x40;&#x79;&#x79;&#121;&#46;&#x63;&#111;&#x6d;<i class="fa fa-external-link-alt"></i></span>)</p>
-<p>example : from:google</p>
-<p>8.刪除促銷內容<br>點選促銷內容視窗 -&gt; 左上全選 -&gt; 中間選取促銷內容全部 -&gt; 刪除 -&gt; 會慢慢刪除需等待</p>
-]]></content>
+    <title>原則-PrinciplesLifeAndWork</title>
+    <url>/posts/8f898476/</url>
+    <content><![CDATA[<h3 id="原則-PrinciplesLifeAndWork"><a href="#原則-PrinciplesLifeAndWork" class="headerlink" title="原則-PrinciplesLifeAndWork"></a>原則-PrinciplesLifeAndWork</h3><span id="more"></span>
+<p>這篇紀錄原則-PrinciplesLifeAndWork。</p>
+<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">作者是橋水基金的創辦人Ray Dalio，本書介紹他的成長過程以及從</span><br><span class="line">創業歷經失敗到慢慢成功。可以從Ray Dalio身上學到該避開哪些可</span><br><span class="line">能會失敗的決策過程。如何創造創意擇優，極其公開透明的企業文化。</span><br><span class="line">皆是本書的重點，非常推薦及期待Ray Dalio的下一本著作。</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>GMAIL</category>
+        <category>Book</category>
       </categories>
       <tags>
-        <tag>GMAIL</tag>
+        <tag>Book</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is Stress-Influence Tendency</title>
+    <url>/posts/91944538/</url>
+    <content><![CDATA[<h2 id="What-Is-Stress-Influence-Tendency"><a href="#What-Is-Stress-Influence-Tendency" class="headerlink" title="What Is Stress-Influence Tendency"></a>What Is Stress-Influence Tendency</h2><span id="more"></span>
+<p>What Is Stress-Influence Tendency</p>
+<h2 id="Stress-Influence-Tendency"><a href="#Stress-Influence-Tendency" class="headerlink" title="Stress-Influence Tendency"></a>Stress-Influence Tendency</h2><p>壓力會使社會認同傾向變得更加強大，輕度的壓力能夠稍微改善<br>人的表現，比如說考試時:沉重的壓力則容易引發功能障礙。<br>如果要以最理智的態度來處理這個爭議，那麼雙方必須借鑑巴<br>夫洛夫最後的研究成果:施加大量的壓力可能是治療﹝喪失心智﹞<br>的唯一方法。</p>
+]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -1624,33 +1637,6 @@
       </tags>
   </entry>
   <entry>
-    <title>原則-PrinciplesLifeAndWork</title>
-    <url>/posts/8f898476/</url>
-    <content><![CDATA[<h3 id="原則-PrinciplesLifeAndWork"><a href="#原則-PrinciplesLifeAndWork" class="headerlink" title="原則-PrinciplesLifeAndWork"></a>原則-PrinciplesLifeAndWork</h3><span id="more"></span>
-<p>這篇紀錄原則-PrinciplesLifeAndWork。</p>
-<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">作者是橋水基金的創辦人Ray Dalio，本書介紹他的成長過程以及從</span><br><span class="line">創業歷經失敗到慢慢成功。可以從Ray Dalio身上學到該避開哪些可</span><br><span class="line">能會失敗的決策過程。如何創造創意擇優，極其公開透明的企業文化。</span><br><span class="line">皆是本書的重點，非常推薦及期待Ray Dalio的下一本著作。</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Book</category>
-      </categories>
-      <tags>
-        <tag>Book</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>國泰航空 買明年的 機票</title>
-    <url>/posts/2b00de1b/</url>
-    <content><![CDATA[<h2 id="國泰航空-買明年的-機票"><a href="#國泰航空-買明年的-機票" class="headerlink" title="國泰航空 買明年的 機票"></a>國泰航空 買明年的 機票</h2><span id="more"></span>
-<p>國泰航空 買明年的 機票</p>
-<h2 id="國泰航空-買明年的-機票-1"><a href="#國泰航空-買明年的-機票-1" class="headerlink" title="國泰航空 買明年的 機票"></a>國泰航空 買明年的 機票</h2><p>ex:2024年要買2025年4月25日的國泰航空機票<br>實際上官網APP在2024年5月25日才會看到，11個月<br>後才會開放機票訂購。</p>
-]]></content>
-      <categories>
-        <category>CathayPacific</category>
-      </categories>
-      <tags>
-        <tag>CathayPacific</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>國外刷卡次數頻繁 鎖卡解決過程 及漫遊通話費 注意事項</title>
     <url>/posts/bb97d94f/</url>
     <content><![CDATA[<h2 id="國外刷卡次數頻繁-鎖卡解決過程-及漫遊通話費-注意事項"><a href="#國外刷卡次數頻繁-鎖卡解決過程-及漫遊通話費-注意事項" class="headerlink" title="國外刷卡次數頻繁 鎖卡解決過程 及漫遊通話費 注意事項"></a>國外刷卡次數頻繁 鎖卡解決過程 及漫遊通話費 注意事項</h2><span id="more"></span>
@@ -1678,6 +1664,34 @@
       </categories>
       <tags>
         <tag>Ambassador</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>國泰航空 買明年的 機票</title>
+    <url>/posts/2b00de1b/</url>
+    <content><![CDATA[<h2 id="國泰航空-買明年的-機票"><a href="#國泰航空-買明年的-機票" class="headerlink" title="國泰航空 買明年的 機票"></a>國泰航空 買明年的 機票</h2><span id="more"></span>
+<p>國泰航空 買明年的 機票</p>
+<h2 id="國泰航空-買明年的-機票-1"><a href="#國泰航空-買明年的-機票-1" class="headerlink" title="國泰航空 買明年的 機票"></a>國泰航空 買明年的 機票</h2><p>ex:2024年要買2025年4月25日的國泰航空機票<br>實際上官網APP在2024年5月25日才會看到，11個月<br>後才會開放機票訂購。</p>
+]]></content>
+      <categories>
+        <category>CathayPacific</category>
+      </categories>
+      <tags>
+        <tag>CathayPacific</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在Cebu 使用嘉信 Debit Card 在HSBC atm 領piso</title>
+    <url>/posts/bfc1a346/</url>
+    <content><![CDATA[<h3 id="在Cebu-使用嘉信-Debit-Card-在HSBC-atm-領piso"><a href="#在Cebu-使用嘉信-Debit-Card-在HSBC-atm-領piso" class="headerlink" title="在Cebu 使用嘉信 Debit Card 在HSBC atm 領piso"></a>在Cebu 使用嘉信 Debit Card 在HSBC atm 領piso</h3><span id="more"></span>
+<p>這篇介紹在Cebu使用嘉信DebitCard在HSBCatm領piso</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">在Ayala mall旁邊有HSBC ATM</span><br><span class="line">使用嘉信Debit Card輸入PIN code後</span><br><span class="line">選擇 cash withdraw 再下一步選擇Current</span><br><span class="line">匯率的部分選 without HSBC rate (以嘉信內部rate為主)</span><br><span class="line"></span><br><span class="line">用多少美金兌換要在2天後才能在APP看到明細</span><br><span class="line">通常會優於當時現金匯率</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>DebitCard</category>
+      </categories>
+      <tags>
+        <tag>ATM</tag>
+        <tag>DebitCard</tag>
       </tags>
   </entry>
   <entry>
@@ -1753,43 +1767,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在Cebu 使用嘉信 Debit Card 在HSBC atm 領piso</title>
-    <url>/posts/bfc1a346/</url>
-    <content><![CDATA[<h3 id="在Cebu-使用嘉信-Debit-Card-在HSBC-atm-領piso"><a href="#在Cebu-使用嘉信-Debit-Card-在HSBC-atm-領piso" class="headerlink" title="在Cebu 使用嘉信 Debit Card 在HSBC atm 領piso"></a>在Cebu 使用嘉信 Debit Card 在HSBC atm 領piso</h3><span id="more"></span>
-<p>這篇介紹在Cebu使用嘉信DebitCard在HSBCatm領piso</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">在Ayala mall旁邊有HSBC ATM</span><br><span class="line">使用嘉信Debit Card輸入PIN code後</span><br><span class="line">選擇 cash withdraw 再下一步選擇Current</span><br><span class="line">匯率的部分選 without HSBC rate (以嘉信內部rate為主)</span><br><span class="line"></span><br><span class="line">用多少美金兌換要在2天後才能在APP看到明細</span><br><span class="line">通常會優於當時現金匯率</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>DebitCard</category>
-      </categories>
-      <tags>
-        <tag>ATM</tag>
-        <tag>DebitCard</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>捷克 Global Bule Tax Free 退稅 失敗後續</title>
-    <url>/posts/888141f3/</url>
-    <content><![CDATA[<h2 id="捷克-Global-Bule-Tax-Free-退稅-失敗後續"><a href="#捷克-Global-Bule-Tax-Free-退稅-失敗後續" class="headerlink" title="捷克 Global Bule Tax Free 退稅 失敗後續"></a>捷克 Global Bule Tax Free 退稅 失敗後續</h2><span id="more"></span>
-<p>捷克 Global Bule Tax Free 退稅 失敗後續</p>
-<h2 id="Process"><a href="#Process" class="headerlink" title="Process"></a>Process</h2><p>繼上一篇<br><a href="https://davidchenlab.com/posts/1c574984/#more">https://davidchenlab.com/posts/1c574984/#more</a><br>告知對方收據不見了~</p>
-<p>對方回覆:<br>Hi, </p>
-<p>Thank you for your email </p>
-<p>In this case, I suggest contacting the shop directly and asking them to reissue an original receipt.<br>Once it’s issued, the shop needs to send the original receipt along with a filled-in cover letter<br>(see attached) via post to the address mentioned in my previous email </p>
-<p>Note that envelopes sent via standard mail are untraceable. For faster delivery and tracking<br>purposes of your documents, you may ask the shop to use registered mail or courier. </p>
-<p>As soon as we get the requested documents, your refund will be processed accordingly. </p>
-<p>An approved Czech Republic form is valid for 6 months </p>
-<p>Thank you for understanding</p>
-<p>結論:原收據遺失需聯絡當初的店家要求將原收據及填上附件表格後<br>再郵寄或掛號給Global Blue才能進行退款流程。<br>時效在六個月內 :(</p>
-]]></content>
-      <categories>
-        <category>TaxFree</category>
-      </categories>
-      <tags>
-        <tag>TaxFree</tag>
-        <tag>GlobalBule</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>捷克 Global Bule Tax Free 退稅 失敗經驗</title>
     <url>/posts/1c574984/</url>
     <content><![CDATA[<h2 id="捷克-Global-Bule-Tax-Free-退稅-失敗經驗"><a href="#捷克-Global-Bule-Tax-Free-退稅-失敗經驗" class="headerlink" title="捷克 Global Bule Tax Free 退稅 失敗經驗"></a>捷克 Global Bule Tax Free 退稅 失敗經驗</h2><span id="more"></span>
@@ -1858,6 +1835,29 @@
       </tags>
   </entry>
   <entry>
+    <title>捷克 Global Bule Tax Free 退稅 失敗後續</title>
+    <url>/posts/888141f3/</url>
+    <content><![CDATA[<h2 id="捷克-Global-Bule-Tax-Free-退稅-失敗後續"><a href="#捷克-Global-Bule-Tax-Free-退稅-失敗後續" class="headerlink" title="捷克 Global Bule Tax Free 退稅 失敗後續"></a>捷克 Global Bule Tax Free 退稅 失敗後續</h2><span id="more"></span>
+<p>捷克 Global Bule Tax Free 退稅 失敗後續</p>
+<h2 id="Process"><a href="#Process" class="headerlink" title="Process"></a>Process</h2><p>繼上一篇<br><a href="https://davidchenlab.com/posts/1c574984/#more">https://davidchenlab.com/posts/1c574984/#more</a><br>告知對方收據不見了~</p>
+<p>對方回覆:<br>Hi, </p>
+<p>Thank you for your email </p>
+<p>In this case, I suggest contacting the shop directly and asking them to reissue an original receipt.<br>Once it’s issued, the shop needs to send the original receipt along with a filled-in cover letter<br>(see attached) via post to the address mentioned in my previous email </p>
+<p>Note that envelopes sent via standard mail are untraceable. For faster delivery and tracking<br>purposes of your documents, you may ask the shop to use registered mail or courier. </p>
+<p>As soon as we get the requested documents, your refund will be processed accordingly. </p>
+<p>An approved Czech Republic form is valid for 6 months </p>
+<p>Thank you for understanding</p>
+<p>結論:原收據遺失需聯絡當初的店家要求將原收據及填上附件表格後<br>再郵寄或掛號給Global Blue才能進行退款流程。<br>時效在六個月內 :(</p>
+]]></content>
+      <categories>
+        <category>TaxFree</category>
+      </categories>
+      <tags>
+        <tag>TaxFree</tag>
+        <tag>GlobalBule</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>桌電檢測</title>
     <url>/posts/9541a16a/</url>
     <content><![CDATA[<h3 id="桌電檢測"><a href="#桌電檢測" class="headerlink" title="桌電檢測"></a>桌電檢測</h3><span id="more"></span>
@@ -1902,6 +1902,20 @@
       </tags>
   </entry>
   <entry>
+    <title>泰國 旅遊簽證 開戶被 拒絕過程</title>
+    <url>/posts/58457369/</url>
+    <content><![CDATA[<h2 id="泰國-旅遊簽證-開戶被-拒絕過程"><a href="#泰國-旅遊簽證-開戶被-拒絕過程" class="headerlink" title="泰國 旅遊簽證 開戶被 拒絕過程"></a>泰國 旅遊簽證 開戶被 拒絕過程</h2><span id="more"></span>
+<p>泰國 旅遊簽證 開戶被 拒絕過程</p>
+<h2 id="Process"><a href="#Process" class="headerlink" title="Process"></a>Process</h2><p>2024&#x2F;04去泰國曼谷試著用旅遊簽證開Saving account。<br>去了盤谷銀行總行及對面的開泰銀行分行，都被告知旅遊<br>簽證無法開戶，只有學生簽證、工作簽證、菁英簽證以上才<br>能開戶。</p>
+]]></content>
+      <categories>
+        <category>OpenSavingAccount</category>
+      </categories>
+      <tags>
+        <tag>OpenSavingAccount</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>測試 有條件式 線上申請 護照系統</title>
     <url>/posts/9701d302/</url>
     <content><![CDATA[<h2 id="測試-有條件式-線上申請-護照系統"><a href="#測試-有條件式-線上申請-護照系統" class="headerlink" title="測試 有條件式 線上申請 護照系統"></a>測試 有條件式 線上申請 護照系統</h2><span id="more"></span>
@@ -1915,20 +1929,6 @@
       </categories>
       <tags>
         <tag>Passport</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>泰國 旅遊簽證 開戶被 拒絕過程</title>
-    <url>/posts/58457369/</url>
-    <content><![CDATA[<h2 id="泰國-旅遊簽證-開戶被-拒絕過程"><a href="#泰國-旅遊簽證-開戶被-拒絕過程" class="headerlink" title="泰國 旅遊簽證 開戶被 拒絕過程"></a>泰國 旅遊簽證 開戶被 拒絕過程</h2><span id="more"></span>
-<p>泰國 旅遊簽證 開戶被 拒絕過程</p>
-<h2 id="Process"><a href="#Process" class="headerlink" title="Process"></a>Process</h2><p>2024&#x2F;04去泰國曼谷試著用旅遊簽證開Saving account。<br>去了盤谷銀行總行及對面的開泰銀行分行，都被告知旅遊<br>簽證無法開戶，只有學生簽證、工作簽證、菁英簽證以上才<br>能開戶。</p>
-]]></content>
-      <categories>
-        <category>OpenSavingAccount</category>
-      </categories>
-      <tags>
-        <tag>OpenSavingAccount</tag>
       </tags>
   </entry>
   <entry>
@@ -1986,22 +1986,6 @@
       </tags>
   </entry>
   <entry>
-    <title>第一項 錯誤思維</title>
-    <url>/posts/239d24ad/</url>
-    <content><![CDATA[<h2 id="第一項-錯誤思維"><a href="#第一項-錯誤思維" class="headerlink" title="第一項 錯誤思維"></a>第一項 錯誤思維</h2><span id="more"></span>
-<p>第一項 錯誤思維</p>
-<h2 id="第一項-錯誤思維-1"><a href="#第一項-錯誤思維-1" class="headerlink" title="第一項 錯誤思維"></a>第一項 錯誤思維</h2><p>#1 我們太在意短期的結果</p>
-<p>專家們不斷告誡我們要努力存錢與投資，二十年或<br>三十年後便可輕鬆退休。但我們依然故我，幾乎只<br>看得到此時此刻與此地。是否有非常想要購買的新<br>玩意?如果要說服我們延遲一年再購買，就得提供<br>豐厚的財務誘因。我們也會過度受到近期事件所影響<br>，包括最新的政治新聞、新公布的經濟數據以及金融<br>市場的即時漲跌。</p>
-<p>我們重視的是未來幾天和幾星期內的事情，卻不怎麼<br>在意未來一年，更別提未來十年的事。</p>
-]]></content>
-      <categories>
-        <category>Investment</category>
-      </categories>
-      <tags>
-        <tag>Investment</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第七項 錯誤思維</title>
     <url>/posts/70077f29/</url>
     <content><![CDATA[<h2 id="第七項-錯誤思維"><a href="#第七項-錯誤思維" class="headerlink" title="第七項 錯誤思維"></a>第七項 錯誤思維</h2><span id="more"></span>
@@ -2018,14 +2002,13 @@
       </tags>
   </entry>
   <entry>
-    <title>第二十一項 錯誤思維</title>
-    <url>/posts/b67ac009/</url>
-    <content><![CDATA[<h2 id="第二十一項-錯誤思維"><a href="#第二十一項-錯誤思維" class="headerlink" title="第二十一項 錯誤思維"></a>第二十一項 錯誤思維</h2><span id="more"></span>
-<p>第二十一項 錯誤思維</p>
-<h2 id="第二十一項-錯誤思維-1"><a href="#第二十一項-錯誤思維-1" class="headerlink" title="第二十一項 錯誤思維"></a>第二十一項 錯誤思維</h2><p>#21 受到心理帳號的影響</p>
-<p>有三種解釋，<br>一、我們會將財富分成三種不同的心理帳戶，而且以<br>不同的態度看待這三種帳號。例如，我們會開心地消費銀行帳戶裡<br>的錢，但是不願出售持有的基金，除非在非常緊急的情況下。</p>
-<p>二、大家會遵循專家的建議，分散投資。但是並不會關注整體投資的<br>績效，因而浪費了分散投資所產生的「情感」效益，只因為我們過度<br>在意個別持股的表現。</p>
-<p>三、要清楚區分投資收入以及出脫持股所獲得的收入。還記得嗎?<br>有句老話是這麼說的，「不要蝕本」。因此，退休的人通常會高興<br>地花費股息和利息，卻不願出售任何股票和債券。這種心態使得<br>退休的人多半會買進高受益投資，並因此承受了比他以為還要高<br>的風險。</p>
+    <title>第一項 錯誤思維</title>
+    <url>/posts/239d24ad/</url>
+    <content><![CDATA[<h2 id="第一項-錯誤思維"><a href="#第一項-錯誤思維" class="headerlink" title="第一項 錯誤思維"></a>第一項 錯誤思維</h2><span id="more"></span>
+<p>第一項 錯誤思維</p>
+<h2 id="第一項-錯誤思維-1"><a href="#第一項-錯誤思維-1" class="headerlink" title="第一項 錯誤思維"></a>第一項 錯誤思維</h2><p>#1 我們太在意短期的結果</p>
+<p>專家們不斷告誡我們要努力存錢與投資，二十年或<br>三十年後便可輕鬆退休。但我們依然故我，幾乎只<br>看得到此時此刻與此地。是否有非常想要購買的新<br>玩意?如果要說服我們延遲一年再購買，就得提供<br>豐厚的財務誘因。我們也會過度受到近期事件所影響<br>，包括最新的政治新聞、新公布的經濟數據以及金融<br>市場的即時漲跌。</p>
+<p>我們重視的是未來幾天和幾星期內的事情，卻不怎麼<br>在意未來一年，更別提未來十年的事。</p>
 ]]></content>
       <categories>
         <category>Investment</category>
@@ -2056,6 +2039,23 @@
 <p>第九項 錯誤思維</p>
 <h2 id="第九項-錯誤思維-1"><a href="#第九項-錯誤思維-1" class="headerlink" title="第九項 錯誤思維"></a>第九項 錯誤思維</h2><p>#9 將獲利的投資歸功於自己，將虧損的投資歸咎於他人</p>
 <p>如果買進某項投資，而後價格上漲，我們便將一切歸功於自己<br>聰明的決定；如果價格下滑，這一切就是證券經理人，政府裡<br>的庸才，或是電視名嘴的過錯，是他們讓我們信以為真。這種<br>將功勞歸功於自己、過錯歸於他人的錯覺，讓我們無法從錯誤中<br>學習，只會更加膨脹我們的自信心。這也可以解釋，為什麼股市<br>上揚時我們會看到明顯的從眾效應。當股價上漲，越來越多人<br>賺到錢，因而增加了他們的信心，更願意冒險。再加上所謂的<br>「賭資效應」，對於風險的胃納就愈高。這就好比賭場內的賭客，<br>傍晚時幸運贏錢，就以為自己比其他人高明，決定冒更大的風險。</p>
+]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第二十一項 錯誤思維</title>
+    <url>/posts/b67ac009/</url>
+    <content><![CDATA[<h2 id="第二十一項-錯誤思維"><a href="#第二十一項-錯誤思維" class="headerlink" title="第二十一項 錯誤思維"></a>第二十一項 錯誤思維</h2><span id="more"></span>
+<p>第二十一項 錯誤思維</p>
+<h2 id="第二十一項-錯誤思維-1"><a href="#第二十一項-錯誤思維-1" class="headerlink" title="第二十一項 錯誤思維"></a>第二十一項 錯誤思維</h2><p>#21 受到心理帳號的影響</p>
+<p>有三種解釋，<br>一、我們會將財富分成三種不同的心理帳戶，而且以<br>不同的態度看待這三種帳號。例如，我們會開心地消費銀行帳戶裡<br>的錢，但是不願出售持有的基金，除非在非常緊急的情況下。</p>
+<p>二、大家會遵循專家的建議，分散投資。但是並不會關注整體投資的<br>績效，因而浪費了分散投資所產生的「情感」效益，只因為我們過度<br>在意個別持股的表現。</p>
+<p>三、要清楚區分投資收入以及出脫持股所獲得的收入。還記得嗎?<br>有句老話是這麼說的，「不要蝕本」。因此，退休的人通常會高興<br>地花費股息和利息，卻不願出售任何股票和債券。這種心態使得<br>退休的人多半會買進高受益投資，並因此承受了比他以為還要高<br>的風險。</p>
 ]]></content>
       <categories>
         <category>Investment</category>
@@ -2096,6 +2096,40 @@
       </tags>
   </entry>
   <entry>
+    <title>第二項 錯誤思維</title>
+    <url>/posts/b351277f/</url>
+    <content><![CDATA[<h2 id="第二項-錯誤思維"><a href="#第二項-錯誤思維" class="headerlink" title="第二項 錯誤思維"></a>第二項 錯誤思維</h2><span id="more"></span>
+<p>第二項 錯誤思維</p>
+<h2 id="第二項-錯誤思維-1"><a href="#第二項-錯誤思維-1" class="headerlink" title="第二項 錯誤思維"></a>第二項 錯誤思維</h2><p>#2 我們缺乏自我控制</p>
+<p>儲蓄率之所以嚴重偏低，部分原因是我們<br>只看重眼前的一切，也反映出我們缺乏自我<br>控制。我們的祖先不需要為未來的退休生活<br>存錢而費心限制自己的消費，但我們確實需要<br>自我控制，即便對多數人來說，這是一輩子要<br>克服的難題。</p>
+]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第五級 領導</title>
+    <url>/posts/c3a30c76/</url>
+    <content><![CDATA[<h2 id="第五級-領導"><a href="#第五級-領導" class="headerlink" title="第五級 領導"></a>第五級 領導</h2><span id="more"></span>
+<p>第五級 領導</p>
+<h2 id="第五級-領導-1"><a href="#第五級-領導-1" class="headerlink" title="第五級 領導"></a>第五級 領導</h2><p>每一家從優秀到卓越的公司在關鍵轉變期中，都出現第五級領導。<br>第五級指的是管理能力的五個層級中最高的一級，第五級領導人<br>兼具兩種矛盾的特質，即謙沖為懷的個性和專業堅持的意志力。<br>他們當然雄心勃勃，但一切雄心壯志都是為了公司，而非自己。<br>選定接班人時，著眼於世代交替後公司會更成功；而極端自我<br>中心的第四級領導人選擇接班人時，通常都預期他們會失敗。<br>態度非常謙虛、低調，並且體諒他人。反之，在對照企業中，<br>三分之二的公司領導人非常自大，因此公司終於逐漸沒落或<br>始終表現平平。</p>
+<p>有極強烈的企圖心，而且無可救藥地需要看到具體的成果。<br>他們展現不屈不撓的毅力，無論面臨多大的考驗，決心盡<br>一切努力塑造一家卓越的公司。</p>
+<p>都展現了苦幹實幹、努力不懈的精神，比較像耕田馬，而<br>不是表演馬。</p>
+<p>在順境的時候，會往窗外看，把功勞歸於(自己以外的)其它<br>因素。但碰到橫逆的時候，他們會照鏡子，反躬自省，承擔<br>所有的責任。對照組執行長卻恰好相反。成功時，他們會照<br>鏡子，把功勞攬在身上；成績不如理想時，他們卻望望窗外，<br>開始怪罪他人。</p>
+<p>近來的企業發展史上，最具破壞性的趨勢(尤其是在董事會主<br>導下)就是挑選光彩奪目的企業明星來擔任領導人，而看不上<br>第五級領導人。</p>
+<p>我相信只要我們知道該尋找什麼特質，周遭到處都看得到有<br>潛力的第五級領導人，許多人都有可能發展成第五級領導人。</p>
+]]></content>
+      <categories>
+        <category>GoodToGreat</category>
+      </categories>
+      <tags>
+        <tag>GoodToGreat</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>第五項 錯誤思維</title>
     <url>/posts/4210f19c/</url>
     <content><![CDATA[<h2 id="第五項-錯誤思維"><a href="#第五項-錯誤思維" class="headerlink" title="第五項 錯誤思維"></a>第五項 錯誤思維</h2><span id="more"></span>
@@ -2111,12 +2145,12 @@
       </tags>
   </entry>
   <entry>
-    <title>第二項 錯誤思維</title>
-    <url>/posts/b351277f/</url>
-    <content><![CDATA[<h2 id="第二項-錯誤思維"><a href="#第二項-錯誤思維" class="headerlink" title="第二項 錯誤思維"></a>第二項 錯誤思維</h2><span id="more"></span>
-<p>第二項 錯誤思維</p>
-<h2 id="第二項-錯誤思維-1"><a href="#第二項-錯誤思維-1" class="headerlink" title="第二項 錯誤思維"></a>第二項 錯誤思維</h2><p>#2 我們缺乏自我控制</p>
-<p>儲蓄率之所以嚴重偏低，部分原因是我們<br>只看重眼前的一切，也反映出我們缺乏自我<br>控制。我們的祖先不需要為未來的退休生活<br>存錢而費心限制自己的消費，但我們確實需要<br>自我控制，即便對多數人來說，這是一輩子要<br>克服的難題。</p>
+    <title>第八項 錯誤思維</title>
+    <url>/posts/ef18a9d6/</url>
+    <content><![CDATA[<h2 id="第八項-錯誤思維"><a href="#第八項-錯誤思維" class="headerlink" title="第八項 錯誤思維"></a>第八項 錯誤思維</h2><span id="more"></span>
+<p>第八項 錯誤思維</p>
+<h2 id="第八項-錯誤思維-1"><a href="#第八項-錯誤思維-1" class="headerlink" title="第八項 錯誤思維"></a>第八項 錯誤思維</h2><p>#8 過度自信</p>
+<p>多數人相信自己的駕駛技術優於一般大眾，比多數人有智慧，<br>而且長得比別人好看。這不必然是不好的個性，樂觀且自信的<br>人通常比較快樂，比較能應付壓力，而且在所選擇的工作崗位<br>上也更容易成功。但現實畢竟不同於蓋瑞森，凱羅爾小說中<br>居住在烏比岡小鎮的兒童，我們不可能事事都高人一等。過度自信<br>會成為投資的阻礙，它會導致我們頻繁交易，讓我們自認為可以<br>打敗大盤，資金過度集中在少數投資標的。</p>
 ]]></content>
       <categories>
         <category>Investment</category>
@@ -2156,6 +2190,21 @@
       </tags>
   </entry>
   <entry>
+    <title>第十一項 錯誤思維</title>
+    <url>/posts/811dcf20/</url>
+    <content><![CDATA[<h2 id="第十一項-錯誤思維"><a href="#第十一項-錯誤思維" class="headerlink" title="第十一項 錯誤思維"></a>第十一項 錯誤思維</h2><span id="more"></span>
+<p>第十一項 錯誤思維</p>
+<h2 id="第十一項-錯誤思維-1"><a href="#第十一項-錯誤思維-1" class="headerlink" title="第十一項 錯誤思維"></a>第十一項 錯誤思維</h2><p>#11 鎖定特定價格</p>
+<p>假設聽聞鄰居的房子兩年前出售的價格是三十萬英鎊，即使房地<br>產價格在這兩年已出現下滑，仍可能會認定自己的房子至少也要<br>以這個價格出售。或者曾擁有股價高達五十英鎊的某檔股票，但<br>自此之後便一路下滑至三十英鎊，我們可能仍會堅持五十英鎊是<br>底線，拒絕以較低的價格出售。</p>
+]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>第十三項 錯誤思維</title>
     <url>/posts/e0ab4bfd/</url>
     <content><![CDATA[<h2 id="第十三項-錯誤思維"><a href="#第十三項-錯誤思維" class="headerlink" title="第十三項 錯誤思維"></a>第十三項 錯誤思維</h2><span id="more"></span>
@@ -2177,21 +2226,6 @@
 <p>第十九項 錯誤思維</p>
 <h2 id="第十九項-錯誤思維-1"><a href="#第十九項-錯誤思維-1" class="headerlink" title="第十九項 錯誤思維"></a>第十九項 錯誤思維</h2><p>#19 相信「大多數」</p>
 <p>只要去買「每個人都在買」的投資標的，就不需要太過擔心這筆投資。<br>但是，這麼做會影響我們的投資報酬率。當你在挑選餐廳或電影時，<br>人氣或許是很好用的指標，但如果是選擇投資標的，很可能會成為<br>一場災難，因為我們會發現自己買進了價格過高的投資標的。</p>
-]]></content>
-      <categories>
-        <category>Investment</category>
-      </categories>
-      <tags>
-        <tag>Investment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第十一項 錯誤思維</title>
-    <url>/posts/811dcf20/</url>
-    <content><![CDATA[<h2 id="第十一項-錯誤思維"><a href="#第十一項-錯誤思維" class="headerlink" title="第十一項 錯誤思維"></a>第十一項 錯誤思維</h2><span id="more"></span>
-<p>第十一項 錯誤思維</p>
-<h2 id="第十一項-錯誤思維-1"><a href="#第十一項-錯誤思維-1" class="headerlink" title="第十一項 錯誤思維"></a>第十一項 錯誤思維</h2><p>#11 鎖定特定價格</p>
-<p>假設聽聞鄰居的房子兩年前出售的價格是三十萬英鎊，即使房地<br>產價格在這兩年已出現下滑，仍可能會認定自己的房子至少也要<br>以這個價格出售。或者曾擁有股價高達五十英鎊的某檔股票，但<br>自此之後便一路下滑至三十英鎊，我們可能仍會堅持五十英鎊是<br>底線，拒絕以較低的價格出售。</p>
 ]]></content>
       <categories>
         <category>Investment</category>
@@ -2501,19 +2535,6 @@
       </tags>
   </entry>
   <entry>
-    <title>處理腳踝扭傷</title>
-    <url>/posts/508b0447/</url>
-    <content><![CDATA[<h3 id="處理腳踝扭傷"><a href="#處理腳踝扭傷" class="headerlink" title="處理腳踝扭傷"></a>處理腳踝扭傷</h3><span id="more"></span>
-<p>這篇介紹處理腳踝扭傷。</p>
-<h3 id="處理步驟"><a href="#處理步驟" class="headerlink" title="處理步驟"></a>處理步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.先進行冰敷，每小時冰15分鐘</span><br><span class="line">2.腳踝腫起來，走路會痛到無法走的話 =&gt; 先去看急診骨科 + X光檢查</span><br><span class="line">3.骨科確認骨頭沒事後，改看復健科。</span><br><span class="line">4.這段期間持續冰敷緩解疼痛!</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Ankle</category>
-      </categories>
-      <tags>
-        <tag>Ankle</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>記錄換機油 變速箱油所需材料</title>
     <url>/posts/8e77708b/</url>
     <content><![CDATA[<h3 id="記錄換機油-變速箱油所需材料"><a href="#記錄換機油-變速箱油所需材料" class="headerlink" title="記錄換機油 變速箱油所需材料"></a>記錄換機油 變速箱油所需材料</h3><span id="more"></span>
@@ -2541,18 +2562,16 @@
       </tags>
   </entry>
   <entry>
-    <title>第八項 錯誤思維</title>
-    <url>/posts/ef18a9d6/</url>
-    <content><![CDATA[<h2 id="第八項-錯誤思維"><a href="#第八項-錯誤思維" class="headerlink" title="第八項 錯誤思維"></a>第八項 錯誤思維</h2><span id="more"></span>
-<p>第八項 錯誤思維</p>
-<h2 id="第八項-錯誤思維-1"><a href="#第八項-錯誤思維-1" class="headerlink" title="第八項 錯誤思維"></a>第八項 錯誤思維</h2><p>#8 過度自信</p>
-<p>多數人相信自己的駕駛技術優於一般大眾，比多數人有智慧，<br>而且長得比別人好看。這不必然是不好的個性，樂觀且自信的<br>人通常比較快樂，比較能應付壓力，而且在所選擇的工作崗位<br>上也更容易成功。但現實畢竟不同於蓋瑞森，凱羅爾小說中<br>居住在烏比岡小鎮的兒童，我們不可能事事都高人一等。過度自信<br>會成為投資的阻礙，它會導致我們頻繁交易，讓我們自認為可以<br>打敗大盤，資金過度集中在少數投資標的。</p>
-]]></content>
+    <title>處理腳踝扭傷</title>
+    <url>/posts/508b0447/</url>
+    <content><![CDATA[<h3 id="處理腳踝扭傷"><a href="#處理腳踝扭傷" class="headerlink" title="處理腳踝扭傷"></a>處理腳踝扭傷</h3><span id="more"></span>
+<p>這篇介紹處理腳踝扭傷。</p>
+<h3 id="處理步驟"><a href="#處理步驟" class="headerlink" title="處理步驟"></a>處理步驟</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">1.先進行冰敷，每小時冰15分鐘</span><br><span class="line">2.腳踝腫起來，走路會痛到無法走的話 =&gt; 先去看急診骨科 + X光檢查</span><br><span class="line">3.骨科確認骨頭沒事後，改看復健科。</span><br><span class="line">4.這段期間持續冰敷緩解疼痛!</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Investment</category>
+        <category>Ankle</category>
       </categories>
       <tags>
-        <tag>Investment</tag>
+        <tag>Ankle</tag>
       </tags>
   </entry>
   <entry>
@@ -2596,18 +2615,16 @@
       </tags>
   </entry>
   <entry>
-    <title>關於股票 重覆申購</title>
-    <url>/posts/8a962f67/</url>
-    <content><![CDATA[<h3 id="關於股票-重覆申購"><a href="#關於股票-重覆申購" class="headerlink" title="關於股票 重覆申購"></a>關於股票 重覆申購</h3><span id="more"></span>
-<p>這篇介紹關於股票 重覆申購。</p>
-<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">2023/04 台股有一支金融股可以申購，用兩個證券帳戶都一起</span><br><span class="line">申購的話，會收到兩張掛號信，來自XX證券股份有限公司。</span><br><span class="line"></span><br><span class="line">上面會寫 重覆申購，請逕洽原投件經紀商查詢。</span><br><span class="line"></span><br><span class="line">依證券商承銷或再行銷售有價證券處理辦法 第五十六條規定，不得</span><br><span class="line">參加抽籤，特此通知並請注意，以確保台端權益。</span><br><span class="line"></span><br><span class="line">一家證券商一次需付20元，共損失40元。</span><br></pre></td></tr></table></figure>
-]]></content>
+    <title>關於 CHROME REMOTE DESKTOP 延伸螢幕</title>
+    <url>/posts/8bd7e342/</url>
+    <content><![CDATA[<h3 id="關於CHROME-REMOTE-DESKTOP-延伸螢幕"><a href="#關於CHROME-REMOTE-DESKTOP-延伸螢幕" class="headerlink" title="關於CHROME REMOTE DESKTOP 延伸螢幕"></a>關於CHROME REMOTE DESKTOP 延伸螢幕</h3><span id="more"></span>
+<p>這篇介紹關於CHROME REMOTE DESKTOP 延伸螢幕。</p>
+<h3 id="PC-Versus-Mobile"><a href="#PC-Versus-Mobile" class="headerlink" title="PC Versus Mobile"></a>PC Versus Mobile</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">欲遠端的電腦有延伸螢幕，只有PC版使用Chrome Remote </span><br><span class="line">Desktop遠端過去時可以選要檢視哪一個螢幕</span><br><span class="line"></span><br><span class="line">手機版遠端過去只能看到延伸螢幕的畫面</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>Investment</category>
+        <category>Software</category>
       </categories>
       <tags>
-        <tag>Investment</tag>
-        <tag>Stock</tag>
+        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
@@ -2624,6 +2641,21 @@
       </tags>
   </entry>
   <entry>
+    <title>關於股票 重覆申購</title>
+    <url>/posts/8a962f67/</url>
+    <content><![CDATA[<h3 id="關於股票-重覆申購"><a href="#關於股票-重覆申購" class="headerlink" title="關於股票 重覆申購"></a>關於股票 重覆申購</h3><span id="more"></span>
+<p>這篇介紹關於股票 重覆申購。</p>
+<h3 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">2023/04 台股有一支金融股可以申購，用兩個證券帳戶都一起</span><br><span class="line">申購的話，會收到兩張掛號信，來自XX證券股份有限公司。</span><br><span class="line"></span><br><span class="line">上面會寫 重覆申購，請逕洽原投件經紀商查詢。</span><br><span class="line"></span><br><span class="line">依證券商承銷或再行銷售有價證券處理辦法 第五十六條規定，不得</span><br><span class="line">參加抽籤，特此通知並請注意，以確保台端權益。</span><br><span class="line"></span><br><span class="line">一家證券商一次需付20元，共損失40元。</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Investment</category>
+      </categories>
+      <tags>
+        <tag>Investment</tag>
+        <tag>Stock</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於電費帳單上的用電戶名</title>
     <url>/posts/f30d80cc/</url>
     <content><![CDATA[<h3 id="關於電費帳單上的用電戶名"><a href="#關於電費帳單上的用電戶名" class="headerlink" title="關於電費帳單上的用電戶名"></a>關於電費帳單上的用電戶名</h3><span id="more"></span>
@@ -2634,19 +2666,6 @@
       </categories>
       <tags>
         <tag>Bill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 CHROME REMOTE DESKTOP 延伸螢幕</title>
-    <url>/posts/8bd7e342/</url>
-    <content><![CDATA[<h3 id="關於CHROME-REMOTE-DESKTOP-延伸螢幕"><a href="#關於CHROME-REMOTE-DESKTOP-延伸螢幕" class="headerlink" title="關於CHROME REMOTE DESKTOP 延伸螢幕"></a>關於CHROME REMOTE DESKTOP 延伸螢幕</h3><span id="more"></span>
-<p>這篇介紹關於CHROME REMOTE DESKTOP 延伸螢幕。</p>
-<h3 id="PC-Versus-Mobile"><a href="#PC-Versus-Mobile" class="headerlink" title="PC Versus Mobile"></a>PC Versus Mobile</h3><figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">欲遠端的電腦有延伸螢幕，只有PC版使用Chrome Remote </span><br><span class="line">Desktop遠端過去時可以選要檢視哪一個螢幕</span><br><span class="line"></span><br><span class="line">手機版遠端過去只能看到延伸螢幕的畫面</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Software</category>
-      </categories>
-      <tags>
-        <tag>Software</tag>
       </tags>
   </entry>
   <entry>
