@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://davidchenlab.com/posts/4836ab41/</loc>
+    
+    <lastmod>2024-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/80fd268d/</loc>
     
     <lastmod>2024-12-26</lastmod>
@@ -470,15 +479,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/8a962f67/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/posts/d6f0d53a/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -488,7 +488,16 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/24fe481a/</loc>
+    <loc>https://davidchenlab.com/posts/8a962f67/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/posts/8948fe9a/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -506,7 +515,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/8948fe9a/</loc>
+    <loc>https://davidchenlab.com/posts/24fe481a/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -605,6 +614,15 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/posts/37c5f29e/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/67768091/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -615,15 +633,6 @@
   
   <url>
     <loc>https://davidchenlab.com/posts/3180caaa/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/37c5f29e/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -686,6 +695,15 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/posts/9e2e358a/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/c19426bb/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -696,15 +714,6 @@
   
   <url>
     <loc>https://davidchenlab.com/posts/c617a7ad/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/9e2e358a/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -740,7 +749,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/88cc88e7/</loc>
+    <loc>https://davidchenlab.com/posts/b9c8e96d/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -749,7 +758,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/b9c8e96d/</loc>
+    <loc>https://davidchenlab.com/posts/88cc88e7/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -794,15 +803,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/2b00de1b/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/posts/ac3729c9/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -821,7 +821,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/8f898476/</loc>
+    <loc>https://davidchenlab.com/posts/2b00de1b/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -839,34 +839,16 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/posts/8f898476/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/d92f717/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/36ca54ae/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/2c54dd50/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/b1468c1b/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -884,6 +866,33 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/posts/36ca54ae/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/posts/b1468c1b/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/posts/2c54dd50/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/665e53eb/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -893,7 +902,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/8a359b61/</loc>
+    <loc>https://davidchenlab.com/posts/1b61ccd7/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -902,7 +911,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/1b61ccd7/</loc>
+    <loc>https://davidchenlab.com/posts/8a359b61/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -929,15 +938,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/db76f4a5/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/posts/236b328d/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -947,7 +947,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/6b99881a/</loc>
+    <loc>https://davidchenlab.com/posts/db76f4a5/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -957,6 +957,15 @@
   
   <url>
     <loc>https://davidchenlab.com/posts/fd800bac/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/posts/6b99881a/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1055,7 +1064,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/116c993/</loc>
+    <loc>https://davidchenlab.com/posts/869bdc39/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1064,7 +1073,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/869bdc39/</loc>
+    <loc>https://davidchenlab.com/posts/116c993/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1082,15 +1091,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/d914076d/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/posts/4f37cb56/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -1100,7 +1100,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/2c521d7f/</loc>
+    <loc>https://davidchenlab.com/posts/d914076d/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1118,7 +1118,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/bea63895/</loc>
+    <loc>https://davidchenlab.com/posts/2c521d7f/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1127,7 +1127,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/ba6f7102/</loc>
+    <loc>https://davidchenlab.com/posts/bea63895/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1154,6 +1154,15 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/posts/ba6f7102/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/485f1658/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -1163,7 +1172,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/1e2efed1/</loc>
+    <loc>https://davidchenlab.com/posts/fbe6cd1a/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1172,7 +1181,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/fbe6cd1a/</loc>
+    <loc>https://davidchenlab.com/posts/1e2efed1/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1235,7 +1244,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/258a46e7/</loc>
+    <loc>https://davidchenlab.com/posts/e727e019/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1244,7 +1253,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/e727e019/</loc>
+    <loc>https://davidchenlab.com/posts/258a46e7/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1280,6 +1289,15 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/posts/e0aa58e3/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/58c9d08d/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -1290,15 +1308,6 @@
   
   <url>
     <loc>https://davidchenlab.com/posts/4fbb1087/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/e0aa58e3/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1406,7 +1415,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/be6408dd/</loc>
+    <loc>https://davidchenlab.com/posts/7fe69b15/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1415,7 +1424,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/7fe69b15/</loc>
+    <loc>https://davidchenlab.com/posts/be6408dd/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1433,7 +1442,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/cdcfcf86/</loc>
+    <loc>https://davidchenlab.com/posts/d15c396c/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1442,7 +1451,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/d15c396c/</loc>
+    <loc>https://davidchenlab.com/posts/cdcfcf86/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1478,7 +1487,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/fff241af/</loc>
+    <loc>https://davidchenlab.com/posts/d107aedb/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1487,7 +1496,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/d107aedb/</loc>
+    <loc>https://davidchenlab.com/posts/fff241af/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1523,7 +1532,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/7c0a4bc2/</loc>
+    <loc>https://davidchenlab.com/posts/3ba01d20/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1532,7 +1541,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/3ba01d20/</loc>
+    <loc>https://davidchenlab.com/posts/7c0a4bc2/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1559,15 +1568,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/66e7e840/</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/posts/2f054923/</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -1578,6 +1578,15 @@
   
   <url>
     <loc>https://davidchenlab.com/posts/2182ee8e/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/posts/66e7e840/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1604,7 +1613,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/9daa0aa/</loc>
+    <loc>https://davidchenlab.com/posts/f243486e/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1613,7 +1622,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/f243486e/</loc>
+    <loc>https://davidchenlab.com/posts/9daa0aa/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1640,7 +1649,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/a8e9019/</loc>
+    <loc>https://davidchenlab.com/posts/828a084/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1649,7 +1658,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/828a084/</loc>
+    <loc>https://davidchenlab.com/posts/a8e9019/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -1674,6 +1683,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Emergy/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Taxi/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -1682,6 +1698,13 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/Traffic/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Travel/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1702,7 +1725,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Travel/</loc>
+    <loc>https://davidchenlab.com/tags/Roasting/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1730,27 +1753,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Emergy/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Roasting/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Evisa/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/tags/Management/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -1765,7 +1767,21 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Evisa/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Investment/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Chrome/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1800,14 +1816,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Chrome/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/GoodToGreat/</loc>
+    <loc>https://davidchenlab.com/tags/Book/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1821,7 +1830,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Book/</loc>
+    <loc>https://davidchenlab.com/tags/GoodToGreat/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1863,20 +1872,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/FTP/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/000webhost/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/tags/SMTP/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -1898,6 +1893,34 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/FTP/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/000webhost/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Ledger/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Metamask/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Music/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -1913,20 +1936,6 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/Fraud/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Ledger/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Metamask/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2031,6 +2040,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/PersonalComputer/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Scam/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2066,13 +2082,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/PersonalComputer/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/tags/PlaneTicket/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2101,14 +2110,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Medicine/</loc>
+    <loc>https://davidchenlab.com/tags/GMAIL/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/GMAIL/</loc>
+    <loc>https://davidchenlab.com/tags/Medicine/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2123,20 +2132,6 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/Domestic/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/CathayPacific/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Ambassador/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2164,6 +2159,20 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/CathayPacific/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Ambassador/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/DebitCard/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2172,6 +2181,13 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/PhysicalExamination/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Google/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2200,13 +2216,6 @@
   
   <url>
     <loc>https://davidchenlab.com/tags/BackPack/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Google/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2311,6 +2320,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Ankle/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/TV/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2325,14 +2341,21 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Ankle/</loc>
+    <loc>https://davidchenlab.com/tags/Fishing/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/LaserEyeSurgery/</loc>
+    <loc>https://davidchenlab.com/tags/BoatFishing/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/tags/Regulator/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2353,13 +2376,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Regulator/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/tags/Software/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2367,7 +2383,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/tags/Stock/</loc>
+    <loc>https://davidchenlab.com/tags/LaserEyeSurgery/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2381,21 +2397,14 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/tags/Stock/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/tags/Wine/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/Fishing/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/tags/BoatFishing/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2411,14 +2420,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Taxi/</loc>
+    <loc>https://davidchenlab.com/categories/Emergy/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Coffee/</loc>
+    <loc>https://davidchenlab.com/categories/Taxi/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2432,21 +2441,14 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Coffee/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/MacAir/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Emergy/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Evisa/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2467,14 +2469,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Investment/</loc>
+    <loc>https://davidchenlab.com/categories/Evisa/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Website/</loc>
+    <loc>https://davidchenlab.com/categories/Investment/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2488,7 +2490,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/GoodToGreat/</loc>
+    <loc>https://davidchenlab.com/categories/Website/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/Book/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2502,7 +2511,7 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Book/</loc>
+    <loc>https://davidchenlab.com/categories/GoodToGreat/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2523,6 +2532,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Ledger/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/Music/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2531,13 +2547,6 @@
   
   <url>
     <loc>https://davidchenlab.com/categories/Internet/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Ledger/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2607,6 +2616,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/PersonalComputer/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/Scam/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2635,13 +2651,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/PersonalComputer/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/categories/PlaneTicket/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2656,14 +2665,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/ATM/</loc>
+    <loc>https://davidchenlab.com/categories/Traffic/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Medicine/</loc>
+    <loc>https://davidchenlab.com/categories/ATM/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2677,7 +2686,28 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Medicine/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/Flight/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/Tissue/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/CreditCard/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2698,27 +2728,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Tissue/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Traffic/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/CreditCard/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/categories/DebitCard/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2733,6 +2742,13 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Google/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/Globe/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2741,13 +2757,6 @@
   
   <url>
     <loc>https://davidchenlab.com/categories/BackPack/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Google/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2817,13 +2826,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/TV/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/categories/Ankle/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2831,14 +2833,14 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/LaserEyeSurgery/</loc>
+    <loc>https://davidchenlab.com/categories/TV/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/categories/Marathon/</loc>
+    <loc>https://davidchenlab.com/categories/Fishing/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2852,7 +2854,21 @@
   </url>
   
   <url>
+    <loc>https://davidchenlab.com/categories/Marathon/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/categories/Software/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidchenlab.com/categories/LaserEyeSurgery/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2867,13 +2883,6 @@
   
   <url>
     <loc>https://davidchenlab.com/categories/Wine/</loc>
-    <lastmod>2024-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/categories/Fishing/</loc>
     <lastmod>2024-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
