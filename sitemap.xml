@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://davidchenlab.com/posts/1d35725e/</loc>
+    
+    <lastmod>2026-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://davidchenlab.com/posts/8555e8a7/</loc>
     
     <lastmod>2026-11-26</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://davidchenlab.com/posts/599bbdef/</loc>
     
     <lastmod>2026-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/5772a890/</loc>
-    
-    <lastmod>2026-08-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -212,15 +212,6 @@
     <loc>https://davidchenlab.com/posts/8e1d76bb/</loc>
     
     <lastmod>2025-05-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/f6e25e06/</loc>
-    
-    <lastmod>2025-04-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1289,15 +1280,6 @@
   </url>
   
   <url>
-    <loc>https://davidchenlab.com/posts/b9c8e96d/</loc>
-    
-    <lastmod>2022-10-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://davidchenlab.com/posts/88cc88e7/</loc>
     
     <lastmod>2022-10-26</lastmod>
@@ -1616,15 +1598,6 @@
     <loc>https://davidchenlab.com/posts/3ba01d20/</loc>
     
     <lastmod>2021-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://davidchenlab.com/posts/46d67672/</loc>
-    
-    <lastmod>2021-11-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
